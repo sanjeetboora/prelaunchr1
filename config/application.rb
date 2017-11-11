@@ -1,10 +1,7 @@
 require File.expand_path('../boot', __FILE__)
 
 require 'rails/all'
-
-
 Bundler.require(*Rails.groups)
-
 module Prelaunchr
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
