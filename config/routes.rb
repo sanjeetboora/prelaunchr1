@@ -1,16 +1,18 @@
 Rails.application.routes.draw do
+  devise_for :admins
+  resources :prizes, except: :show
+  resources :settings, only: [:create, :update, :index]
 
-  ActiveAdmin.routes(self)
-
-  devise_for :admin_users, ActiveAdmin::Devise.config
-
-  root :to => "users#new"
-
-  post 'users/create' => 'users#create'
-  get 'refer-a-friend' => 'users#refer'
-  get 'privacy-policy' => 'users#policy'
-
-  unless Rails.application.config.consider_all_requests_local
-    get '*not_found', to: 'users#redirect', :format => false
+  resources :users, only: [:index, :create, :show, :destroy] do
+	resources :shares, only: [] do
+	  collection do 
+	    get "/" => "shares#create"
+	  end
+	end
   end
+
+  root "users#new"
+  get "privacy" => "pages#privacy"
+
+
 end

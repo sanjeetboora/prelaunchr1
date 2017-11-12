@@ -1,29 +1,13 @@
 class ApplicationController < ActionController::Base
-  protect_from_forgery
+  protect_from_forgery with: :exception
 
-  before_filter :ref_to_cookie
 
-  def mobile_device?
-    if session[:mobile_param]
-      session[:mobile_param] == '1'
-    else
-      request.user_agent =~ /Mobile|webOS/
-    end
+  def after_sign_in_path_for(resource_or_scope)
+  	users_path
   end
 
-  protected
-
-  def ref_to_cookie
-    campaign_ended = Rails.application.config.ended
-    return if campaign_ended || !params[:ref]
-
-    unless User.find_by_referral_code(params[:ref]).nil?
-      h_ref = { value: params[:ref], expires: 1.week.from_now }
-      cookies[:h_ref] = h_ref
-    end
-
-    user_agent = request.env['HTTP_USER_AGENT']
-    return unless user_agent && !user_agent.include?('facebookexternalhit/1.1')
-    redirect_to proc { url_for(params.except(:ref)) }
+  def authenticate_admin
+  	redirect_to root_path, notice: "You do not have rights to perform this action" unless admin_signed_in?
   end
+
 end
