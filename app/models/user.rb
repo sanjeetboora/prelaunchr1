@@ -49,7 +49,21 @@ class User < ActiveRecord::Base
     def number_of_referrals
         referrals.count
     end
+    if (number_of_referrals == 5){
+        prize.name = "Rs. 200 OFF"
+    }
+    if (number_of_referrals == 10){
+        prize.name = "Rs. 400 OFF"
+    }
 
+    if (number_of_referrals == 15){
+        prize.name = "Free test login + 1200 Questions Bank"
+    }
+    
+    if (number_of_referrals == 20){
+        prize.name = "All + One on one personal mentoring"
+    }
+    
     def social_url(social_network)
         "/users/#{referral_code}/shares?share%5Bsocial_network%5D=#{social_network}"
     end
@@ -101,14 +115,14 @@ class User < ActiveRecord::Base
     end
 
     def generate_referral_code
-	    loop do
-	      code = SecureRandom.hex(5)
-	      break code unless self.class.where(referral_code: code).exists?
-	    end
-    end
+       loop do
+         code = SecureRandom.hex(5)
+         break code unless self.class.where(referral_code: code).exists?
+     end
+ end
 
-    def welcome_email
-        UserMailer.delay.sign_up_email(self)
-    end
+ def welcome_email
+    UserMailer.delay.sign_up_email(self)
+end
 
 end

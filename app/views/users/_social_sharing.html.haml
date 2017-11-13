@@ -17,7 +17,7 @@
 		%li
 			%a.foo_social.ico-pinterest{:href => @user.social_url("pinterest"), target: "_blank"}
 				%i.fa.fa-pinterest
-
+				
 		%li
 			%a.foo_social.ico-mail{:href => "mailto:?&subject=#{Setting.sharing[:email_subject]}&body=#{Setting.sharing[:email_message] + " " + @user.referral_url(root_url)}", target: "_blank"}
 				%i.fa.fa-envelope
