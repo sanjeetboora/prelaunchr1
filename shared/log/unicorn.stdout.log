@@ -1,0 +1,2005 @@
+source=rack-timeout id=4d51760a0fcfe98b9be60949bc61fa05 timeout=10000ms state=ready
+Started GET "/" for 103.74.147.26 at 2017-11-13 20:00:08 +0000
+source=rack-timeout id=4d51760a0fcfe98b9be60949bc61fa05 timeout=10000ms service=6ms state=active
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (14.7ms)
+  Rendered users/new.html.haml within layouts/application (53.7ms)
+  [1m[36mSetting Load (0.7ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.1ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (45.2ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 130ms (Views: 108.1ms | ActiveRecord: 6.7ms)
+source=rack-timeout id=4d51760a0fcfe98b9be60949bc61fa05 timeout=10000ms service=167ms state=completed
+source=rack-timeout id=a2ae6cbcc8c25fd515ca05d84e35131d timeout=10000ms state=ready
+source=rack-timeout id=a2ae6cbcc8c25fd515ca05d84e35131d timeout=10000ms service=1ms state=active
+Started GET "/" for 107.170.96.6 at 2017-11-13 20:00:09 +0000
+Processing by UsersController#new as */*
+  Rendered users/_form.html.haml (14.4ms)
+  Rendered users/new.html.haml within layouts/application (53.8ms)
+  [1m[36mSetting Load (0.6ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (46.2ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 132ms (Views: 109.5ms | ActiveRecord: 6.8ms)
+source=rack-timeout id=a2ae6cbcc8c25fd515ca05d84e35131d timeout=10000ms service=168ms state=completed
+source=rack-timeout id=62e0b444f3419886f9cd07ab29435ac5 timeout=10000ms state=ready
+Started GET "/" for 106.51.111.65 at 2017-11-13 20:01:11 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.7ms)
+  Rendered users/new.html.haml within layouts/application (2.0ms)
+  [1m[35mSetting Load (0.5ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+source=rack-timeout id=62e0b444f3419886f9cd07ab29435ac5 timeout=10000ms service=7ms state=active
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.4ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.7ms)
+source=rack-timeout id=62e0b444f3419886f9cd07ab29435ac5 timeout=10000ms service=11ms state=completed
+source=rack-timeout id=763639791a8ec78d776bda491d10c94a timeout=10000ms state=ready
+Started GET "/" for 64.233.173.11 at 2017-11-13 20:01:22 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.7ms)
+  Rendered users/new.html.haml within layouts/application (2.0ms)
+source=rack-timeout id=763639791a8ec78d776bda491d10c94a timeout=10000ms service=7ms state=active
+  [1m[35mSetting Load (0.5ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.3ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=763639791a8ec78d776bda491d10c94a timeout=10000ms service=12ms state=completed
+source=rack-timeout id=735abf6a58961ec3dacb5110aededc3b timeout=10000ms state=ready
+source=rack-timeout id=735abf6a58961ec3dacb5110aededc3b timeout=10000ms service=0ms state=active
+Started POST "/users" for 103.74.147.26 at 2017-11-13 20:01:28 +0000
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NUAAP/jaKu5oEib1gozq6UJnyXKHb6axm3pXU7vRDKSY/4dMnqecn8PY6gTTN7rGFHuhKr9pBZe9pz55BYqiYw==", "user"=>{"email"=>"snjmithu@gmail.com"}, "commit"=>"STEP INSIDE"}
+  [1m[36m (0.5ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."email" = $1[0m  [["email", "snjmithu@gmail.com"]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."email" = 'snjmithu@gmail.com' LIMIT 1[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."ip_address" = '103.74.147.26' LIMIT 1
+  [1m[36mUser Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1[0m  [["referral_code", "d9b660a818"]]
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "users" ("email", "ip_address", "created_at", "updated_at", "referral_code") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["email", "snjmithu@gmail.com"], ["ip_address", "103.74.147.26"], ["created_at", "2017-11-13 20:01:28.521848"], ["updated_at", "2017-11-13 20:01:28.521848"], ["referral_code", "d9b660a818"]]
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "delayed_jobs" ("handler", "run_at", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["handler", "--- !ruby/object:Delayed::PerformableMailer\nobject: !ruby/class 'UserMailer'\nmethod_name: :sign_up_email\nargs:\n- !ruby/object:User\n  raw_attributes:\n    email: snjmithu@gmail.com\n    ip_address: 103.74.147.26\n    id: '1'\n    created_at: &1 2017-11-13 20:01:28.521848879 Z\n    updated_at: *1\n    referral_code: d9b660a818\n    referrer_id: \n  attributes: !ruby/object:ActiveRecord::AttributeSet\n    attributes: !ruby/object:ActiveRecord::LazyAttributeHash\n      types:\n        id: &3 !ruby/object:ActiveRecord::ConnectionAdapters::PostgreSQL::OID::Integer\n          precision: \n          scale: \n          limit: \n          range: !ruby/range\n            begin: -2147483648\n            end: 2147483648\n            excl: true\n        email: &2 !ruby/object:ActiveRecord::Type::String\n          precision: \n          scale: \n          limit: \n        referral_code: *2\n        referrer_id: *3\n        ip_address: *2\n        created_at: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n          subtype: &4 !ruby/object:ActiveRecord::ConnectionAdapters::PostgreSQL::OID::DateTime\n            precision: \n            scale: \n            limit: \n        updated_at: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n          subtype: *4\n      values:\n        id: \n        email: \n        referral_code: \n        referrer_id: \n        ip_address: \n        created_at: \n        updated_at: \n      additional_types: {}\n      materialized: true\n      delegate_hash:\n        email: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: email\n          value_before_type_cast: snjmithu@gmail.com\n          type: *2\n          value: snjmithu@gmail.com\n        ip_address: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: ip_address\n          value_before_type_cast: 103.74.147.26\n          type: *2\n          value: 103.74.147.26\n        id: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: id\n          value_before_type_cast: '1'\n          type: *3\n          value: 1\n        created_at: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: created_at\n          value_before_type_cast: *1\n          type: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n            subtype: *4\n          value: *1\n        updated_at: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: updated_at\n          value_before_type_cast: *1\n          type: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n            subtype: *4\n          value: *1\n        referral_code: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: referral_code\n          value_before_type_cast: d9b660a818\n          type: *2\n          value: d9b660a818\n        referrer_id: !ruby/object:ActiveRecord::Attribute::FromDatabase\n          name: referrer_id\n          value_before_type_cast: \n          type: *3\n  new_record: false\n"], ["run_at", "2017-11-13 20:01:28.538657"], ["created_at", "2017-11-13 20:01:28.539648"], ["updated_at", "2017-11-13 20:01:28.539648"]]
+  [1m[35m (0.9ms)[0m  COMMIT
+Redirected to http://13.127.18.23/users/d9b660a818
+Completed 302 Found in 31ms (ActiveRecord: 4.1ms)
+source=rack-timeout id=735abf6a58961ec3dacb5110aededc3b timeout=10000ms service=37ms state=completed
+source=rack-timeout id=3bbb5186be5a41b71ac8116b9bc12708 timeout=10000ms state=ready
+source=rack-timeout id=3bbb5186be5a41b71ac8116b9bc12708 timeout=10000ms service=0ms state=active
+Started GET "/users/d9b660a818" for 64.233.173.13 at 2017-11-13 20:01:28 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"d9b660a818"}
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1[0m  [["referral_code", "d9b660a818"]]
+  [1m[35mSetting Load (0.4ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered users/_social_sharing.html.haml (9.5ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered users/show.html.haml within layouts/application (27.8ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.7ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 40ms (Views: 32.9ms | ActiveRecord: 1.5ms)
+source=rack-timeout id=3bbb5186be5a41b71ac8116b9bc12708 timeout=10000ms service=43ms state=completed
+source=rack-timeout id=e86f339ae16c7f28db910d725a6d1a6d timeout=10000ms state=ready
+source=rack-timeout id=e86f339ae16c7f28db910d725a6d1a6d timeout=10000ms service=0ms state=active
+Started GET "/users" for 162.243.69.215 at 2017-11-13 20:01:29 +0000
+Processing by UsersController#index as */*
+Redirected to http://13.127.18.23/
+Filter chain halted as :authenticate_admin rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+source=rack-timeout id=e86f339ae16c7f28db910d725a6d1a6d timeout=10000ms service=3ms state=completed
+source=rack-timeout id=dd6c0c3d3c52312dbb272dbfb4e1a0df timeout=10000ms state=ready
+source=rack-timeout id=dd6c0c3d3c52312dbb272dbfb4e1a0df timeout=10000ms service=0ms state=active
+Started GET "/" for 42.110.159.83 at 2017-11-13 20:01:29 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.7ms)
+  Rendered users/new.html.haml within layouts/application (2.0ms)
+  [1m[35mSetting Load (0.4ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.3ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=dd6c0c3d3c52312dbb272dbfb4e1a0df timeout=10000ms service=12ms state=completed
+source=rack-timeout id=21f2ef94d4f54af9e644df548f8130bc timeout=10000ms state=ready
+source=rack-timeout id=21f2ef94d4f54af9e644df548f8130bc timeout=10000ms service=0ms state=active
+Started GET "/" for 14.142.64.3 at 2017-11-13 20:01:32 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.9ms)
+  Rendered users/new.html.haml within layouts/application (2.2ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (4.4ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.7ms)
+source=rack-timeout id=21f2ef94d4f54af9e644df548f8130bc timeout=10000ms service=12ms state=completed
+source=rack-timeout id=d8f50a116ccd66821c1f8a7ab8f70382 timeout=10000ms state=ready
+source=rack-timeout id=d8f50a116ccd66821c1f8a7ab8f70382 timeout=10000ms service=0ms state=active
+Started GET "/" for 14.142.64.3 at 2017-11-13 20:01:32 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.5ms)
+  Rendered users/new.html.haml within layouts/application (1.7ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.6ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.6ms)
+source=rack-timeout id=d8f50a116ccd66821c1f8a7ab8f70382 timeout=10000ms service=10ms state=completed
+source=rack-timeout id=26dc3c4334b6c9f90df39d650873834a timeout=10000ms state=ready
+source=rack-timeout id=26dc3c4334b6c9f90df39d650873834a timeout=10000ms service=0ms state=active
+Started POST "/users" for 42.110.159.83 at 2017-11-13 20:01:40 +0000
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"dtZAD5tFRS9V9zIhUw3v0RkkhL0QgqR2aqjRFjA2/ctS/ypyvtS8ZRr0ziRlSSWLa7usFUh6h6WqtW0BNBA6gw==", "user"=>{"email"=>"d@demo.com"}, "commit"=>"STEP INSIDE"}
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."email" = $1  [["email", "d@demo.com"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'd@demo.com' LIMIT 1
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."ip_address" = '42.110.159.83' LIMIT 1[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "0adac1a886"]]
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "ip_address", "created_at", "updated_at", "referral_code") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["email", "d@demo.com"], ["ip_address", "42.110.159.83"], ["created_at", "2017-11-13 20:01:40.556385"], ["updated_at", "2017-11-13 20:01:40.556385"], ["referral_code", "0adac1a886"]]
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "delayed_jobs" ("handler", "run_at", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["handler", "--- !ruby/object:Delayed::PerformableMailer\nobject: !ruby/class 'UserMailer'\nmethod_name: :sign_up_email\nargs:\n- !ruby/object:User\n  raw_attributes:\n    email: d@demo.com\n    ip_address: 42.110.159.83\n    id: '2'\n    created_at: &1 2017-11-13 20:01:40.556385489 Z\n    updated_at: *1\n    referral_code: 0adac1a886\n    referrer_id: \n  attributes: !ruby/object:ActiveRecord::AttributeSet\n    attributes: !ruby/object:ActiveRecord::LazyAttributeHash\n      types:\n        id: &3 !ruby/object:ActiveRecord::ConnectionAdapters::PostgreSQL::OID::Integer\n          precision: \n          scale: \n          limit: \n          range: !ruby/range\n            begin: -2147483648\n            end: 2147483648\n            excl: true\n        email: &2 !ruby/object:ActiveRecord::Type::String\n          precision: \n          scale: \n          limit: \n        referral_code: *2\n        referrer_id: *3\n        ip_address: *2\n        created_at: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n          subtype: &4 !ruby/object:ActiveRecord::ConnectionAdapters::PostgreSQL::OID::DateTime\n            precision: \n            scale: \n            limit: \n        updated_at: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n          subtype: *4\n      values:\n        id: \n        email: \n        referral_code: \n        referrer_id: \n        ip_address: \n        created_at: \n        updated_at: \n      additional_types: {}\n      materialized: true\n      delegate_hash:\n        email: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: email\n          value_before_type_cast: d@demo.com\n          type: *2\n          value: d@demo.com\n        ip_address: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: ip_address\n          value_before_type_cast: 42.110.159.83\n          type: *2\n          value: 42.110.159.83\n        id: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: id\n          value_before_type_cast: '2'\n          type: *3\n          value: 2\n        created_at: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: created_at\n          value_before_type_cast: *1\n          type: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n            subtype: *4\n          value: *1\n        updated_at: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: updated_at\n          value_before_type_cast: *1\n          type: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n            subtype: *4\n          value: *1\n        referral_code: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: referral_code\n          value_before_type_cast: 0adac1a886\n          type: *2\n          value: 0adac1a886\n        referrer_id: !ruby/object:ActiveRecord::Attribute::FromDatabase\n          name: referrer_id\n          value_before_type_cast: \n          type: *3\n  new_record: false\n"], ["run_at", "2017-11-13 20:01:40.562068"], ["created_at", "2017-11-13 20:01:40.562183"], ["updated_at", "2017-11-13 20:01:40.562183"]]
+  [1m[36m (0.8ms)[0m  [1mCOMMIT[0m
+Redirected to http://13.127.18.23/users/0adac1a886
+Completed 302 Found in 13ms (ActiveRecord: 2.4ms)
+source=rack-timeout id=26dc3c4334b6c9f90df39d650873834a timeout=10000ms service=16ms state=completed
+source=rack-timeout id=defd08465067fd8d1f5b57114145949c timeout=10000ms state=ready
+source=rack-timeout id=defd08465067fd8d1f5b57114145949c timeout=10000ms service=0ms state=active
+Started GET "/users/0adac1a886" for 42.110.159.83 at 2017-11-13 20:01:40 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"0adac1a886"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "0adac1a886"]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered users/_social_sharing.html.haml (0.9ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered users/show.html.haml within layouts/application (4.6ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (3.2ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 11ms (Views: 8.4ms | ActiveRecord: 1.2ms)
+source=rack-timeout id=defd08465067fd8d1f5b57114145949c timeout=10000ms service=13ms state=completed
+source=rack-timeout id=ff1e9f0e6eb8e7b2f3127d70bc087299 timeout=10000ms state=ready
+source=rack-timeout id=ff1e9f0e6eb8e7b2f3127d70bc087299 timeout=10000ms service=0ms state=active
+Started POST "/users" for 106.51.111.65 at 2017-11-13 20:01:46 +0000
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5K1dHMyXRhOB9AWuy95TUJvZqpgTxFoPLjJ5YxQVQhkvRJZVT2NPH1a/TBJeilgutmeeQi+zIan14SDgw1/JzA==", "user"=>{"email"=>"anup@gmail.com"}, "commit"=>"STEP INSIDE"}
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."email" = $1  [["email", "anup@gmail.com"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.3ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'anup@gmail.com' LIMIT 1
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."ip_address" = '106.51.111.65' LIMIT 1[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "b79bf50fe3"]]
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "ip_address", "created_at", "updated_at", "referral_code") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["email", "anup@gmail.com"], ["ip_address", "106.51.111.65"], ["created_at", "2017-11-13 20:01:46.623191"], ["updated_at", "2017-11-13 20:01:46.623191"], ["referral_code", "b79bf50fe3"]]
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "delayed_jobs" ("handler", "run_at", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["handler", "--- !ruby/object:Delayed::PerformableMailer\nobject: !ruby/class 'UserMailer'\nmethod_name: :sign_up_email\nargs:\n- !ruby/object:User\n  raw_attributes:\n    email: anup@gmail.com\n    ip_address: 106.51.111.65\n    id: '3'\n    created_at: &1 2017-11-13 20:01:46.623191265 Z\n    updated_at: *1\n    referral_code: b79bf50fe3\n    referrer_id: \n  attributes: !ruby/object:ActiveRecord::AttributeSet\n    attributes: !ruby/object:ActiveRecord::LazyAttributeHash\n      types:\n        id: &3 !ruby/object:ActiveRecord::ConnectionAdapters::PostgreSQL::OID::Integer\n          precision: \n          scale: \n          limit: \n          range: !ruby/range\n            begin: -2147483648\n            end: 2147483648\n            excl: true\n        email: &2 !ruby/object:ActiveRecord::Type::String\n          precision: \n          scale: \n          limit: \n        referral_code: *2\n        referrer_id: *3\n        ip_address: *2\n        created_at: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n          subtype: &4 !ruby/object:ActiveRecord::ConnectionAdapters::PostgreSQL::OID::DateTime\n            precision: \n            scale: \n            limit: \n        updated_at: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n          subtype: *4\n      values:\n        id: \n        email: \n        referral_code: \n        referrer_id: \n        ip_address: \n        created_at: \n        updated_at: \n      additional_types: {}\n      materialized: true\n      delegate_hash:\n        email: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: email\n          value_before_type_cast: anup@gmail.com\n          type: *2\n          value: anup@gmail.com\n        ip_address: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: ip_address\n          value_before_type_cast: 106.51.111.65\n          type: *2\n          value: 106.51.111.65\n        id: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: id\n          value_before_type_cast: '3'\n          type: *3\n          value: 3\n        created_at: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: created_at\n          value_before_type_cast: *1\n          type: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n            subtype: *4\n          value: *1\n        updated_at: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: updated_at\n          value_before_type_cast: *1\n          type: !ruby/object:ActiveRecord::AttributeMethods::TimeZoneConversion::TimeZoneConverter\n            subtype: *4\n          value: *1\n        referral_code: !ruby/object:ActiveRecord::Attribute::FromUser\n          name: referral_code\n          value_before_type_cast: b79bf50fe3\n          type: *2\n          value: b79bf50fe3\n        referrer_id: !ruby/object:ActiveRecord::Attribute::FromDatabase\n          name: referrer_id\n          value_before_type_cast: \n          type: *3\n  new_record: false\n"], ["run_at", "2017-11-13 20:01:46.628322"], ["created_at", "2017-11-13 20:01:46.628421"], ["updated_at", "2017-11-13 20:01:46.628421"]]
+  [1m[36m (0.9ms)[0m  [1mCOMMIT[0m
+Redirected to http://13.127.18.23/users/b79bf50fe3
+Completed 302 Found in 12ms (ActiveRecord: 2.5ms)
+source=rack-timeout id=ff1e9f0e6eb8e7b2f3127d70bc087299 timeout=10000ms service=15ms state=completed
+source=rack-timeout id=b325b642bb8ba56dd2c9ec0d985b2c9d timeout=10000ms state=ready
+source=rack-timeout id=b325b642bb8ba56dd2c9ec0d985b2c9d timeout=10000ms service=0ms state=active
+Started GET "/users/b79bf50fe3" for 106.51.111.65 at 2017-11-13 20:01:46 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"b79bf50fe3"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1[0m  [["referral_code", "b79bf50fe3"]]
+  [1m[35mSetting Load (0.3ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered users/_social_sharing.html.haml (0.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered users/show.html.haml within layouts/application (4.4ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (13.3ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 21ms (Views: 18.7ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=b325b642bb8ba56dd2c9ec0d985b2c9d timeout=10000ms service=23ms state=completed
+source=rack-timeout id=8db1804be0a98ccd54a1220e6b73cc39 timeout=10000ms state=ready
+source=rack-timeout id=8db1804be0a98ccd54a1220e6b73cc39 timeout=10000ms service=0ms state=active
+Started GET "/" for 42.110.159.83 at 2017-11-13 20:02:02 +0000
+Processing by UsersController#new as HTML
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."id" = $1  [["id", 2]]
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 2]]
+Redirected to http://13.127.18.23/users/0adac1a886
+Filter chain halted as :check_session rendered or redirected
+Completed 302 Found in 5ms (ActiveRecord: 0.5ms)
+source=rack-timeout id=8db1804be0a98ccd54a1220e6b73cc39 timeout=10000ms service=7ms state=completed
+source=rack-timeout id=02a94a66579a05b1ac6812a5ac4bdf8b timeout=10000ms state=ready
+source=rack-timeout id=02a94a66579a05b1ac6812a5ac4bdf8b timeout=10000ms service=0ms state=active
+Started GET "/users/0adac1a886" for 42.110.159.83 at 2017-11-13 20:02:03 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"0adac1a886"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "0adac1a886"]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered users/_social_sharing.html.haml (0.8ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered users/show.html.haml within layouts/application (4.3ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (3.1ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 11ms (Views: 8.4ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=02a94a66579a05b1ac6812a5ac4bdf8b timeout=10000ms service=13ms state=completed
+source=rack-timeout id=aad088043c3f78394a8740c1f97c418f timeout=10000ms state=ready
+Started GET "/users/b79bf50fe3/shares?share%5Bsocial_network%5D=facebook" for 106.51.111.65 at 2017-11-13 20:04:36 +0000
+Processing by SharesController#create as HTML
+  Parameters: {"share"=>{"social_network"=>"facebook"}, "user_id"=>"b79bf50fe3"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "b79bf50fe3"]]
+source=rack-timeout id=aad088043c3f78394a8740c1f97c418f timeout=10000ms service=7ms state=active
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "shares" ("social_network", "user_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["social_network", "facebook"], ["user_id", 3], ["created_at", "2017-11-13 20:04:36.147916"], ["updated_at", "2017-11-13 20:04:36.147916"]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+  [1m[35mSetting Load (0.3ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+Redirected to https://www.facebook.com/sharer/sharer.php?u=http://13.127.18.23/?ref=b79bf50fe3&title=
+Completed 302 Found in 22ms (ActiveRecord: 2.8ms)
+source=rack-timeout id=aad088043c3f78394a8740c1f97c418f timeout=10000ms service=25ms state=completed
+source=rack-timeout id=e38aabbf46029a90426f70a75517e67a timeout=10000ms state=ready
+Started GET "/?ref=b79bf50fe3" for 173.252.124.237 at 2017-11-13 20:04:36 +0000
+Processing by UsersController#new as */*
+  Parameters: {"ref"=>"b79bf50fe3"}
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referral_code" = $1[0m  [["referral_code", "b79bf50fe3"]]
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "b79bf50fe3"]]
+  Rendered users/_form.html.haml (1.6ms)
+  Rendered users/new.html.haml within layouts/application (1.8ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+source=rack-timeout id=e38aabbf46029a90426f70a75517e67a timeout=10000ms service=8ms state=active
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.8ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 10ms (Views: 6.7ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=e38aabbf46029a90426f70a75517e67a timeout=10000ms service=12ms state=completed
+source=rack-timeout id=8f250dc56a207dd2d1604e60556205c4 timeout=10000ms state=ready
+Started GET "/admins/sign_in" for 103.74.147.26 at 2017-11-13 20:11:57 +0000
+Processing by Devise::SessionsController#new as HTML
+source=rack-timeout id=8f250dc56a207dd2d1604e60556205c4 timeout=10000ms service=7ms state=active
+  Cache digest for app/views/devise/sessions/new.html.haml: aab291d062c824adebf4d2e5318d76df
+Read fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (0.2ms)
+Write fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (0.9ms)
+  Rendered devise/sessions/new.html.haml within layouts/application (21.4ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 35ms (Views: 27.9ms | ActiveRecord: 2.1ms)
+source=rack-timeout id=8f250dc56a207dd2d1604e60556205c4 timeout=10000ms service=38ms state=completed
+source=rack-timeout id=c7450b92b0379a56f64b117dc358a5a6 timeout=10000ms state=ready
+Started GET "/admins/sign_in" for 159.203.42.143 at 2017-11-13 20:11:58 +0000
+Processing by Devise::SessionsController#new as */*
+source=rack-timeout id=c7450b92b0379a56f64b117dc358a5a6 timeout=10000ms service=7ms state=active
+  Cache digest for app/views/devise/sessions/new.html.haml: aab291d062c824adebf4d2e5318d76df
+Read fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (0.3ms)
+  Rendered devise/sessions/new.html.haml within layouts/application (7.8ms)
+  [1m[35mSetting Load (0.3ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (3.9ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 21ms (Views: 14.5ms | ActiveRecord: 1.9ms)
+source=rack-timeout id=c7450b92b0379a56f64b117dc358a5a6 timeout=10000ms service=24ms state=completed
+source=rack-timeout id=5cd292ce21c4298d40ac1cbf6165ad92 timeout=10000ms state=ready
+Started GET "/" for 113.52.117.8 at 2017-11-13 20:18:06 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.7ms)
+  Rendered users/new.html.haml within layouts/application (2.0ms)
+  [1m[35mSetting Load (0.5ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+source=rack-timeout id=5cd292ce21c4298d40ac1cbf6165ad92 timeout=10000ms service=6ms state=active
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.1ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 9ms (Views: 7.3ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=5cd292ce21c4298d40ac1cbf6165ad92 timeout=10000ms service=11ms state=completed
+source=rack-timeout id=2eaab51df73e1724b4e3bc2768f051f1 timeout=10000ms state=ready
+Started GET "/prizes/new" for 103.74.147.26 at 2017-11-13 20:18:46 +0000
+Processing by PrizesController#new as HTML
+Redirected to http://13.127.18.23/
+Filter chain halted as :authenticate_admin rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+source=rack-timeout id=2eaab51df73e1724b4e3bc2768f051f1 timeout=10000ms service=5ms state=completed
+source=rack-timeout id=40ffd83ed7391c374a812fb34e5ee39c timeout=10000ms state=ready
+Started GET "/prizes/new" for 138.197.202.197 at 2017-11-13 20:18:46 +0000
+Processing by PrizesController#new as */*
+Redirected to http://13.127.18.23/
+Filter chain halted as :authenticate_admin rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+source=rack-timeout id=40ffd83ed7391c374a812fb34e5ee39c timeout=10000ms service=4ms state=completed
+source=rack-timeout id=78eb82db509490505fc6dc640f684a9b timeout=10000ms state=ready
+source=rack-timeout id=78eb82db509490505fc6dc640f684a9b timeout=10000ms service=0ms state=active
+Started GET "/" for 103.74.147.26 at 2017-11-13 20:18:46 +0000
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.haml (1.6ms)
+  Rendered users/new.html.haml within layouts/application (1.9ms)
+  [1m[36mSetting Load (0.5ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (4.1ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 9ms (Views: 7.2ms | ActiveRecord: 0.7ms)
+source=rack-timeout id=78eb82db509490505fc6dc640f684a9b timeout=10000ms service=11ms state=completed
+source=rack-timeout id=013f124999991b4c47fd3bed0d8dbfda timeout=10000ms state=ready
+source=rack-timeout id=013f124999991b4c47fd3bed0d8dbfda timeout=10000ms service=0ms state=active
+Started GET "/admins/sign_in" for 103.74.147.26 at 2017-11-13 20:18:54 +0000
+Processing by Devise::SessionsController#new as HTML
+Read fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (0.3ms)
+  Rendered devise/sessions/new.html.haml within layouts/application (1.5ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (4.2ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.7ms)
+source=rack-timeout id=013f124999991b4c47fd3bed0d8dbfda timeout=10000ms service=11ms state=completed
+source=rack-timeout id=06ee69b28caac22d55ee10e798880eae timeout=10000ms state=ready
+source=rack-timeout id=06ee69b28caac22d55ee10e798880eae timeout=10000ms service=0ms state=active
+Started POST "/admins/sign_in" for 103.74.147.26 at 2017-11-13 20:19:15 +0000
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"c0qaaNIbhBHTqv1qG3C8AugJtDurOCdODCVgMvzkP2GihX8FqolAov1YontxgAYXDenAJgf9X7jceoaISJT/YQ==", "admin"=>{"email"=>"admin@prelauncher.info", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[35mAdmin Load (0.4ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."email" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["email", "admin@prelauncher.info"]]
+Redirected to http://13.127.18.23/users
+Completed 302 Found in 86ms (ActiveRecord: 0.4ms)
+source=rack-timeout id=06ee69b28caac22d55ee10e798880eae timeout=10000ms service=91ms state=completed
+source=rack-timeout id=b85aafe06a0e6c09745e9c38b48b9559 timeout=10000ms state=ready
+source=rack-timeout id=b85aafe06a0e6c09745e9c38b48b9559 timeout=10000ms service=0ms state=active
+Started GET "/users" for 103.74.147.26 at 2017-11-13 20:19:15 +0000
+Processing by UsersController#index as HTML
+  [1m[35mAdmin Load (0.3ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  Rendered users/_user.html.haml (9.8ms)
+  Rendered users/index.html.haml within layouts/dashboard (14.7ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (8.7ms)
+Completed 200 OK in 33ms (Views: 28.5ms | ActiveRecord: 2.1ms)
+source=rack-timeout id=b85aafe06a0e6c09745e9c38b48b9559 timeout=10000ms service=35ms state=completed
+source=rack-timeout id=1e79178b569d4e55e45c5100c6f18d1c timeout=10000ms state=ready
+source=rack-timeout id=1e79178b569d4e55e45c5100c6f18d1c timeout=10000ms service=0ms state=active
+Started GET "/favicon.ico" for 103.74.147.26 at 2017-11-13 20:19:17 +0000
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=1e79178b569d4e55e45c5100c6f18d1c timeout=10000ms service=3ms state=completed
+source=rack-timeout id=ddc52db93ae74f021a1c0bcbe9290c2f timeout=10000ms state=ready
+source=rack-timeout id=ddc52db93ae74f021a1c0bcbe9290c2f timeout=10000ms service=0ms state=active
+Started GET "/prizes/" for 103.74.147.26 at 2017-11-13 20:19:26 +0000
+Processing by PrizesController#index as HTML
+  [1m[36mAdmin Load (0.3ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mPrize Load (0.2ms)[0m  SELECT "prizes".* FROM "prizes"
+  Rendered collection (0.0ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (3.4ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 9ms (Views: 6.1ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=ddc52db93ae74f021a1c0bcbe9290c2f timeout=10000ms service=11ms state=completed
+source=rack-timeout id=ba11afcd5eefc204201f9ea22859b3af timeout=10000ms state=ready
+source=rack-timeout id=ba11afcd5eefc204201f9ea22859b3af timeout=10000ms service=0ms state=active
+Started GET "/prizes/new" for 103.74.147.26 at 2017-11-13 20:19:34 +0000
+Processing by PrizesController#new as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered prizes/_form.html.haml (7.9ms)
+  Rendered prizes/new.html.haml within layouts/dashboard (10.1ms)
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (8.5ms)
+Completed 200 OK in 33ms (Views: 24.9ms | ActiveRecord: 1.2ms)
+source=rack-timeout id=ba11afcd5eefc204201f9ea22859b3af timeout=10000ms service=35ms state=completed
+source=rack-timeout id=dffd1b34ae7a583a5733dd218ea0aeb9 timeout=10000ms state=ready
+Started GET "/settings" for 103.74.147.26 at 2017-11-13 20:20:14 +0000
+Processing by SettingsController#index as HTML
+  [1m[36mAdmin Load (0.3ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+source=rack-timeout id=dffd1b34ae7a583a5733dd218ea0aeb9 timeout=10000ms service=5ms state=active
+  [1m[35mSetting Load (0.4ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered settings/_form.html.haml (17.2ms)
+  Rendered settings/index.html.haml within layouts/dashboard (19.4ms)
+  [1m[36m (0.4ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (2.0ms)
+Completed 200 OK in 26ms (Views: 22.6ms | ActiveRecord: 1.3ms)
+source=rack-timeout id=dffd1b34ae7a583a5733dd218ea0aeb9 timeout=10000ms service=29ms state=completed
+source=rack-timeout id=a7c0c7d6617ceb0a119de73eb1d92f3c timeout=10000ms state=ready
+Started GET "/users" for 103.74.147.26 at 2017-11-13 20:20:40 +0000
+Processing by UsersController#index as HTML
+  [1m[35mAdmin Load (0.3ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+source=rack-timeout id=a7c0c7d6617ceb0a119de73eb1d92f3c timeout=10000ms service=5ms state=active
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  Rendered users/_user.html.haml (9.4ms)
+  Rendered users/index.html.haml within layouts/dashboard (14.7ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.5ms)
+Completed 200 OK in 20ms (Views: 16.0ms | ActiveRecord: 2.2ms)
+source=rack-timeout id=a7c0c7d6617ceb0a119de73eb1d92f3c timeout=10000ms service=23ms state=completed
+source=rack-timeout id=7ff9cbbd40f2882f6e0033442ca6bbb6 timeout=10000ms state=ready
+Started GET "/admins/sign_in" for 106.51.111.65 at 2017-11-13 20:20:49 +0000
+Processing by Devise::SessionsController#new as HTML
+Read fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (0.2ms)
+  Rendered devise/sessions/new.html.haml within layouts/application (1.5ms)
+source=rack-timeout id=7ff9cbbd40f2882f6e0033442ca6bbb6 timeout=10000ms service=7ms state=active
+  [1m[36mSetting Load (0.5ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (4.2ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 9ms (Views: 7.2ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=7ff9cbbd40f2882f6e0033442ca6bbb6 timeout=10000ms service=11ms state=completed
+source=rack-timeout id=0bba5ed7d776ce672a36a84231b07b2f timeout=10000ms state=ready
+Started POST "/admins/sign_in" for 106.51.111.65 at 2017-11-13 20:21:14 +0000
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KQB2Vhv1lkWLU0t0/wOE8/arkywyMpDuuIJjNVNks2ni6b0fmAGfSVwYAshqV4+N2xWn9g5F60hjUTq2hC44vA==", "admin"=>{"email"=>"admin@prelauncher.info", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mAdmin Load (0.3ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."email" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["email", "admin@prelauncher.info"]]
+Redirected to http://13.127.18.23/users
+source=rack-timeout id=0bba5ed7d776ce672a36a84231b07b2f timeout=10000ms service=80ms state=active
+Completed 302 Found in 78ms (ActiveRecord: 0.3ms)
+source=rack-timeout id=0bba5ed7d776ce672a36a84231b07b2f timeout=10000ms service=81ms state=completed
+source=rack-timeout id=571864f8807f8c8ee7e5da76df3350ac timeout=10000ms state=ready
+source=rack-timeout id=571864f8807f8c8ee7e5da76df3350ac timeout=10000ms service=0ms state=active
+Started GET "/users" for 106.51.111.65 at 2017-11-13 20:21:14 +0000
+Processing by UsersController#index as HTML
+  [1m[35mAdmin Load (0.3ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  Rendered users/_user.html.haml (6.5ms)
+  Rendered users/index.html.haml within layouts/dashboard (7.7ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 13ms (Views: 8.9ms | ActiveRecord: 1.9ms)
+source=rack-timeout id=571864f8807f8c8ee7e5da76df3350ac timeout=10000ms service=15ms state=completed
+source=rack-timeout id=3ed565ccf384847e05d6edd1aecf2f94 timeout=10000ms state=ready
+source=rack-timeout id=3ed565ccf384847e05d6edd1aecf2f94 timeout=10000ms service=0ms state=active
+Started GET "/favicon.ico" for 106.51.111.65 at 2017-11-13 20:21:14 +0000
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=3ed565ccf384847e05d6edd1aecf2f94 timeout=10000ms service=2ms state=completed
+source=rack-timeout id=1c2a30a0ddc3d2ee7b26936adcb9ca90 timeout=10000ms state=ready
+source=rack-timeout id=1c2a30a0ddc3d2ee7b26936adcb9ca90 timeout=10000ms service=0ms state=active
+Started GET "/settings" for 106.51.111.65 at 2017-11-13 20:21:24 +0000
+Processing by SettingsController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered settings/_form.html.haml (17.0ms)
+  Rendered settings/index.html.haml within layouts/dashboard (19.3ms)
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.9ms)
+Completed 200 OK in 35ms (Views: 31.9ms | ActiveRecord: 1.2ms)
+source=rack-timeout id=1c2a30a0ddc3d2ee7b26936adcb9ca90 timeout=10000ms service=38ms state=completed
+source=rack-timeout id=3244f54440f17791df6d5546f23871ab timeout=10000ms state=ready
+Started POST "/settings" for 106.51.111.65 at 2017-11-13 20:22:42 +0000
+Processing by SettingsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eoKgsXo2tqdn1/DgOhwPou6cTm28QUIsqQsL38Mce4r+20JCuic7YUwv3b2RuGqxh4VMFI1Ua/8WUB4tXXTDLg==", "setting"=>{"twitter_message"=>"", "facebook_message"=>"Let us score 200+ in JEE Mains now", "facebook_title"=>"Most Comprehensive Online Test Series for JEE Mains", "pinterest_description"=>"", "linkedin_title"=>"", "linkedin_message"=>"", "email_subject"=>"", "email_message"=>""}, "commit"=>"save"}
+  [1m[36mAdmin Load (0.3ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+source=rack-timeout id=3244f54440f17791df6d5546f23871ab timeout=10000ms service=5ms state=active
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "settings" ("facebook_title", "facebook_message", "twitter_message", "email_message", "email_subject", "linkedin_message", "linkedin_title", "pinterest_description") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["facebook_title", "Most Comprehensive Online Test Series for JEE Mains"], ["facebook_message", "Let us score 200+ in JEE Mains now"], ["twitter_message", ""], ["email_message", ""], ["email_subject", ""], ["linkedin_message", ""], ["linkedin_title", ""], ["pinterest_description", ""]]
+  [1m[35m (0.9ms)[0m  COMMIT
+Redirected to http://13.127.18.23/settings
+Completed 302 Found in 35ms (ActiveRecord: 1.8ms)
+source=rack-timeout id=3244f54440f17791df6d5546f23871ab timeout=10000ms service=39ms state=completed
+source=rack-timeout id=73a262a202826153bb707269b36a901b timeout=10000ms state=ready
+Started GET "/settings" for 106.51.111.65 at 2017-11-13 20:22:42 +0000
+Processing by SettingsController#index as HTML
+  [1m[35mAdmin Load (0.3ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered settings/_form.html.haml (9.7ms)
+source=rack-timeout id=73a262a202826153bb707269b36a901b timeout=10000ms service=15ms state=active
+  Rendered settings/index.html.haml within layouts/dashboard (10.0ms)
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 16ms (Views: 12.6ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=73a262a202826153bb707269b36a901b timeout=10000ms service=18ms state=completed
+source=rack-timeout id=eda0d5ec52b86dc2de9014379766f780 timeout=10000ms state=ready
+source=rack-timeout id=eda0d5ec52b86dc2de9014379766f780 timeout=10000ms service=0ms state=active
+Started GET "/users/b79bf50fe3/shares?share%5Bsocial_network%5D=facebook" for 106.51.111.65 at 2017-11-13 20:22:47 +0000
+Processing by SharesController#create as HTML
+  Parameters: {"share"=>{"social_network"=>"facebook"}, "user_id"=>"b79bf50fe3"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1[0m  [["referral_code", "b79bf50fe3"]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "shares" ("social_network", "user_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["social_network", "facebook"], ["user_id", 3], ["created_at", "2017-11-13 20:22:47.313048"], ["updated_at", "2017-11-13 20:22:47.313048"]]
+  [1m[35m (0.8ms)[0m  COMMIT
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+Redirected to https://www.facebook.com/sharer/sharer.php?u=http://13.127.18.23/?ref=b79bf50fe3&title=Most Comprehensive Online Test Series for JEE Mains
+Completed 302 Found in 6ms (ActiveRecord: 1.8ms)
+source=rack-timeout id=eda0d5ec52b86dc2de9014379766f780 timeout=10000ms service=9ms state=completed
+source=rack-timeout id=44e24ae44056f6c5db5de5eba816d793 timeout=10000ms state=ready
+source=rack-timeout id=44e24ae44056f6c5db5de5eba816d793 timeout=10000ms service=0ms state=active
+Started GET "/admins/sign_in" for 42.110.159.83 at 2017-11-13 20:22:52 +0000
+Processing by Devise::SessionsController#new as HTML
+Read fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (0.1ms)
+Write fragment views/13.127.18.23/admins/sign_in/aab291d062c824adebf4d2e5318d76df (1.0ms)
+  Rendered devise/sessions/new.html.haml within layouts/application (4.7ms)
+  [1m[35mSetting Load (0.5ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.1ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 12ms (Views: 10.1ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=44e24ae44056f6c5db5de5eba816d793 timeout=10000ms service=14ms state=completed
+source=rack-timeout id=4abf54c522a9a28e45f3b0933af7b4e9 timeout=10000ms state=ready
+source=rack-timeout id=4abf54c522a9a28e45f3b0933af7b4e9 timeout=10000ms service=0ms state=active
+Started POST "/admins/sign_in" for 42.110.159.83 at 2017-11-13 20:23:12 +0000
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"OXcIMxx2zEUM+89TCH8SPft+KoyliVRPdNX3iivGuSsdXmJOOec1D0P4M1Y+O9hnieECJP1xd5y0yEudL+B+Yw==", "admin"=>{"email"=>"admin@prelauncher.info", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[35mAdmin Load (0.3ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."email" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["email", "admin@prelauncher.info"]]
+Redirected to http://13.127.18.23/users
+Completed 302 Found in 87ms (ActiveRecord: 0.3ms)
+source=rack-timeout id=4abf54c522a9a28e45f3b0933af7b4e9 timeout=10000ms service=90ms state=completed
+source=rack-timeout id=945088bb7e0d6ab2845d35a8b3808e91 timeout=10000ms state=ready
+source=rack-timeout id=945088bb7e0d6ab2845d35a8b3808e91 timeout=10000ms service=0ms state=active
+Started GET "/users" for 42.110.159.83 at 2017-11-13 20:23:13 +0000
+Processing by UsersController#index as HTML
+  [1m[36mAdmin Load (0.3ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  Rendered users/_user.html.haml (6.4ms)
+  Rendered users/index.html.haml within layouts/dashboard (7.6ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 13ms (Views: 8.9ms | ActiveRecord: 1.7ms)
+source=rack-timeout id=945088bb7e0d6ab2845d35a8b3808e91 timeout=10000ms service=15ms state=completed
+source=rack-timeout id=1a24d987283baac6058774317e713463 timeout=10000ms state=ready
+source=rack-timeout id=1a24d987283baac6058774317e713463 timeout=10000ms service=0ms state=active
+Started GET "/favicon.ico" for 42.110.159.83 at 2017-11-13 20:23:14 +0000
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=1a24d987283baac6058774317e713463 timeout=10000ms service=3ms state=completed
+source=rack-timeout id=9f2813dd254b70145f27b8e0ee570c79 timeout=10000ms state=ready
+source=rack-timeout id=9f2813dd254b70145f27b8e0ee570c79 timeout=10000ms service=0ms state=active
+Started GET "/favicon.ico" for 42.110.159.83 at 2017-11-13 20:23:14 +0000
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=9f2813dd254b70145f27b8e0ee570c79 timeout=10000ms service=2ms state=completed
+source=rack-timeout id=f11abc9baecf38daeb0e3dbab0dfb614 timeout=10000ms state=ready
+source=rack-timeout id=f11abc9baecf38daeb0e3dbab0dfb614 timeout=10000ms service=0ms state=active
+Started GET "/settings" for 42.110.159.83 at 2017-11-13 20:23:17 +0000
+Processing by SettingsController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered settings/_form.html.haml (9.3ms)
+  Rendered settings/index.html.haml within layouts/dashboard (9.6ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.5ms)
+Completed 200 OK in 15ms (Views: 11.8ms | ActiveRecord: 1.0ms)
+source=rack-timeout id=f11abc9baecf38daeb0e3dbab0dfb614 timeout=10000ms service=17ms state=completed
+source=rack-timeout id=0ad883c0b15e989cfe783f83b65ca5eb timeout=10000ms state=ready
+source=rack-timeout id=0ad883c0b15e989cfe783f83b65ca5eb timeout=10000ms service=0ms state=active
+Started GET "/favicon.ico" for 42.110.159.83 at 2017-11-13 20:23:18 +0000
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=0ad883c0b15e989cfe783f83b65ca5eb timeout=10000ms service=2ms state=completed
+source=rack-timeout id=c287bfdda9cd815b26133796c5f5ce3f timeout=10000ms state=ready
+source=rack-timeout id=c287bfdda9cd815b26133796c5f5ce3f timeout=10000ms service=0ms state=active
+Started GET "/settings" for 106.51.111.65 at 2017-11-13 20:23:32 +0000
+Processing by SettingsController#index as HTML
+  [1m[36mAdmin Load (0.3ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSetting Load (0.4ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered settings/_form.html.haml (9.4ms)
+  Rendered settings/index.html.haml within layouts/dashboard (9.6ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 15ms (Views: 12.1ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=c287bfdda9cd815b26133796c5f5ce3f timeout=10000ms service=18ms state=completed
+source=rack-timeout id=b65896a7461a2396da9791b3010acaee timeout=10000ms state=ready
+source=rack-timeout id=b65896a7461a2396da9791b3010acaee timeout=10000ms service=0ms state=active
+Started GET "/settings" for 42.110.159.83 at 2017-11-13 20:23:42 +0000
+Processing by SettingsController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered settings/_form.html.haml (9.5ms)
+  Rendered settings/index.html.haml within layouts/dashboard (9.7ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.8ms)
+Completed 200 OK in 16ms (Views: 12.3ms | ActiveRecord: 1.0ms)
+source=rack-timeout id=b65896a7461a2396da9791b3010acaee timeout=10000ms service=18ms state=completed
+source=rack-timeout id=b19441f86655e7c5630b1821e56d597c timeout=10000ms state=ready
+source=rack-timeout id=b19441f86655e7c5630b1821e56d597c timeout=10000ms service=0ms state=active
+Started GET "/prizes/new" for 106.51.111.65 at 2017-11-13 20:23:45 +0000
+Processing by PrizesController#new as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered prizes/_form.html.haml (7.0ms)
+  Rendered prizes/new.html.haml within layouts/dashboard (9.1ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 20ms (Views: 11.9ms | ActiveRecord: 1.2ms)
+source=rack-timeout id=b19441f86655e7c5630b1821e56d597c timeout=10000ms service=22ms state=completed
+source=rack-timeout id=b3a690740edfb9b8a8595d2de6a219ab timeout=10000ms state=ready
+source=rack-timeout id=b3a690740edfb9b8a8595d2de6a219ab timeout=10000ms service=0ms state=active
+Started GET "/settings" for 42.110.159.83 at 2017-11-13 20:23:46 +0000
+Processing by SettingsController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered settings/_form.html.haml (9.3ms)
+  Rendered settings/index.html.haml within layouts/dashboard (9.6ms)
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.7ms)
+Completed 200 OK in 15ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+source=rack-timeout id=b3a690740edfb9b8a8595d2de6a219ab timeout=10000ms service=18ms state=completed
+source=rack-timeout id=e433b6f2d024d4b05d54dc9d11918fe0 timeout=10000ms state=ready
+source=rack-timeout id=e433b6f2d024d4b05d54dc9d11918fe0 timeout=10000ms service=0ms state=active
+Started GET "/" for 42.110.159.83 at 2017-11-13 20:23:52 +0000
+Processing by UsersController#new as HTML
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."id" = $1  [["id", 2]]
+  [1m[36mAdmin Load (0.1ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered users/_form.html.haml (1.6ms)
+  Rendered users/new.html.haml within layouts/application (1.9ms)
+  [1m[35mSetting Load (0.4ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.1ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 11ms (Views: 7.2ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=e433b6f2d024d4b05d54dc9d11918fe0 timeout=10000ms service=13ms state=completed
+source=rack-timeout id=00d51c5891874b2f5c1cc8659942b4f3 timeout=10000ms state=ready
+source=rack-timeout id=00d51c5891874b2f5c1cc8659942b4f3 timeout=10000ms service=0ms state=active
+Started GET "/admins/sign_in" for 42.110.159.83 at 2017-11-13 20:23:59 +0000
+Processing by Devise::SessionsController#new as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://13.127.18.23/users
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms)
+source=rack-timeout id=00d51c5891874b2f5c1cc8659942b4f3 timeout=10000ms service=5ms state=completed
+source=rack-timeout id=a1f3f210bf0bd75d8a937a57415e1537 timeout=10000ms state=ready
+source=rack-timeout id=a1f3f210bf0bd75d8a937a57415e1537 timeout=10000ms service=0ms state=active
+Started GET "/users" for 42.110.159.83 at 2017-11-13 20:24:00 +0000
+Processing by UsersController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  Rendered users/_user.html.haml (6.5ms)
+  Rendered users/index.html.haml within layouts/dashboard (7.7ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 13ms (Views: 9.0ms | ActiveRecord: 1.7ms)
+source=rack-timeout id=a1f3f210bf0bd75d8a937a57415e1537 timeout=10000ms service=15ms state=completed
+source=rack-timeout id=36bf830d036b724a335a5bffd11baa0e timeout=10000ms state=ready
+source=rack-timeout id=36bf830d036b724a335a5bffd11baa0e timeout=10000ms service=0ms state=active
+Started GET "/prizes/new" for 106.51.111.65 at 2017-11-13 20:24:04 +0000
+Processing by PrizesController#new as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered prizes/_form.html.haml (3.1ms)
+  Rendered prizes/new.html.haml within layouts/dashboard (3.4ms)
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 8ms (Views: 5.7ms | ActiveRecord: 0.6ms)
+source=rack-timeout id=36bf830d036b724a335a5bffd11baa0e timeout=10000ms service=10ms state=completed
+source=rack-timeout id=2cadf8614ccb0d202d7a5bc14d83471f timeout=10000ms state=ready
+source=rack-timeout id=2cadf8614ccb0d202d7a5bc14d83471f timeout=10000ms service=0ms state=active
+Started GET "/prizes/new" for 42.110.159.83 at 2017-11-13 20:24:19 +0000
+Processing by PrizesController#new as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered prizes/_form.html.haml (3.1ms)
+  Rendered prizes/new.html.haml within layouts/dashboard (3.4ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.7ms)
+Completed 200 OK in 8ms (Views: 5.8ms | ActiveRecord: 0.6ms)
+source=rack-timeout id=2cadf8614ccb0d202d7a5bc14d83471f timeout=10000ms service=10ms state=completed
+source=rack-timeout id=8724f3fde5961ddb14873bf39b3acc40 timeout=10000ms state=ready
+source=rack-timeout id=8724f3fde5961ddb14873bf39b3acc40 timeout=10000ms service=0ms state=active
+Started GET "/prizes/" for 103.74.147.26 at 2017-11-13 20:24:22 +0000
+Processing by PrizesController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT "prizes".* FROM "prizes"[0m
+  Rendered collection (0.0ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (3.6ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 9ms (Views: 6.3ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=8724f3fde5961ddb14873bf39b3acc40 timeout=10000ms service=11ms state=completed
+source=rack-timeout id=c7a5e121bc53ff0011bbf8dd449ef339 timeout=10000ms state=ready
+source=rack-timeout id=c7a5e121bc53ff0011bbf8dd449ef339 timeout=10000ms service=0ms state=active
+Started GET "/prizes" for 159.203.81.93 at 2017-11-13 20:24:23 +0000
+Processing by PrizesController#index as */*
+Redirected to http://13.127.18.23/
+Filter chain halted as :authenticate_admin rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+source=rack-timeout id=c7a5e121bc53ff0011bbf8dd449ef339 timeout=10000ms service=3ms state=completed
+source=rack-timeout id=5952fb2463518aca3da48c7955b0559a timeout=10000ms state=ready
+source=rack-timeout id=5952fb2463518aca3da48c7955b0559a timeout=10000ms service=0ms state=active
+Started POST "/prizes" for 106.51.111.65 at 2017-11-13 20:24:31 +0000
+Processing by PrizesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/EjH7MSrvsfEq4Zcb8TKQ2LCV1vAP5kffKly0L8YfcJ4ESUfBLozAe9TqwHEYK9QC9tVIvEqsMzD8mciIXDFZg==", "prize"=>{"name"=>"Rs. 200 off", "number_of_referrals"=>"5"}, "commit"=>"save"}
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "prizes" ("name", "number_of_referrals", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"  [["name", "Rs. 200 off"], ["number_of_referrals", 5], ["created_at", "2017-11-13 20:24:31.022127"], ["updated_at", "2017-11-13 20:24:31.022127"]]
+  [1m[36m (0.8ms)[0m  [1mCOMMIT[0m
+Redirected to http://13.127.18.23/prizes
+Completed 302 Found in 7ms (ActiveRecord: 1.6ms)
+source=rack-timeout id=5952fb2463518aca3da48c7955b0559a timeout=10000ms service=10ms state=completed
+source=rack-timeout id=493cba471285092abcf29158c83c5fa7 timeout=10000ms state=ready
+source=rack-timeout id=493cba471285092abcf29158c83c5fa7 timeout=10000ms service=0ms state=active
+Started GET "/prizes" for 106.51.111.65 at 2017-11-13 20:24:31 +0000
+Processing by PrizesController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT "prizes".* FROM "prizes"
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE 1=0
+  Rendered prizes/_prize.html.haml (8.7ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (10.7ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 15ms (Views: 11.6ms | ActiveRecord: 2.1ms)
+source=rack-timeout id=493cba471285092abcf29158c83c5fa7 timeout=10000ms service=18ms state=completed
+source=rack-timeout id=e080d48e3382f060bc66621d4e3dc219 timeout=10000ms state=ready
+source=rack-timeout id=e080d48e3382f060bc66621d4e3dc219 timeout=10000ms service=0ms state=active
+Started GET "/users/b79bf50fe3" for 106.51.111.65 at 2017-11-13 20:24:38 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"b79bf50fe3"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "b79bf50fe3"]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered users/_social_sharing.html.haml (0.8ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "prizes"
+  [1m[36m (0.2ms)[0m  [1mSELECT "prizes"."number_of_referrals" FROM "prizes"  ORDER BY number_of_referrals asc[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mPrize Load (0.2ms)[0m  [1mSELECT "prizes".* FROM "prizes"  ORDER BY number_of_referrals asc[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  Rendered prizes/_prize_item.html.haml (3.8ms)
+  Rendered users/show.html.haml within layouts/application (13.8ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.0ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 20ms (Views: 16.9ms | ActiveRecord: 1.9ms)
+source=rack-timeout id=e080d48e3382f060bc66621d4e3dc219 timeout=10000ms service=22ms state=completed
+source=rack-timeout id=99c8545d88cc6ae9a20103553a948f86 timeout=10000ms state=ready
+Started POST "/prizes" for 42.110.159.83 at 2017-11-13 20:25:35 +0000
+Processing by PrizesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8LWFlNw7quY3hi6WOjjPruebO8cqiNs3cctnJLl+MVxsa+/8PfY6aZMHAtx+vzmkCclEPfpDXSET9Idw+wXkyQ==", "prize"=>{"name"=>"₹ 200 off", "number_of_referrals"=>"5"}, "commit"=>"save"}
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  BEGIN
+source=rack-timeout id=99c8545d88cc6ae9a20103553a948f86 timeout=10000ms service=6ms state=active
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "prizes" ("name", "number_of_referrals", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "₹ 200 off"], ["number_of_referrals", 5], ["created_at", "2017-11-13 20:25:35.619151"], ["updated_at", "2017-11-13 20:25:35.619151"]]
+  [1m[35m (0.8ms)[0m  COMMIT
+Redirected to http://13.127.18.23/prizes
+Completed 302 Found in 6ms (ActiveRecord: 1.4ms)
+source=rack-timeout id=99c8545d88cc6ae9a20103553a948f86 timeout=10000ms service=9ms state=completed
+source=rack-timeout id=b65fd094bf160adb6c3fb68435ea8e8b timeout=10000ms state=ready
+Started GET "/prizes" for 42.110.159.83 at 2017-11-13 20:25:35 +0000
+Processing by PrizesController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mPrize Load (0.2ms)[0m  [1mSELECT "prizes".* FROM "prizes"[0m
+source=rack-timeout id=b65fd094bf160adb6c3fb68435ea8e8b timeout=10000ms service=9ms state=active
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users"
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE 1=0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE 1=0[0m
+  Rendered prizes/_prize.html.haml (12.4ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (14.1ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.3ms)
+Completed 200 OK in 19ms (Views: 14.7ms | ActiveRecord: 2.2ms)
+source=rack-timeout id=b65fd094bf160adb6c3fb68435ea8e8b timeout=10000ms service=21ms state=completed
+source=rack-timeout id=f6eab64c8442680121154fa6081f074d timeout=10000ms state=ready
+source=rack-timeout id=f6eab64c8442680121154fa6081f074d timeout=10000ms service=1ms state=active
+Started GET "/prizes/1" for 42.110.159.83 at 2017-11-13 20:25:41 +0000
+
+ActionController::RoutingError (No route matches [GET] "/prizes/1"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=f6eab64c8442680121154fa6081f074d timeout=10000ms service=3ms state=completed
+source=rack-timeout id=34cb2cd3998bded083a259320df1d753 timeout=10000ms state=ready
+source=rack-timeout id=34cb2cd3998bded083a259320df1d753 timeout=10000ms service=0ms state=active
+Started GET "/settings/users" for 106.51.111.65 at 2017-11-13 20:25:45 +0000
+
+ActionController::RoutingError (No route matches [GET] "/settings/users"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=34cb2cd3998bded083a259320df1d753 timeout=10000ms service=2ms state=completed
+source=rack-timeout id=17a96a2d149f9f2c76c996ee2e345b6b timeout=10000ms state=ready
+source=rack-timeout id=17a96a2d149f9f2c76c996ee2e345b6b timeout=10000ms service=0ms state=active
+Started GET "/prizes/2" for 42.110.159.83 at 2017-11-13 20:25:49 +0000
+
+ActionController::RoutingError (No route matches [GET] "/prizes/2"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=17a96a2d149f9f2c76c996ee2e345b6b timeout=10000ms service=3ms state=completed
+source=rack-timeout id=58630cffd4990e182138c5d3b98ddd60 timeout=10000ms state=ready
+source=rack-timeout id=58630cffd4990e182138c5d3b98ddd60 timeout=10000ms service=0ms state=active
+Started GET "/settings/user" for 106.51.111.65 at 2017-11-13 20:25:49 +0000
+
+ActionController::RoutingError (No route matches [GET] "/settings/user"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=58630cffd4990e182138c5d3b98ddd60 timeout=10000ms service=3ms state=completed
+source=rack-timeout id=3de6975bdbe19b11b94a21dc3cc1604d timeout=10000ms state=ready
+source=rack-timeout id=3de6975bdbe19b11b94a21dc3cc1604d timeout=10000ms service=0ms state=active
+Started GET "/privacy/" for 103.74.147.26 at 2017-11-13 20:25:50 +0000
+Processing by PagesController#privacy as HTML
+  Rendered pages/privacy.html.haml within layouts/application (3.5ms)
+  [1m[36mSetting Load (0.5ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (4.6ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 12ms (Views: 10.5ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=3de6975bdbe19b11b94a21dc3cc1604d timeout=10000ms service=15ms state=completed
+source=rack-timeout id=d7c944ad500324cd1700a1de1ee3261f timeout=10000ms state=ready
+source=rack-timeout id=d7c944ad500324cd1700a1de1ee3261f timeout=10000ms service=0ms state=active
+Started GET "/prizes" for 42.110.159.83 at 2017-11-13 20:25:52 +0000
+Processing by PrizesController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mPrize Load (0.2ms)[0m  [1mSELECT "prizes".* FROM "prizes"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE 1=0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE 1=0[0m
+  Rendered prizes/_prize.html.haml (9.3ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (10.3ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 15ms (Views: 11.1ms | ActiveRecord: 2.1ms)
+source=rack-timeout id=d7c944ad500324cd1700a1de1ee3261f timeout=10000ms service=17ms state=completed
+source=rack-timeout id=7197a23bc11d1167b0e1934e720c5e2f timeout=10000ms state=ready
+source=rack-timeout id=7197a23bc11d1167b0e1934e720c5e2f timeout=10000ms service=0ms state=active
+Started GET "/prizes" for 42.110.159.83 at 2017-11-13 20:25:54 +0000
+Processing by PrizesController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mPrize Load (0.2ms)[0m  [1mSELECT "prizes".* FROM "prizes"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE 1=0[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE 1=0[0m
+  Rendered prizes/_prize.html.haml (9.7ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (10.8ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 16ms (Views: 11.6ms | ActiveRecord: 2.1ms)
+source=rack-timeout id=7197a23bc11d1167b0e1934e720c5e2f timeout=10000ms service=18ms state=completed
+source=rack-timeout id=e8288a1c70843863258ef20a427b7df7 timeout=10000ms state=ready
+source=rack-timeout id=e8288a1c70843863258ef20a427b7df7 timeout=10000ms service=0ms state=active
+Started GET "/settings/" for 106.51.111.65 at 2017-11-13 20:25:57 +0000
+Processing by SettingsController#index as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered settings/_form.html.haml (19.6ms)
+  Rendered settings/index.html.haml within layouts/dashboard (19.9ms)
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (2.0ms)
+Completed 200 OK in 26ms (Views: 22.5ms | ActiveRecord: 1.2ms)
+source=rack-timeout id=e8288a1c70843863258ef20a427b7df7 timeout=10000ms service=29ms state=completed
+source=rack-timeout id=40dd8f2e86f89b6d1f47e435de967c18 timeout=10000ms state=ready
+source=rack-timeout id=40dd8f2e86f89b6d1f47e435de967c18 timeout=10000ms service=1ms state=active
+Started GET "/prizes/1/edit" for 42.110.159.83 at 2017-11-13 20:25:59 +0000
+Processing by PrizesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE "prizes"."id" = $1 LIMIT 1  [["id", 1]]
+  [1m[36mAdmin Load (0.1ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered prizes/_form.html.haml (3.1ms)
+  Rendered prizes/edit.html.haml within layouts/dashboard (5.2ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.6ms)
+Completed 200 OK in 12ms (Views: 8.4ms | ActiveRecord: 0.8ms)
+source=rack-timeout id=40dd8f2e86f89b6d1f47e435de967c18 timeout=10000ms service=15ms state=completed
+source=rack-timeout id=8b82b797cd5e2eab050e8a3e1e8c9b5c timeout=10000ms state=ready
+Started GET "/" for 42.110.159.83 at 2017-11-13 20:26:41 +0000
+Processing by UsersController#new as HTML
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."id" = $1  [["id", 2]]
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+source=rack-timeout id=8b82b797cd5e2eab050e8a3e1e8c9b5c timeout=10000ms service=6ms state=active
+  Rendered users/_form.html.haml (1.8ms)
+  Rendered users/new.html.haml within layouts/application (2.1ms)
+  [1m[35mSetting Load (0.4ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (4.0ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 11ms (Views: 7.3ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=8b82b797cd5e2eab050e8a3e1e8c9b5c timeout=10000ms service=14ms state=completed
+source=rack-timeout id=c0a50ba236f0d0b51f0531bb1b3a66f6 timeout=10000ms state=ready
+Started GET "/admins/" for 106.51.111.65 at 2017-11-13 20:26:48 +0000
+
+ActionController::RoutingError (No route matches [GET] "/admins"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=c0a50ba236f0d0b51f0531bb1b3a66f6 timeout=10000ms service=2ms state=completed
+source=rack-timeout id=5f5757256c8dfcdc4ff7888b5d36b96b timeout=10000ms state=ready
+Started POST "/users" for 42.110.159.83 at 2017-11-13 20:26:49 +0000
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"L1xBPs9pRovzxrBuzVT7ZfaKEuv8uWVDrRy80hSqBsWzgitWLqTWBFdHnCSJ0w1vGNhtESxy41XPI1yGVtHTUA==", "user"=>{"email"=>"demo@gmail.com"}, "commit"=>"STEP INSIDE"}
+source=rack-timeout id=5f5757256c8dfcdc4ff7888b5d36b96b timeout=10000ms service=3ms state=active
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."email" = $1  [["email", "demo@gmail.com"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'demo@gmail.com' LIMIT 1
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."ip_address" = '42.110.159.83' LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Redirected to http://13.127.18.23/
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms)
+source=rack-timeout id=5f5757256c8dfcdc4ff7888b5d36b96b timeout=10000ms service=8ms state=completed
+source=rack-timeout id=9dcf1ff99c952bbf34238931af497997 timeout=10000ms state=ready
+source=rack-timeout id=9dcf1ff99c952bbf34238931af497997 timeout=10000ms service=0ms state=active
+Started GET "/" for 42.110.159.83 at 2017-11-13 20:26:49 +0000
+Processing by UsersController#new as HTML
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."id" = $1[0m  [["id", 2]]
+  [1m[35mAdmin Load (0.1ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered users/_form.html.haml (1.5ms)
+  Rendered users/new.html.haml within layouts/application (1.8ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 11ms (Views: 6.9ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=9dcf1ff99c952bbf34238931af497997 timeout=10000ms service=13ms state=completed
+source=rack-timeout id=71b2fe0c4cffca248925cbae6edfa28c timeout=10000ms state=ready
+source=rack-timeout id=71b2fe0c4cffca248925cbae6edfa28c timeout=10000ms service=1ms state=active
+Started GET "/admin" for 106.51.111.65 at 2017-11-13 20:26:54 +0000
+
+ActionController::RoutingError (No route matches [GET] "/admin"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=71b2fe0c4cffca248925cbae6edfa28c timeout=10000ms service=3ms state=completed
+source=rack-timeout id=b49dcd0ff85ab6a2438460bf03c44ccb timeout=10000ms state=ready
+source=rack-timeout id=b49dcd0ff85ab6a2438460bf03c44ccb timeout=10000ms service=0ms state=active
+Started GET "/admins" for 106.51.111.65 at 2017-11-13 20:26:59 +0000
+
+ActionController::RoutingError (No route matches [GET] "/admins"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=b49dcd0ff85ab6a2438460bf03c44ccb timeout=10000ms service=2ms state=completed
+source=rack-timeout id=218e36eed9911cc1cc55c4b0aecc94d2 timeout=10000ms state=ready
+source=rack-timeout id=218e36eed9911cc1cc55c4b0aecc94d2 timeout=10000ms service=0ms state=active
+Started POST "/users" for 42.110.159.83 at 2017-11-13 20:27:02 +0000
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"otEM0T710HnTXiEgmvy2+WIFGDX+gjrH5ZmndW7RHq0+D2a53zhA9nffDWree0DzjFdnzy5JvNGHpkchLKrLOA==", "user"=>{"email"=>"new@gmail.com"}, "commit"=>"STEP INSIDE"}
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."email" = $1  [["email", "new@gmail.com"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'new@gmail.com' LIMIT 1
+  [1m[36mUser Exists (0.3ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE "users"."ip_address" = '42.110.159.83' LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Redirected to http://13.127.18.23/
+Completed 302 Found in 8ms (ActiveRecord: 0.9ms)
+source=rack-timeout id=218e36eed9911cc1cc55c4b0aecc94d2 timeout=10000ms service=11ms state=completed
+source=rack-timeout id=3e3a686414e3fd5907b08b53303290b5 timeout=10000ms state=ready
+source=rack-timeout id=3e3a686414e3fd5907b08b53303290b5 timeout=10000ms service=0ms state=active
+Started GET "/" for 42.110.159.83 at 2017-11-13 20:27:02 +0000
+Processing by UsersController#new as HTML
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."id" = $1[0m  [["id", 2]]
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered users/_form.html.haml (1.7ms)
+  Rendered users/new.html.haml within layouts/application (1.9ms)
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.9ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 11ms (Views: 7.2ms | ActiveRecord: 1.2ms)
+source=rack-timeout id=3e3a686414e3fd5907b08b53303290b5 timeout=10000ms service=13ms state=completed
+source=rack-timeout id=a324ea095497f935fab6999da4b95828 timeout=10000ms state=ready
+source=rack-timeout id=a324ea095497f935fab6999da4b95828 timeout=10000ms service=0ms state=active
+Started GET "/admins" for 106.51.111.65 at 2017-11-13 20:27:02 +0000
+
+ActionController::RoutingError (No route matches [GET] "/admins"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=a324ea095497f935fab6999da4b95828 timeout=10000ms service=3ms state=completed
+source=rack-timeout id=b7808f6ad7d279bef8d2c87cc68ec39d timeout=10000ms state=ready
+source=rack-timeout id=b7808f6ad7d279bef8d2c87cc68ec39d timeout=10000ms service=0ms state=active
+Started GET "/admins/sign_out" for 106.51.111.65 at 2017-11-13 20:27:08 +0000
+
+ActionController::RoutingError (No route matches [GET] "/admins/sign_out"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:122:in `block in call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `call'
+  rack-timeout (0.4.2) lib/rack/timeout/support/timeout.rb:19:in `timeout'
+  rack-timeout (0.4.2) lib/rack/timeout/core.rb:121:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.1) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.1) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/unicorn:23:in `<top (required)>'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:75:in `kernel_load'
+  bundler (1.16.0) lib/bundler/cli/exec.rb:28:in `run'
+  bundler (1.16.0) lib/bundler/cli.rb:424:in `exec'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor.rb:387:in `dispatch'
+  bundler (1.16.0) lib/bundler/cli.rb:27:in `dispatch'
+  bundler (1.16.0) lib/bundler/vendor/thor/lib/thor/base.rb:466:in `start'
+  bundler (1.16.0) lib/bundler/cli.rb:18:in `start'
+  bundler (1.16.0) exe/bundle:30:in `block in <top (required)>'
+  bundler (1.16.0) lib/bundler/friendly_errors.rb:122:in `with_friendly_errors'
+  bundler (1.16.0) exe/bundle:22:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.1.2/bin/bundle:23:in `<main>'
+
+
+source=rack-timeout id=b7808f6ad7d279bef8d2c87cc68ec39d timeout=10000ms service=2ms state=completed
+source=rack-timeout id=754328ef46ce31d6e913210fa66ccc69 timeout=10000ms state=ready
+source=rack-timeout id=754328ef46ce31d6e913210fa66ccc69 timeout=10000ms service=0ms state=active
+Started GET "/admins/sign_in" for 106.51.111.65 at 2017-11-13 20:27:16 +0000
+Processing by Devise::SessionsController#new as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://13.127.18.23/users
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms)
+source=rack-timeout id=754328ef46ce31d6e913210fa66ccc69 timeout=10000ms service=5ms state=completed
+source=rack-timeout id=883891a7e5249c6b5a6a61b0c7c2f2e5 timeout=10000ms state=ready
+source=rack-timeout id=883891a7e5249c6b5a6a61b0c7c2f2e5 timeout=10000ms service=0ms state=active
+Started GET "/users" for 106.51.111.65 at 2017-11-13 20:27:16 +0000
+Processing by UsersController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  Rendered users/_user.html.haml (6.4ms)
+  Rendered users/index.html.haml within layouts/dashboard (7.5ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.5ms)
+Completed 200 OK in 12ms (Views: 8.7ms | ActiveRecord: 1.7ms)
+source=rack-timeout id=883891a7e5249c6b5a6a61b0c7c2f2e5 timeout=10000ms service=14ms state=completed
+source=rack-timeout id=526631d843e0567a3374151113ba0b65 timeout=10000ms state=ready
+source=rack-timeout id=526631d843e0567a3374151113ba0b65 timeout=10000ms service=0ms state=active
+Started GET "/prizes" for 106.51.111.65 at 2017-11-13 20:27:36 +0000
+Processing by PrizesController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT "prizes".* FROM "prizes"
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE 1=0
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE 1=0
+  Rendered prizes/_prize.html.haml (9.6ms)
+  Rendered prizes/index.html.haml within layouts/dashboard (10.7ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.3ms)
+Completed 200 OK in 25ms (Views: 21.3ms | ActiveRecord: 2.1ms)
+source=rack-timeout id=526631d843e0567a3374151113ba0b65 timeout=10000ms service=27ms state=completed
+source=rack-timeout id=2659b21332a251c72e622194c749eb6d timeout=10000ms state=ready
+Started GET "/admins/sign_in" for 42.110.159.83 at 2017-11-13 20:27:47 +0000
+Processing by Devise::SessionsController#new as HTML
+  [1m[35mAdmin Load (0.2ms)[0m  SELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://13.127.18.23/users
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms)
+source=rack-timeout id=2659b21332a251c72e622194c749eb6d timeout=10000ms service=4ms state=completed
+source=rack-timeout id=3f7668993cb6f5ed57efff48a23e70eb timeout=10000ms state=ready
+source=rack-timeout id=3f7668993cb6f5ed57efff48a23e70eb timeout=10000ms service=0ms state=active
+Started GET "/users" for 42.110.159.83 at 2017-11-13 20:27:47 +0000
+Processing by UsersController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users"  ORDER BY created_at desc LIMIT 100 OFFSET 0
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 1]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  Rendered users/_user.html.haml (6.5ms)
+  Rendered users/index.html.haml within layouts/dashboard (7.7ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users"
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  Rendered layouts/_dashboard_sidebar.html.haml (1.4ms)
+Completed 200 OK in 13ms (Views: 8.9ms | ActiveRecord: 1.6ms)
+source=rack-timeout id=3f7668993cb6f5ed57efff48a23e70eb timeout=10000ms service=15ms state=completed
+source=rack-timeout id=d2645fc74b61f44c91be5c71e0060c6a timeout=10000ms state=ready
+source=rack-timeout id=d2645fc74b61f44c91be5c71e0060c6a timeout=10000ms service=2ms state=active
+Started GET "/settings" for 106.51.111.65 at 2017-11-13 20:27:49 +0000
+Processing by SettingsController#index as HTML
+  [1m[36mAdmin Load (0.2ms)[0m  [1mSELECT  "admins".* FROM "admins" WHERE "admins"."id" = $1  ORDER BY "admins"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35mSetting Load (0.5ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered settings/_form.html.haml (9.6ms)
+  Rendered settings/index.html.haml within layouts/dashboard (9.8ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  Rendered layouts/_dashboard_sidebar.html.haml (1.7ms)
+Completed 200 OK in 16ms (Views: 12.4ms | ActiveRecord: 1.1ms)
+source=rack-timeout id=d2645fc74b61f44c91be5c71e0060c6a timeout=10000ms service=20ms state=completed
+source=rack-timeout id=f79c3f30a43d92e15c696c0c31ef4906 timeout=10000ms state=ready
+source=rack-timeout id=f79c3f30a43d92e15c696c0c31ef4906 timeout=10000ms service=0ms state=active
+Started GET "/users/0adac1a886" for 42.110.159.83 at 2017-11-13 20:27:59 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"0adac1a886"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1  [["referral_code", "0adac1a886"]]
+  [1m[36mSetting Load (0.4ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered users/_social_sharing.html.haml (8.0ms)
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mPrize Load (0.3ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "prizes"
+  [1m[36m (0.2ms)[0m  [1mSELECT "prizes"."number_of_referrals" FROM "prizes"  ORDER BY number_of_referrals asc[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mPrize Load (0.2ms)[0m  [1mSELECT "prizes".* FROM "prizes"  ORDER BY number_of_referrals asc[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 2]]
+  Rendered prizes/_prize_item.html.haml (3.6ms)
+  Rendered users/show.html.haml within layouts/application (25.8ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  Rendered layouts/_meta.html.haml (3.1ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "prizes"
+Completed 200 OK in 33ms (Views: 29.6ms | ActiveRecord: 1.8ms)
+source=rack-timeout id=f79c3f30a43d92e15c696c0c31ef4906 timeout=10000ms service=35ms state=completed
+source=rack-timeout id=d1ac61c0c96f1f182fb9a4e3fceb3884 timeout=10000ms state=ready
+Started GET "/users/b79bf50fe3" for 106.51.111.65 at 2017-11-13 20:34:23 +0000
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"b79bf50fe3"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."referral_code" = $1 LIMIT 1[0m  [["referral_code", "b79bf50fe3"]]
+  [1m[35mSetting Load (0.5ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered users/_social_sharing.html.haml (0.9ms)
+source=rack-timeout id=d1ac61c0c96f1f182fb9a4e3fceb3884 timeout=10000ms service=7ms state=active
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "prizes"
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mPrize Load (0.3ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+  [1m[35m (0.2ms)[0m  SELECT "prizes"."number_of_referrals" FROM "prizes"  ORDER BY number_of_referrals asc
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "prizes".* FROM "prizes" WHERE ("prizes"."number_of_referrals" BETWEEN 0 AND 0)  ORDER BY number_of_referrals DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mPrize Load (0.2ms)[0m  SELECT "prizes".* FROM "prizes"  ORDER BY number_of_referrals asc
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1[0m  [["referrer_id", 3]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "users" WHERE "users"."referrer_id" = $1  [["referrer_id", 3]]
+  Rendered prizes/_prize_item.html.haml (1.2ms)
+  Rendered users/show.html.haml within layouts/application (9.8ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "settings".* FROM "settings"  ORDER BY "settings"."id" ASC LIMIT 1
+  Rendered layouts/_meta.html.haml (3.2ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "prizes"[0m
+Completed 200 OK in 16ms (Views: 13.0ms | ActiveRecord: 2.0ms)
+source=rack-timeout id=d1ac61c0c96f1f182fb9a4e3fceb3884 timeout=10000ms service=19ms state=completed

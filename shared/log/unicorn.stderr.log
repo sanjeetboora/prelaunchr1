@@ -1,0 +1,60 @@
+I, [2017-11-13T19:22:14.968089 #6302]  INFO -- : Refreshing Gem list
+I, [2017-11-13T19:22:16.795703 #6302]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-13T19:22:16.795866 #6302]  INFO -- : worker=0 spawning...
+I, [2017-11-13T19:22:16.797559 #6302]  INFO -- : worker=1 spawning...
+I, [2017-11-13T19:22:16.799119 #6302]  INFO -- : master process ready
+I, [2017-11-13T19:22:16.806346 #6305]  INFO -- : worker=0 spawned pid=6305
+I, [2017-11-13T19:22:16.806501 #6305]  INFO -- : worker=0 ready
+I, [2017-11-13T19:22:16.807248 #6308]  INFO -- : worker=1 spawned pid=6308
+I, [2017-11-13T19:22:16.807363 #6308]  INFO -- : worker=1 ready
+I, [2017-11-13T19:27:25.088264 #6302]  INFO -- : reaped #<Process::Status: pid 6305 exit 0> worker=0
+I, [2017-11-13T19:27:25.088374 #6302]  INFO -- : reaped #<Process::Status: pid 6308 exit 0> worker=1
+I, [2017-11-13T19:27:25.088440 #6302]  INFO -- : master complete
+I, [2017-11-13T19:27:29.957132 #7145]  INFO -- : Refreshing Gem list
+I, [2017-11-13T19:27:31.735920 #7145]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-13T19:27:31.736125 #7145]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-13T19:27:31.736235 #7145]  INFO -- : worker=0 spawning...
+I, [2017-11-13T19:27:31.738183 #7145]  INFO -- : worker=1 spawning...
+I, [2017-11-13T19:27:31.739019 #7148]  INFO -- : worker=0 spawned pid=7148
+I, [2017-11-13T19:27:31.739157 #7148]  INFO -- : worker=0 ready
+I, [2017-11-13T19:27:31.740143 #7145]  INFO -- : master process ready
+I, [2017-11-13T19:27:31.747234 #7151]  INFO -- : worker=1 spawned pid=7151
+I, [2017-11-13T19:27:31.747383 #7151]  INFO -- : worker=1 ready
+I, [2017-11-13T19:42:00.679757 #7145]  INFO -- : reaped #<Process::Status: pid 7148 exit 0> worker=0
+I, [2017-11-13T19:42:00.679868 #7145]  INFO -- : reaped #<Process::Status: pid 7151 exit 0> worker=1
+I, [2017-11-13T19:42:00.679932 #7145]  INFO -- : master complete
+I, [2017-11-13T19:42:17.331971 #7516]  INFO -- : Refreshing Gem list
+I, [2017-11-13T19:42:19.109472 #7516]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-13T19:42:19.109644 #7516]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-13T19:42:19.109755 #7516]  INFO -- : worker=0 spawning...
+I, [2017-11-13T19:42:19.111611 #7516]  INFO -- : worker=1 spawning...
+I, [2017-11-13T19:42:19.112329 #7519]  INFO -- : worker=0 spawned pid=7519
+I, [2017-11-13T19:42:19.112477 #7519]  INFO -- : worker=0 ready
+I, [2017-11-13T19:42:19.113443 #7516]  INFO -- : master process ready
+I, [2017-11-13T19:42:19.118979 #7522]  INFO -- : worker=1 spawned pid=7522
+I, [2017-11-13T19:42:19.119109 #7522]  INFO -- : worker=1 ready
+I, [2017-11-13T19:43:17.241999 #7516]  INFO -- : reaped #<Process::Status: pid 7519 exit 0> worker=0
+I, [2017-11-13T19:43:17.242099 #7516]  INFO -- : reaped #<Process::Status: pid 7522 exit 0> worker=1
+I, [2017-11-13T19:43:17.242209 #7516]  INFO -- : master complete
+I, [2017-11-13T19:43:21.175926 #7678]  INFO -- : Refreshing Gem list
+I, [2017-11-13T19:43:22.921720 #7678]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-13T19:43:22.921887 #7678]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-13T19:43:22.921998 #7678]  INFO -- : worker=0 spawning...
+I, [2017-11-13T19:43:22.923915 #7678]  INFO -- : worker=1 spawning...
+I, [2017-11-13T19:43:22.924693 #7682]  INFO -- : worker=0 spawned pid=7682
+I, [2017-11-13T19:43:22.924830 #7682]  INFO -- : worker=0 ready
+I, [2017-11-13T19:43:22.925806 #7678]  INFO -- : master process ready
+I, [2017-11-13T19:43:22.931004 #7685]  INFO -- : worker=1 spawned pid=7685
+I, [2017-11-13T19:43:22.931135 #7685]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
