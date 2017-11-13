@@ -32,6 +32,9 @@ class UsersController < ApplicationController
 	end
 
 	def show
+		if params[:user_id]
+                @user=User.find(params[:user_id])
+		end
 		respond_to do |format|
             format.html
         end

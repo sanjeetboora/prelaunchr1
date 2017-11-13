@@ -45,25 +45,9 @@ class User < ActiveRecord::Base
     def prize_name
         prize ? prize.name : nil
     end
-
-    def number_of_referrals
+ def number_of_referrals
         referrals.count
-    end
-    if (number_of_referrals == 5){
-        prize.name = "Rs. 200 OFF"
-    }
-    if (number_of_referrals == 10){
-        prize.name = "Rs. 400 OFF"
-    }
-
-    if (number_of_referrals == 15){
-        prize.name = "Free test login + 1200 Questions Bank"
-    }
-    
-    if (number_of_referrals == 20){
-        prize.name = "All + One on one personal mentoring"
-    }
-    
+    end    
     def social_url(social_network)
         "/users/#{referral_code}/shares?share%5Bsocial_network%5D=#{social_network}"
     end
