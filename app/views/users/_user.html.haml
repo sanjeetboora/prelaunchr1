@@ -8,3 +8,4 @@
 	%td= user.prize ? user.prize_name : "No prize"
 	%td
 		= link_to "Delete", user_path(user.referral_code), method: :delete, class: "btn btn-default btn-branded"
+	%td= user.refprovider_id

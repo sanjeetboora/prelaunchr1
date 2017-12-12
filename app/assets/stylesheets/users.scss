@@ -1,3 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:700');
+
+html {
+  font-size: 16px !important;
+}
+body {
+  font-family: 'Roboto', sans-serif !important;
+  line-height: 1.5;
+  color: #1d1d1d;
+  font-size: 16px !important;
+}
+
+/* new css */
+
+footer {
+  color: #1d1d1d !important;
+  font-weight: 500;
+}
+
+a {
+  color: #1589ee !important;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif !important;
+  text-transform: none !important;
+}
+
+.mog-logo{
+  margin: 50px auto 30px auto;
+}
+
+.mog-center {
+  margin: 0 0 10px;
+}
+
+.mog-no-margin {
+  margin: 0 !important;
+}
+
+.mog-dis {
+  display: block !important;
+}
+
+footer p {
+  margin: 0;
+}
+
+.mog-white {
+  color: #1d1d1d !important;
+  font-weight: 500 !important;
+  text-align: left !important;
+}
+
+
+.mog-new-blue {
+  color: #1589ee !important;
+}
+
+.mog-left {
+  text-align: left !important;
+}
+
+.cover-title{
+  font-size: 1.74rem;
+  color: #1d1d1d;
+  font-weight: 700;
+  width: auto;
+  text-align: center;
+  margin: 0px auto;
+  padding-bottom: 10px;
+  letter-spacing: -.4px;
+}
+
+.cover-title-blue{
+  font-size: 2.5rem;
+  color: #1589ee;
+  font-weight: 700;
+  width: auto;
+  padding-bottom: 10px;
+  text-align: center;
+  margin: 0px auto;
+}
+
 #content-wrapper {
     width: 100%;
 }
@@ -17,19 +102,11 @@
 	text-align: center;
 	vertical-align: middle;
 	display: table-cell;
-	background-color: rgba(0, 0, 0, 0.4);
+	min-height: 100vh;
+  background-size: cover;
+  background-image: image-url('landing.jpg');
 }
 
-.cover-title{
-	font-size: 50px;
-	color: #FFF;
-	font-weight: 400;
-	font-family: sans-serif;
-	width: auto;
-	text-align: center;
-	margin: 0px auto;
-	text-transform: uppercase;
-}
 
 .cover-subtitle{
 	font-size: 20px;
@@ -40,6 +117,35 @@
 	margin: 50px auto;
 	text-transform: none;
   line-height: 1.2;
+}
+
+.control-group {
+  padding: 10px 0 5px 0;
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: none;
+  text-align: center;
+  margin: 0px auto;
+  display: block;
+}
+
+.controls {
+  padding-bottom: 20px;
+
+}
+
+select {
+  min-height: 40px;
+  padding: 6px;
+}
+
+.logo {
+  background-image: image-url('logo.png');
+  margin: 0 auto;
+}
+
+#form-wrapper {
+  margin-top: 30px;
 }
 
 #new_user {
@@ -57,9 +163,12 @@
 #new_user .form-control{
 	height: 45px;
 	border-radius: 0px;
-	font-size: 18px;
+	font-size: 16px;
+  font-weight: 500;
+  padding: 6px 12px !important;
 	width: 100%;
 	float: left;
+
 	display: inline-block;	
 }
 
@@ -69,26 +178,27 @@
     font-size: 18px;
     font-weight: 600;
     width: 100%;
-    background-color: #4EC9ED;
+    background-color: #1589ee;
     color: #FFF;
     float: left;
     display: inline-block;
-    margin-left: -5px;
+   /* margin-left: -5px; */
 }
 
 .cover small{
-	font-size: 16px;
-	color: #FFF;
+	font-size: 20px;
 	font-weight: 400;
 	text-transform: none;
 	text-align: center;
 	margin: 0px auto;
 	display: block;	
+  /*padding-bottom: 10px;*/
 }
 
 #refer{
 
-	height: 400px;
+	height: 780px;
+  background-image: image-url('refer.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.4);
@@ -113,7 +223,7 @@
 
 #copy h1 {
 	font-size: 25px;
-	color: #1ABC9C;
+	color: #1589ee;
 	font-weight: 800;
 	margin: 5px auto 25px 50px;
 	text-align: left;
@@ -131,6 +241,35 @@
     line-height: 30px;
 }
 
+.pad {
+  margin-top: 20px !important;
+}
+
+.pad-bot {
+  margin-top: 20px !important;
+  padding-bottom: 40px !important;
+}
+
+.pad-bold {
+  margin-top: 20px !important;
+  font-weight: 500 !important;
+}
+
+.pad a {
+    color: #1589ee !important;
+    text-decoration: none;
+}
+
+.pad a:hover {
+    color: #0070d2 !important;
+    text-decoration: none;
+}
+
+.mog-blue {
+  color: #1589ee !important;
+  font-weight: 500 !important;
+}
+
 #refer p{
     font-size: 16px;
     color: #FFF;
@@ -144,8 +283,65 @@
 #social-sharing {
     text-align: center;
     margin-top: 30px;
+    padding-bottom: 20px;
 }
 
+.some-pad {
+  padding-top: 0px;
+}
+
+.lil-pad {
+  padding-top: 5px;
+}
+
+.mog-green {
+color: #2ecc71 !important;
+}
+
+.mog-social {
+  color: #2ecc71 !important;
+}
+
+.mog-social:hover {
+  color: #2ecc71 !important;
+  opacity: .8;
+}
+
+
+.mog-left-m {
+  margin-left: 50px !important;
+}
+
+.mog-social a {
+  color: #2ecc71 !important;
+}
+
+.mog-social a:hover {
+  color: #2ecc71 !important;
+  opacity: .8;
+}
+
+.foofoo {
+  text-align: center;
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px){
+.foofoo {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+}
+
+@media screen and (max-width: 600px){
+.some-pad {
+  padding-top: 10px;
+}
+}
 .contact-socials {
     display: inline-block;
 }
@@ -155,7 +351,7 @@
     float: left;
     transition: all 250ms ease-in-out 0s;
     text-align: center;
-    border-right: 1px solid white;
+    /*border-right: 1px solid white;*/
 }
 
 .contact-socials li:last-child{
@@ -220,11 +416,16 @@ aside h4{
     text-transform: none;
 }
 
+
 .cover footer {
-  position: absolute;
+  position: relative;
   width: 100%;
   bottom: 0px;
-  color: white;  
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  font-weight: 500;
+  font-size: 16px;  
 }
 
 .cover footer a {
@@ -352,6 +553,10 @@ aside h4{
     font-size: 14px; 
   }
 
+  .mog-left-m {
+  margin-left: 0px !important;
+  }
+
   #refer p {
     font-size: 17px;
   }
@@ -402,7 +607,7 @@ aside h4{
   }
 
   #prizes{
-  	margin: 100px 20px;
+  	margin: 40px 20px;
   }
 
 

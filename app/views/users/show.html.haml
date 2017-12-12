@@ -1,15 +1,70 @@
 #refer{style: "background-image: #{Setting.additional_image.present? ? 'url(' + asset_url(Setting.additional_image.url) + ');' : 'auto'}"}
-	.col-md-5.col-md-offset-1.col-sm-6.hidden-xs.refer-left
-	.col-md-5.col-sm-6.col-xs-12
-		#copy
-			%h3 Don't leave your friends behind 
-			%h1 Invite friends & Earn product
+	.container.mog-white	
+		.col-md-6.col-sm-6.col-xs-12
+			%img.mog-center{:height => "60px", :src => "http://mathongo.com/assets/images/logo.png"}/
+			%h1.mog-new-blue FAQ's
+			%p.pad-bold.mog-no-margin.mog-new-blue.mog-left
+				How many tests?
+			%p.pad.mog-no-margin.mog-white
+				100 Tests - 82 Chapter Tests, 8 Part Tests & 10 Full Tests
+			%p.pad-bold.mog-no-margin.mog-new-blue.mog-left
+				What is the Price?
+			%p.pad.mog-no-margin.mog-white
+				₹ 1000 only i.e ₹ 10 per test.
+			%p.pad-bold.mog-no-margin.mog-new-blue.mog-left
+				How to purchase it?
+			%p.pad.mog-no-margin.mog-white
+				3 simple steps
+				%br/
+				%br/
+				1. Pay to the number 9899321721 using Paytm
+				%br/
+				2. Send the screenshot to info@mathongo.com
+				%br/
+				3. You receive a mail on how to register on the platform
+				%br/
+				%br/
+				As simple as it can get.
+			%p.pad-bold.mog-no-margin.mog-new-blue.mog-left
+				For more details:
+			%p.pad.mog-no-margin.mog-white 
+				%a.pad{href: "https://youtu.be/giugATK-QT8"} Watch the Video
+				%br/
+				%a.pad{href: "http://bit.ly/2ieP69F"} Download the PDF
+			%p.pad-bold.mog-no-margin.mog-white.mog-left
+				Or to know more email us at info@mathongo.com
+		.col-md-6.col-sm-6.col-xs-12
+			#copy
+				%h3.mog-white.mog-left Don't leave your friends behind
+				%h1.mog-green Invite Friends and Earn Benifits
 
-		%input.form-control{value: "#{@user.referral_url(root_url)}"}
-		%p Share your unique link via emails or social networks and earn prizes for each friend who signs up.
+			%input.form-control{value: "#{@user.referral_url(root_url)}"}
+			%p.mog-white.some-pad Share your unique link via emails or social networks and earn prizes for each friend who signs up.
+			%br/
+			%h1.mog-green.mog-left-m About Referral
+			%p.pad-bold.mog-no-margin.mog-green.mog-left.mog-left-m
+				Whats this?
+			%p.pad.mog-no-margin.mog-white.mog-left-m
+				Refer the platform to your friends and earns rewards. Rewards?
+				%br/
+				If friends join using your referral links you get the following rewards:
+				%br/
+				%br/
+				05 Friends - ₹ 200 off
+				%br/
+				10 Friends - ₹ 400 off
+				%br/
+				15 Friends - Free Test Series + 1200 Questions Bank
+				%br/
+				20 Friends - All the above plus one on one Personal Mentoring
+				%br/
+				%br/
+				%span.mog-green So go ahead and share
+				it on your facebook page. It cant get any better.
+				Scroll below to see how many of your friends have joined so far.
+				%br/
 
-		= render partial: "social_sharing"
-
+			= render partial: "social_sharing"
 
 %aside.text-center
 	%h4
@@ -22,6 +77,8 @@
 			.progress-box
 		= render partial: "prizes/prize_item", collection: Prize.all.order("number_of_referrals asc"), as: :prize
 
-%footer#footer
-	%p All rights reserved 
-	= link_to "Privacy Policy", privacy_path, remote: true
+%footer.foofoo
+	%a{:href => "mailto:info@mathongo.com?subject=Message%20from%20Refer%20Page%20|%20MathonGo%20Test%20Series"} MathonGo
+	%br/
+	%p.lil-pad
+		Making Quality Education Accessible to All

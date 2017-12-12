@@ -58,3 +58,2361 @@ removed as of version 1.0.
 You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
 
 Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T03:22:52.333367 #7678]  INFO -- : reaped #<Process::Status: pid 7682 exit 0> worker=0
+I, [2017-11-14T03:22:52.333506 #7678]  INFO -- : reaped #<Process::Status: pid 7685 exit 0> worker=1
+I, [2017-11-14T03:22:52.333572 #7678]  INFO -- : master complete
+I, [2017-11-14T03:23:47.275906 #11374]  INFO -- : Refreshing Gem list
+I, [2017-11-14T03:23:49.037311 #11374]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T03:23:49.037469 #11374]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T03:23:49.037568 #11374]  INFO -- : worker=0 spawning...
+I, [2017-11-14T03:23:49.039847 #11374]  INFO -- : worker=1 spawning...
+I, [2017-11-14T03:23:49.040567 #11377]  INFO -- : worker=0 spawned pid=11377
+I, [2017-11-14T03:23:49.040701 #11377]  INFO -- : worker=0 ready
+I, [2017-11-14T03:23:49.042038 #11374]  INFO -- : master process ready
+I, [2017-11-14T03:23:49.046997 #11380]  INFO -- : worker=1 spawned pid=11380
+I, [2017-11-14T03:23:49.047135 #11380]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:23:09.647928 #11374]  INFO -- : reaped #<Process::Status: pid 11377 exit 0> worker=0
+I, [2017-11-14T04:23:09.648033 #11374]  INFO -- : reaped #<Process::Status: pid 11380 exit 0> worker=1
+I, [2017-11-14T04:23:09.648097 #11374]  INFO -- : master complete
+I, [2017-11-14T04:23:38.043942 #11979]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:23:39.762861 #11979]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:23:39.763027 #11979]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:23:39.763128 #11979]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:23:39.765477 #11979]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:23:39.766193 #11982]  INFO -- : worker=0 spawned pid=11982
+I, [2017-11-14T04:23:39.766350 #11982]  INFO -- : worker=0 ready
+I, [2017-11-14T04:23:39.767748 #11979]  INFO -- : master process ready
+I, [2017-11-14T04:23:39.774992 #11985]  INFO -- : worker=1 spawned pid=11985
+I, [2017-11-14T04:23:39.775117 #11985]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:24:40.779285 #11979]  INFO -- : reaped #<Process::Status: pid 11982 exit 0> worker=0
+I, [2017-11-14T04:24:40.779405 #11979]  INFO -- : reaped #<Process::Status: pid 11985 exit 0> worker=1
+I, [2017-11-14T04:24:40.779482 #11979]  INFO -- : master complete
+I, [2017-11-14T04:24:57.467991 #12212]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:24:59.201879 #12212]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:24:59.202058 #12212]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:24:59.202179 #12212]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:24:59.204169 #12212]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:24:59.204920 #12215]  INFO -- : worker=0 spawned pid=12215
+I, [2017-11-14T04:24:59.205048 #12215]  INFO -- : worker=0 ready
+I, [2017-11-14T04:24:59.206013 #12212]  INFO -- : master process ready
+I, [2017-11-14T04:24:59.211027 #12218]  INFO -- : worker=1 spawned pid=12218
+I, [2017-11-14T04:24:59.211157 #12218]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:32:24.133963 #12212]  INFO -- : reaped #<Process::Status: pid 12215 exit 0> worker=0
+I, [2017-11-14T04:32:24.134064 #12212]  INFO -- : reaped #<Process::Status: pid 12218 exit 0> worker=1
+I, [2017-11-14T04:32:24.134147 #12212]  INFO -- : master complete
+I, [2017-11-14T04:32:36.916027 #12396]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:32:38.707620 #12396]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:32:38.707778 #12396]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:32:38.707872 #12396]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:32:38.709873 #12396]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:32:38.710653 #12399]  INFO -- : worker=0 spawned pid=12399
+I, [2017-11-14T04:32:38.710894 #12399]  INFO -- : worker=0 ready
+I, [2017-11-14T04:32:38.711894 #12396]  INFO -- : master process ready
+I, [2017-11-14T04:32:38.719078 #12402]  INFO -- : worker=1 spawned pid=12402
+I, [2017-11-14T04:32:38.719214 #12402]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:35:08.984883 #12396]  INFO -- : reaped #<Process::Status: pid 12399 exit 0> worker=0
+I, [2017-11-14T04:35:08.984992 #12396]  INFO -- : reaped #<Process::Status: pid 12402 exit 0> worker=1
+I, [2017-11-14T04:35:08.985135 #12396]  INFO -- : master complete
+I, [2017-11-14T04:35:33.083832 #12562]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:35:34.830381 #12562]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:35:34.830558 #12562]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:35:34.830671 #12562]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:35:34.833231 #12562]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:35:34.834010 #12566]  INFO -- : worker=0 spawned pid=12566
+I, [2017-11-14T04:35:34.834130 #12566]  INFO -- : worker=0 ready
+I, [2017-11-14T04:35:34.835654 #12562]  INFO -- : master process ready
+I, [2017-11-14T04:35:34.842989 #12569]  INFO -- : worker=1 spawned pid=12569
+I, [2017-11-14T04:35:34.843115 #12569]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:38:18.561468 #12562]  INFO -- : reaped #<Process::Status: pid 12566 exit 0> worker=0
+I, [2017-11-14T04:38:18.562787 #12562]  INFO -- : reaped #<Process::Status: pid 12569 exit 0> worker=1
+I, [2017-11-14T04:38:18.562854 #12562]  INFO -- : master complete
+I, [2017-11-14T04:38:42.119948 #12730]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:38:43.863170 #12730]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:38:43.863342 #12730]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:38:43.863443 #12730]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:38:43.865357 #12730]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:38:43.866137 #12733]  INFO -- : worker=0 spawned pid=12733
+I, [2017-11-14T04:38:43.867159 #12730]  INFO -- : master process ready
+I, [2017-11-14T04:38:43.866273 #12733]  INFO -- : worker=0 ready
+I, [2017-11-14T04:38:43.875056 #12736]  INFO -- : worker=1 spawned pid=12736
+I, [2017-11-14T04:38:43.875198 #12736]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:40:51.111770 #12730]  INFO -- : reaped #<Process::Status: pid 12733 exit 0> worker=0
+I, [2017-11-14T04:40:51.212286 #12730]  INFO -- : reaped #<Process::Status: pid 12736 exit 0> worker=1
+I, [2017-11-14T04:40:51.212433 #12730]  INFO -- : master complete
+I, [2017-11-14T04:41:07.967912 #12897]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:41:09.721741 #12897]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:41:09.721925 #12897]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:41:09.722045 #12897]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:41:09.724488 #12897]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:41:09.725298 #12900]  INFO -- : worker=0 spawned pid=12900
+I, [2017-11-14T04:41:09.725426 #12900]  INFO -- : worker=0 ready
+I, [2017-11-14T04:41:09.727139 #12897]  INFO -- : master process ready
+I, [2017-11-14T04:41:09.735091 #12903]  INFO -- : worker=1 spawned pid=12903
+I, [2017-11-14T04:41:09.735267 #12903]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:45:25.860542 #12897]  INFO -- : reaped #<Process::Status: pid 12900 exit 0> worker=0
+I, [2017-11-14T04:45:25.860643 #12897]  INFO -- : reaped #<Process::Status: pid 12903 exit 0> worker=1
+I, [2017-11-14T04:45:25.860706 #12897]  INFO -- : master complete
+I, [2017-11-14T04:45:43.959987 #13084]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:45:45.751842 #13084]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:45:45.752029 #13084]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:45:45.752141 #13084]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:45:45.754040 #13084]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:45:45.755299 #13087]  INFO -- : worker=0 spawned pid=13087
+I, [2017-11-14T04:45:45.755522 #13087]  INFO -- : worker=0 ready
+I, [2017-11-14T04:45:45.756537 #13084]  INFO -- : master process ready
+I, [2017-11-14T04:45:45.763112 #13090]  INFO -- : worker=1 spawned pid=13090
+I, [2017-11-14T04:45:45.763236 #13090]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:49:58.916429 #13084]  INFO -- : reaped #<Process::Status: pid 13087 exit 0> worker=0
+I, [2017-11-14T04:49:58.917545 #13084]  INFO -- : reaped #<Process::Status: pid 13090 exit 0> worker=1
+I, [2017-11-14T04:49:58.917648 #13084]  INFO -- : master complete
+I, [2017-11-14T04:52:21.908231 #13304]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:52:23.664055 #13304]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:52:23.664224 #13304]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:52:23.664323 #13304]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:52:23.666268 #13304]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:52:23.667058 #13307]  INFO -- : worker=0 spawned pid=13307
+I, [2017-11-14T04:52:23.667201 #13307]  INFO -- : worker=0 ready
+I, [2017-11-14T04:52:23.668232 #13304]  INFO -- : master process ready
+I, [2017-11-14T04:52:23.675076 #13310]  INFO -- : worker=1 spawned pid=13310
+I, [2017-11-14T04:52:23.675225 #13310]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:54:06.844387 #13304]  INFO -- : reaped #<Process::Status: pid 13307 exit 0> worker=0
+I, [2017-11-14T04:54:06.844517 #13304]  INFO -- : reaped #<Process::Status: pid 13310 exit 0> worker=1
+I, [2017-11-14T04:54:06.844591 #13304]  INFO -- : master complete
+I, [2017-11-14T04:54:25.667967 #13468]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:54:27.424523 #13468]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:54:27.424699 #13468]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:54:27.424798 #13468]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:54:27.426905 #13468]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:54:27.427859 #13468]  INFO -- : master process ready
+I, [2017-11-14T04:54:27.435170 #13471]  INFO -- : worker=0 spawned pid=13471
+I, [2017-11-14T04:54:27.435307 #13471]  INFO -- : worker=0 ready
+I, [2017-11-14T04:54:27.436050 #13473]  INFO -- : worker=1 spawned pid=13473
+I, [2017-11-14T04:54:27.436169 #13473]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T04:56:32.998775 #13468]  INFO -- : reaped #<Process::Status: pid 13471 exit 0> worker=0
+I, [2017-11-14T04:56:33.099277 #13468]  INFO -- : reaped #<Process::Status: pid 13473 exit 0> worker=1
+I, [2017-11-14T04:56:33.099411 #13468]  INFO -- : master complete
+I, [2017-11-14T04:56:56.776072 #13637]  INFO -- : Refreshing Gem list
+I, [2017-11-14T04:56:58.514180 #13637]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T04:56:58.514386 #13637]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T04:56:58.514511 #13637]  INFO -- : worker=0 spawning...
+I, [2017-11-14T04:56:58.516934 #13637]  INFO -- : worker=1 spawning...
+I, [2017-11-14T04:56:58.517647 #13640]  INFO -- : worker=0 spawned pid=13640
+I, [2017-11-14T04:56:58.517893 #13640]  INFO -- : worker=0 ready
+I, [2017-11-14T04:56:58.519331 #13637]  INFO -- : master process ready
+I, [2017-11-14T04:56:58.527151 #13643]  INFO -- : worker=1 spawned pid=13643
+I, [2017-11-14T04:56:58.527278 #13643]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:16:20.801968 #13637]  INFO -- : reaped #<Process::Status: pid 13640 exit 0> worker=0
+I, [2017-11-14T06:16:20.802088 #13637]  INFO -- : reaped #<Process::Status: pid 13643 exit 0> worker=1
+I, [2017-11-14T06:16:20.802154 #13637]  INFO -- : master complete
+I, [2017-11-14T06:16:37.060040 #14760]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:16:38.867376 #14760]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:16:38.867538 #14760]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:16:38.867634 #14760]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:16:38.869554 #14760]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:16:38.870555 #14763]  INFO -- : worker=0 spawned pid=14763
+I, [2017-11-14T06:16:38.870679 #14763]  INFO -- : worker=0 ready
+I, [2017-11-14T06:16:38.871691 #14760]  INFO -- : master process ready
+I, [2017-11-14T06:16:38.879020 #14766]  INFO -- : worker=1 spawned pid=14766
+I, [2017-11-14T06:16:38.879145 #14766]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:20:27.980753 #14760]  INFO -- : reaped #<Process::Status: pid 14763 exit 0> worker=0
+I, [2017-11-14T06:20:28.081220 #14760]  INFO -- : reaped #<Process::Status: pid 14766 exit 0> worker=1
+I, [2017-11-14T06:20:28.081357 #14760]  INFO -- : master complete
+I, [2017-11-14T06:20:58.123876 #14934]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:20:59.912535 #14934]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:20:59.912730 #14934]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:20:59.912826 #14934]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:20:59.915359 #14934]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:20:59.916717 #14934]  INFO -- : master process ready
+I, [2017-11-14T06:20:59.923139 #14937]  INFO -- : worker=0 spawned pid=14937
+I, [2017-11-14T06:20:59.923266 #14937]  INFO -- : worker=0 ready
+I, [2017-11-14T06:20:59.923961 #14939]  INFO -- : worker=1 spawned pid=14939
+I, [2017-11-14T06:20:59.924152 #14939]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:27:05.106790 #14934]  INFO -- : reaped #<Process::Status: pid 14937 exit 0> worker=0
+I, [2017-11-14T06:27:05.106892 #14934]  INFO -- : reaped #<Process::Status: pid 14939 exit 0> worker=1
+I, [2017-11-14T06:27:05.106966 #14934]  INFO -- : master complete
+I, [2017-11-14T06:27:28.780555 #15307]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:27:30.524162 #15307]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:27:30.524330 #15307]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:27:30.524441 #15307]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:27:30.526443 #15307]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:27:30.527761 #15310]  INFO -- : worker=0 spawned pid=15310
+I, [2017-11-14T06:27:30.527902 #15310]  INFO -- : worker=0 ready
+I, [2017-11-14T06:27:30.528933 #15307]  INFO -- : master process ready
+I, [2017-11-14T06:27:30.535071 #15313]  INFO -- : worker=1 spawned pid=15313
+I, [2017-11-14T06:27:30.535216 #15313]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:32:23.488154 #15307]  INFO -- : reaped #<Process::Status: pid 15310 exit 0> worker=0
+I, [2017-11-14T06:32:23.588647 #15307]  INFO -- : reaped #<Process::Status: pid 15313 exit 0> worker=1
+I, [2017-11-14T06:32:23.588874 #15307]  INFO -- : master complete
+I, [2017-11-14T06:32:44.148531 #15603]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:32:45.890364 #15603]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:32:45.890536 #15603]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:32:45.890633 #15603]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:32:45.892553 #15603]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:32:45.893770 #15606]  INFO -- : worker=0 spawned pid=15606
+I, [2017-11-14T06:32:45.893999 #15606]  INFO -- : worker=0 ready
+I, [2017-11-14T06:32:45.895079 #15603]  INFO -- : master process ready
+I, [2017-11-14T06:32:45.903113 #15609]  INFO -- : worker=1 spawned pid=15609
+I, [2017-11-14T06:32:45.903240 #15609]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:34:06.288021 #15603]  INFO -- : reaped #<Process::Status: pid 15606 exit 0> worker=0
+I, [2017-11-14T06:34:06.288149 #15603]  INFO -- : reaped #<Process::Status: pid 15609 exit 0> worker=1
+I, [2017-11-14T06:34:06.288217 #15603]  INFO -- : master complete
+I, [2017-11-14T06:36:14.263851 #15807]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:36:16.016005 #15807]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:36:16.016170 #15807]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:36:16.016265 #15807]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:36:16.018685 #15807]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:36:16.019353 #15811]  INFO -- : worker=0 spawned pid=15811
+I, [2017-11-14T06:36:16.019579 #15811]  INFO -- : worker=0 ready
+I, [2017-11-14T06:36:16.020982 #15807]  INFO -- : master process ready
+I, [2017-11-14T06:36:16.026993 #15814]  INFO -- : worker=1 spawned pid=15814
+I, [2017-11-14T06:36:16.027120 #15814]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:41:09.277016 #15807]  INFO -- : reaped #<Process::Status: pid 15811 exit 0> worker=0
+I, [2017-11-14T06:41:09.277151 #15807]  INFO -- : reaped #<Process::Status: pid 15814 exit 0> worker=1
+I, [2017-11-14T06:41:09.277213 #15807]  INFO -- : master complete
+I, [2017-11-14T06:41:26.795948 #16122]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:41:28.547259 #16122]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:41:28.547419 #16122]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:41:28.547524 #16122]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:41:28.549534 #16122]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:41:28.550717 #16125]  INFO -- : worker=0 spawned pid=16125
+I, [2017-11-14T06:41:28.550849 #16125]  INFO -- : worker=0 ready
+I, [2017-11-14T06:41:28.551884 #16122]  INFO -- : master process ready
+I, [2017-11-14T06:41:28.559062 #16128]  INFO -- : worker=1 spawned pid=16128
+I, [2017-11-14T06:41:28.559214 #16128]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T06:43:28.276863 #16122]  INFO -- : reaped #<Process::Status: pid 16125 exit 0> worker=0
+I, [2017-11-14T06:43:28.377297 #16122]  INFO -- : reaped #<Process::Status: pid 16128 exit 0> worker=1
+I, [2017-11-14T06:43:28.377439 #16122]  INFO -- : master complete
+I, [2017-11-14T06:43:44.191863 #16285]  INFO -- : Refreshing Gem list
+I, [2017-11-14T06:43:45.958436 #16285]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T06:43:45.958640 #16285]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T06:43:45.958746 #16285]  INFO -- : worker=0 spawning...
+I, [2017-11-14T06:43:45.960751 #16285]  INFO -- : worker=1 spawning...
+I, [2017-11-14T06:43:45.961463 #16288]  INFO -- : worker=0 spawned pid=16288
+I, [2017-11-14T06:43:45.961586 #16288]  INFO -- : worker=0 ready
+I, [2017-11-14T06:43:45.962639 #16285]  INFO -- : master process ready
+I, [2017-11-14T06:43:45.966963 #16291]  INFO -- : worker=1 spawned pid=16291
+I, [2017-11-14T06:43:45.967091 #16291]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:01:52.793130 #16285]  INFO -- : reaped #<Process::Status: pid 16288 exit 0> worker=0
+I, [2017-11-14T07:01:52.893575 #16285]  INFO -- : reaped #<Process::Status: pid 16291 exit 0> worker=1
+I, [2017-11-14T07:01:52.893715 #16285]  INFO -- : master complete
+I, [2017-11-14T07:02:12.944094 #16746]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:02:14.718274 #16746]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:02:14.718477 #16746]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:02:14.718575 #16746]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:02:14.720602 #16746]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:02:14.721353 #16749]  INFO -- : worker=0 spawned pid=16749
+I, [2017-11-14T07:02:14.721476 #16749]  INFO -- : worker=0 ready
+I, [2017-11-14T07:02:14.722688 #16746]  INFO -- : master process ready
+I, [2017-11-14T07:02:14.727007 #16752]  INFO -- : worker=1 spawned pid=16752
+I, [2017-11-14T07:02:14.727247 #16752]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:07:18.145912 #16746]  INFO -- : reaped #<Process::Status: pid 16749 exit 0> worker=0
+I, [2017-11-14T07:07:18.146019 #16746]  INFO -- : reaped #<Process::Status: pid 16752 exit 0> worker=1
+I, [2017-11-14T07:07:18.146101 #16746]  INFO -- : master complete
+I, [2017-11-14T07:07:33.543893 #16920]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:07:35.342593 #16920]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:07:35.342764 #16920]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:07:35.342858 #16920]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:07:35.344838 #16920]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:07:35.345534 #16923]  INFO -- : worker=0 spawned pid=16923
+I, [2017-11-14T07:07:35.345653 #16923]  INFO -- : worker=0 ready
+I, [2017-11-14T07:07:35.346653 #16920]  INFO -- : master process ready
+I, [2017-11-14T07:07:35.351004 #16926]  INFO -- : worker=1 spawned pid=16926
+I, [2017-11-14T07:07:35.351121 #16926]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:09:42.827304 #16920]  INFO -- : reaped #<Process::Status: pid 16923 exit 0> worker=0
+I, [2017-11-14T07:09:42.827426 #16920]  INFO -- : reaped #<Process::Status: pid 16926 exit 0> worker=1
+I, [2017-11-14T07:09:42.827495 #16920]  INFO -- : master complete
+I, [2017-11-14T07:09:59.416068 #17085]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:10:01.221352 #17085]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:10:01.221530 #17085]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:10:01.221629 #17085]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:10:01.223646 #17085]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:10:01.224404 #17088]  INFO -- : worker=0 spawned pid=17088
+I, [2017-11-14T07:10:01.224538 #17088]  INFO -- : worker=0 ready
+I, [2017-11-14T07:10:01.225605 #17085]  INFO -- : master process ready
+I, [2017-11-14T07:10:01.231047 #17091]  INFO -- : worker=1 spawned pid=17091
+I, [2017-11-14T07:10:01.231181 #17091]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:12:53.183612 #17085]  INFO -- : reaped #<Process::Status: pid 17088 exit 0> worker=0
+I, [2017-11-14T07:12:53.183714 #17085]  INFO -- : reaped #<Process::Status: pid 17091 exit 0> worker=1
+I, [2017-11-14T07:12:53.183777 #17085]  INFO -- : master complete
+I, [2017-11-14T07:15:53.031948 #17303]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:15:54.831592 #17303]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:15:54.831755 #17303]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:15:54.831853 #17303]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:15:54.834346 #17303]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:15:54.835094 #17306]  INFO -- : worker=0 spawned pid=17306
+I, [2017-11-14T07:15:54.835301 #17306]  INFO -- : worker=0 ready
+I, [2017-11-14T07:15:54.836759 #17303]  INFO -- : master process ready
+I, [2017-11-14T07:15:54.843069 #17309]  INFO -- : worker=1 spawned pid=17309
+I, [2017-11-14T07:15:54.843215 #17309]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:18:40.269227 #17303]  INFO -- : reaped #<Process::Status: pid 17306 exit 0> worker=0
+I, [2017-11-14T07:18:40.269328 #17303]  INFO -- : reaped #<Process::Status: pid 17309 exit 0> worker=1
+I, [2017-11-14T07:18:40.269389 #17303]  INFO -- : master complete
+I, [2017-11-14T07:19:01.263875 #17474]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:19:03.052786 #17474]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:19:03.052955 #17474]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:19:03.053051 #17474]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:19:03.055451 #17474]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:19:03.056848 #17474]  INFO -- : master process ready
+I, [2017-11-14T07:19:03.063252 #17477]  INFO -- : worker=0 spawned pid=17477
+I, [2017-11-14T07:19:03.063424 #17477]  INFO -- : worker=0 ready
+I, [2017-11-14T07:19:03.064227 #17479]  INFO -- : worker=1 spawned pid=17479
+I, [2017-11-14T07:19:03.064357 #17479]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:46:44.323065 #17474]  INFO -- : reaped #<Process::Status: pid 17477 exit 0> worker=0
+I, [2017-11-14T07:46:44.323189 #17474]  INFO -- : reaped #<Process::Status: pid 17479 exit 0> worker=1
+I, [2017-11-14T07:46:44.323257 #17474]  INFO -- : master complete
+I, [2017-11-14T07:47:01.871977 #17934]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:47:03.675477 #17934]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:47:03.675646 #17934]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:47:03.675743 #17934]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:47:03.677702 #17934]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:47:03.678480 #17937]  INFO -- : worker=0 spawned pid=17937
+I, [2017-11-14T07:47:03.678603 #17937]  INFO -- : worker=0 ready
+I, [2017-11-14T07:47:03.679586 #17934]  INFO -- : master process ready
+I, [2017-11-14T07:47:03.687052 #17940]  INFO -- : worker=1 spawned pid=17940
+I, [2017-11-14T07:47:03.687184 #17940]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:48:08.473169 #17934]  INFO -- : reaped #<Process::Status: pid 17937 exit 0> worker=0
+I, [2017-11-14T07:48:08.573563 #17934]  INFO -- : reaped #<Process::Status: pid 17940 exit 0> worker=1
+I, [2017-11-14T07:48:08.573712 #17934]  INFO -- : master complete
+I, [2017-11-14T07:48:23.071909 #18092]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:48:24.841400 #18092]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:48:24.841602 #18092]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:48:24.841703 #18092]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:48:24.843643 #18092]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:48:24.844381 #18095]  INFO -- : worker=0 spawned pid=18095
+I, [2017-11-14T07:48:24.844519 #18095]  INFO -- : worker=0 ready
+I, [2017-11-14T07:48:24.845483 #18092]  INFO -- : master process ready
+I, [2017-11-14T07:48:24.850982 #18098]  INFO -- : worker=1 spawned pid=18098
+I, [2017-11-14T07:48:24.851140 #18098]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:49:38.764965 #18092]  INFO -- : reaped #<Process::Status: pid 18095 exit 0> worker=0
+I, [2017-11-14T07:49:38.765062 #18092]  INFO -- : reaped #<Process::Status: pid 18098 exit 0> worker=1
+I, [2017-11-14T07:49:38.765128 #18092]  INFO -- : master complete
+I, [2017-11-14T07:49:53.655959 #18263]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:49:55.382670 #18263]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:49:55.382825 #18263]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:49:55.382929 #18263]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:49:55.385311 #18263]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:49:55.386005 #18266]  INFO -- : worker=0 spawned pid=18266
+I, [2017-11-14T07:49:55.386127 #18266]  INFO -- : worker=0 ready
+I, [2017-11-14T07:49:55.387587 #18263]  INFO -- : master process ready
+I, [2017-11-14T07:49:55.394951 #18269]  INFO -- : worker=1 spawned pid=18269
+I, [2017-11-14T07:49:55.395060 #18269]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T07:50:30.619124 #18263]  INFO -- : reaped #<Process::Status: pid 18266 exit 0> worker=0
+I, [2017-11-14T07:50:30.619232 #18263]  INFO -- : reaped #<Process::Status: pid 18269 exit 0> worker=1
+I, [2017-11-14T07:50:30.619295 #18263]  INFO -- : master complete
+I, [2017-11-14T07:51:25.435987 #18422]  INFO -- : Refreshing Gem list
+I, [2017-11-14T07:51:27.160770 #18422]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T07:51:27.160949 #18422]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T07:51:27.161041 #18422]  INFO -- : worker=0 spawning...
+I, [2017-11-14T07:51:27.163076 #18422]  INFO -- : worker=1 spawning...
+I, [2017-11-14T07:51:27.163976 #18422]  INFO -- : master process ready
+I, [2017-11-14T07:51:27.171051 #18425]  INFO -- : worker=0 spawned pid=18425
+I, [2017-11-14T07:51:27.171189 #18425]  INFO -- : worker=0 ready
+I, [2017-11-14T07:51:27.171864 #18427]  INFO -- : worker=1 spawned pid=18427
+I, [2017-11-14T07:51:27.171989 #18427]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T10:26:33.362891 #18422]  INFO -- : reaped #<Process::Status: pid 18425 exit 0> worker=0
+I, [2017-11-14T10:26:33.362999 #18422]  INFO -- : reaped #<Process::Status: pid 18427 exit 0> worker=1
+I, [2017-11-14T10:26:33.363120 #18422]  INFO -- : master complete
+I, [2017-11-14T10:26:49.498196 #19465]  INFO -- : Refreshing Gem list
+I, [2017-11-14T10:26:51.247085 #19465]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T10:26:51.247268 #19465]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T10:26:51.247371 #19465]  INFO -- : worker=0 spawning...
+I, [2017-11-14T10:26:51.249248 #19465]  INFO -- : worker=1 spawning...
+I, [2017-11-14T10:26:51.251663 #19468]  INFO -- : worker=0 spawned pid=19468
+I, [2017-11-14T10:26:51.251778 #19468]  INFO -- : worker=0 ready
+I, [2017-11-14T10:26:51.253973 #19465]  INFO -- : master process ready
+I, [2017-11-14T10:26:51.260241 #19471]  INFO -- : worker=1 spawned pid=19471
+I, [2017-11-14T10:26:51.260383 #19471]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T10:28:30.425913 #19465]  INFO -- : reaped #<Process::Status: pid 19468 exit 0> worker=0
+I, [2017-11-14T10:28:30.426056 #19465]  INFO -- : reaped #<Process::Status: pid 19471 exit 0> worker=1
+I, [2017-11-14T10:28:30.426219 #19465]  INFO -- : master complete
+I, [2017-11-14T10:28:49.643992 #19625]  INFO -- : Refreshing Gem list
+I, [2017-11-14T10:28:51.422909 #19625]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T10:28:51.423071 #19625]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T10:28:51.423177 #19625]  INFO -- : worker=0 spawning...
+I, [2017-11-14T10:28:51.425676 #19625]  INFO -- : worker=1 spawning...
+I, [2017-11-14T10:28:51.426483 #19628]  INFO -- : worker=0 spawned pid=19628
+I, [2017-11-14T10:28:51.426604 #19628]  INFO -- : worker=0 ready
+I, [2017-11-14T10:28:51.427970 #19625]  INFO -- : master process ready
+I, [2017-11-14T10:28:51.435007 #19631]  INFO -- : worker=1 spawned pid=19631
+I, [2017-11-14T10:28:51.435126 #19631]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T10:36:04.346145 #19625]  INFO -- : reaped #<Process::Status: pid 19628 exit 0> worker=0
+I, [2017-11-14T10:36:04.346253 #19625]  INFO -- : reaped #<Process::Status: pid 19631 exit 0> worker=1
+I, [2017-11-14T10:36:04.346396 #19625]  INFO -- : master complete
+I, [2017-11-14T10:36:32.287960 #20020]  INFO -- : Refreshing Gem list
+I, [2017-11-14T10:36:34.077889 #20020]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T10:36:34.078056 #20020]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T10:36:34.078182 #20020]  INFO -- : worker=0 spawning...
+I, [2017-11-14T10:36:34.080185 #20020]  INFO -- : worker=1 spawning...
+I, [2017-11-14T10:36:34.081080 #20023]  INFO -- : worker=0 spawned pid=20023
+I, [2017-11-14T10:36:34.081211 #20023]  INFO -- : worker=0 ready
+I, [2017-11-14T10:36:34.082238 #20020]  INFO -- : master process ready
+I, [2017-11-14T10:36:34.087040 #20026]  INFO -- : worker=1 spawned pid=20026
+I, [2017-11-14T10:36:34.087166 #20026]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T10:43:49.862596 #20020]  INFO -- : reaped #<Process::Status: pid 20023 exit 0> worker=0
+I, [2017-11-14T10:43:49.862767 #20020]  INFO -- : reaped #<Process::Status: pid 20026 exit 0> worker=1
+I, [2017-11-14T10:43:49.862865 #20020]  INFO -- : master complete
+I, [2017-11-14T10:44:47.872060 #20413]  INFO -- : Refreshing Gem list
+I, [2017-11-14T10:44:49.616380 #20413]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T10:44:49.616559 #20413]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T10:44:49.616661 #20413]  INFO -- : worker=0 spawning...
+I, [2017-11-14T10:44:49.618572 #20413]  INFO -- : worker=1 spawning...
+I, [2017-11-14T10:44:49.619497 #20413]  INFO -- : master process ready
+I, [2017-11-14T10:44:49.627156 #20416]  INFO -- : worker=0 spawned pid=20416
+I, [2017-11-14T10:44:49.627316 #20416]  INFO -- : worker=0 ready
+I, [2017-11-14T10:44:49.628028 #20418]  INFO -- : worker=1 spawned pid=20418
+I, [2017-11-14T10:44:49.628156 #20418]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:02:49.614871 #20413]  INFO -- : reaped #<Process::Status: pid 20416 exit 0> worker=0
+I, [2017-11-14T11:02:49.614975 #20413]  INFO -- : reaped #<Process::Status: pid 20418 exit 0> worker=1
+I, [2017-11-14T11:02:49.615041 #20413]  INFO -- : master complete
+I, [2017-11-14T11:03:10.709642 #20841]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:03:12.497022 #20841]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:03:12.497198 #20841]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:03:12.497296 #20841]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:03:12.499257 #20841]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:03:12.500351 #20841]  INFO -- : master process ready
+I, [2017-11-14T11:03:12.507161 #20844]  INFO -- : worker=0 spawned pid=20844
+I, [2017-11-14T11:03:12.507298 #20844]  INFO -- : worker=0 ready
+I, [2017-11-14T11:03:12.508004 #20846]  INFO -- : worker=1 spawned pid=20846
+I, [2017-11-14T11:03:12.508129 #20846]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:04:58.476355 #20841]  INFO -- : reaped #<Process::Status: pid 20844 exit 0> worker=0
+I, [2017-11-14T11:04:58.476466 #20841]  INFO -- : reaped #<Process::Status: pid 20846 exit 0> worker=1
+I, [2017-11-14T11:04:58.476530 #20841]  INFO -- : master complete
+I, [2017-11-14T11:05:16.643897 #21007]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:05:18.403001 #21007]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:05:18.403182 #21007]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:05:18.403301 #21007]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:05:18.405750 #21007]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:05:18.406514 #21010]  INFO -- : worker=0 spawned pid=21010
+I, [2017-11-14T11:05:18.406639 #21010]  INFO -- : worker=0 ready
+I, [2017-11-14T11:05:18.408240 #21007]  INFO -- : master process ready
+I, [2017-11-14T11:05:18.415103 #21013]  INFO -- : worker=1 spawned pid=21013
+I, [2017-11-14T11:05:18.415307 #21013]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:06:34.768803 #21007]  INFO -- : reaped #<Process::Status: pid 21010 exit 0> worker=0
+I, [2017-11-14T11:06:34.768944 #21007]  INFO -- : reaped #<Process::Status: pid 21013 exit 0> worker=1
+I, [2017-11-14T11:06:34.769006 #21007]  INFO -- : master complete
+I, [2017-11-14T11:06:53.105567 #21170]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:06:54.830720 #21170]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:06:54.830908 #21170]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:06:54.831002 #21170]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:06:54.833304 #21170]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:06:54.833973 #21173]  INFO -- : worker=0 spawned pid=21173
+I, [2017-11-14T11:06:54.834086 #21173]  INFO -- : worker=0 ready
+I, [2017-11-14T11:06:54.835449 #21170]  INFO -- : master process ready
+I, [2017-11-14T11:06:54.842959 #21176]  INFO -- : worker=1 spawned pid=21176
+I, [2017-11-14T11:06:54.843067 #21176]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:10:22.827050 #21170]  INFO -- : reaped #<Process::Status: pid 21173 exit 0> worker=0
+I, [2017-11-14T11:10:22.927505 #21170]  INFO -- : reaped #<Process::Status: pid 21176 exit 0> worker=1
+I, [2017-11-14T11:10:22.927645 #21170]  INFO -- : master complete
+I, [2017-11-14T11:11:10.708053 #21344]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:11:12.516796 #21344]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:11:12.516958 #21344]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:11:12.517063 #21344]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:11:12.519048 #21344]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:11:12.520451 #21344]  INFO -- : master process ready
+I, [2017-11-14T11:11:12.527192 #21347]  INFO -- : worker=0 spawned pid=21347
+I, [2017-11-14T11:11:12.527326 #21347]  INFO -- : worker=0 ready
+I, [2017-11-14T11:11:12.528023 #21349]  INFO -- : worker=1 spawned pid=21349
+I, [2017-11-14T11:11:12.528137 #21349]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:12:21.715280 #21344]  INFO -- : reaped #<Process::Status: pid 21347 exit 0> worker=0
+I, [2017-11-14T11:12:21.815752 #21344]  INFO -- : reaped #<Process::Status: pid 21349 exit 0> worker=1
+I, [2017-11-14T11:12:21.815890 #21344]  INFO -- : master complete
+I, [2017-11-14T11:13:24.707916 #21507]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:13:26.461058 #21507]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:13:26.461234 #21507]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:13:26.461362 #21507]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:13:26.463896 #21507]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:13:26.464603 #21510]  INFO -- : worker=0 spawned pid=21510
+I, [2017-11-14T11:13:26.464726 #21510]  INFO -- : worker=0 ready
+I, [2017-11-14T11:13:26.466132 #21507]  INFO -- : master process ready
+I, [2017-11-14T11:13:26.470964 #21513]  INFO -- : worker=1 spawned pid=21513
+I, [2017-11-14T11:13:26.471070 #21513]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:22:43.120498 #21507]  INFO -- : reaped #<Process::Status: pid 21513 exit 0> worker=1
+I, [2017-11-14T11:22:43.220922 #21507]  INFO -- : reaped #<Process::Status: pid 21510 exit 0> worker=0
+I, [2017-11-14T11:22:43.221059 #21507]  INFO -- : master complete
+I, [2017-11-14T11:23:01.532272 #21700]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:23:03.335687 #21700]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:23:03.335874 #21700]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:23:03.335980 #21700]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:23:03.337936 #21700]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:23:03.338697 #21703]  INFO -- : worker=0 spawned pid=21703
+I, [2017-11-14T11:23:03.338825 #21703]  INFO -- : worker=0 ready
+I, [2017-11-14T11:23:03.339824 #21700]  INFO -- : master process ready
+I, [2017-11-14T11:23:03.347036 #21706]  INFO -- : worker=1 spawned pid=21706
+I, [2017-11-14T11:23:03.347161 #21706]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-14T11:41:47.751046 #21700]  INFO -- : reaped #<Process::Status: pid 21703 exit 0> worker=0
+I, [2017-11-14T11:41:47.751162 #21700]  INFO -- : reaped #<Process::Status: pid 21706 exit 0> worker=1
+I, [2017-11-14T11:41:47.751228 #21700]  INFO -- : master complete
+I, [2017-11-14T11:41:59.379971 #22292]  INFO -- : Refreshing Gem list
+I, [2017-11-14T11:42:01.119413 #22292]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-14T11:42:01.119578 #22292]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-14T11:42:01.119672 #22292]  INFO -- : worker=0 spawning...
+I, [2017-11-14T11:42:01.122022 #22292]  INFO -- : worker=1 spawning...
+I, [2017-11-14T11:42:01.122794 #22295]  INFO -- : worker=0 spawned pid=22295
+I, [2017-11-14T11:42:01.123097 #22295]  INFO -- : worker=0 ready
+I, [2017-11-14T11:42:01.124488 #22292]  INFO -- : master process ready
+I, [2017-11-14T11:42:01.131039 #22298]  INFO -- : worker=1 spawned pid=22298
+I, [2017-11-14T11:42:01.131159 #22298]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T14:54:35.035639 #22292]  INFO -- : reaped #<Process::Status: pid 22295 exit 0> worker=0
+I, [2017-11-17T14:54:35.036215 #22292]  INFO -- : reaped #<Process::Status: pid 22298 exit 0> worker=1
+I, [2017-11-17T14:54:35.036283 #22292]  INFO -- : master complete
+I, [2017-11-17T14:54:56.664136 #15899]  INFO -- : Refreshing Gem list
+I, [2017-11-17T14:54:58.517605 #15899]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T14:54:58.517787 #15899]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T14:54:58.517896 #15899]  INFO -- : worker=0 spawning...
+I, [2017-11-17T14:54:58.519909 #15899]  INFO -- : worker=1 spawning...
+I, [2017-11-17T14:54:58.520686 #15902]  INFO -- : worker=0 spawned pid=15902
+I, [2017-11-17T14:54:58.520813 #15902]  INFO -- : worker=0 ready
+I, [2017-11-17T14:54:58.521838 #15899]  INFO -- : master process ready
+I, [2017-11-17T14:54:58.527066 #15905]  INFO -- : worker=1 spawned pid=15905
+I, [2017-11-17T14:54:58.527206 #15905]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T14:56:20.884487 #15899]  INFO -- : reaped #<Process::Status: pid 15902 exit 0> worker=0
+I, [2017-11-17T14:56:20.984931 #15899]  INFO -- : reaped #<Process::Status: pid 15905 exit 0> worker=1
+I, [2017-11-17T14:56:20.985078 #15899]  INFO -- : master complete
+I, [2017-11-17T14:56:36.887999 #16063]  INFO -- : Refreshing Gem list
+I, [2017-11-17T14:56:38.684807 #16063]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T14:56:38.685002 #16063]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T14:56:38.685111 #16063]  INFO -- : worker=0 spawning...
+I, [2017-11-17T14:56:38.687095 #16063]  INFO -- : worker=1 spawning...
+I, [2017-11-17T14:56:38.688027 #16063]  INFO -- : master process ready
+I, [2017-11-17T14:56:38.695196 #16066]  INFO -- : worker=0 spawned pid=16066
+I, [2017-11-17T14:56:38.695335 #16066]  INFO -- : worker=0 ready
+I, [2017-11-17T14:56:38.696061 #16068]  INFO -- : worker=1 spawned pid=16068
+I, [2017-11-17T14:56:38.696195 #16068]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T14:57:49.910255 #16063]  INFO -- : reaped #<Process::Status: pid 16066 exit 0> worker=0
+I, [2017-11-17T14:57:49.910412 #16063]  INFO -- : reaped #<Process::Status: pid 16068 exit 0> worker=1
+I, [2017-11-17T14:57:49.910480 #16063]  INFO -- : master complete
+I, [2017-11-17T14:58:06.727871 #16225]  INFO -- : Refreshing Gem list
+I, [2017-11-17T14:58:08.498325 #16225]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T14:58:08.498493 #16225]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T14:58:08.498619 #16225]  INFO -- : worker=0 spawning...
+I, [2017-11-17T14:58:08.500468 #16225]  INFO -- : worker=1 spawning...
+I, [2017-11-17T14:58:08.501181 #16229]  INFO -- : worker=0 spawned pid=16229
+I, [2017-11-17T14:58:08.501311 #16229]  INFO -- : worker=0 ready
+I, [2017-11-17T14:58:08.502263 #16225]  INFO -- : master process ready
+I, [2017-11-17T14:58:08.507020 #16232]  INFO -- : worker=1 spawned pid=16232
+I, [2017-11-17T14:58:08.507153 #16232]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T15:04:04.407406 #16225]  INFO -- : reaped #<Process::Status: pid 16229 exit 0> worker=0
+I, [2017-11-17T15:04:04.507930 #16225]  INFO -- : reaped #<Process::Status: pid 16232 exit 0> worker=1
+I, [2017-11-17T15:04:04.508091 #16225]  INFO -- : master complete
+I, [2017-11-17T15:04:19.484141 #16426]  INFO -- : Refreshing Gem list
+I, [2017-11-17T15:04:21.305541 #16426]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T15:04:21.305737 #16426]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T15:04:21.305836 #16426]  INFO -- : worker=0 spawning...
+I, [2017-11-17T15:04:21.307832 #16426]  INFO -- : worker=1 spawning...
+I, [2017-11-17T15:04:21.308612 #16429]  INFO -- : worker=0 spawned pid=16429
+I, [2017-11-17T15:04:21.308743 #16429]  INFO -- : worker=0 ready
+I, [2017-11-17T15:04:21.309754 #16426]  INFO -- : master process ready
+I, [2017-11-17T15:04:21.315157 #16432]  INFO -- : worker=1 spawned pid=16432
+I, [2017-11-17T15:04:21.315302 #16432]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T15:05:51.255351 #16426]  INFO -- : reaped #<Process::Status: pid 16429 exit 0> worker=0
+I, [2017-11-17T15:05:51.255501 #16426]  INFO -- : reaped #<Process::Status: pid 16432 exit 0> worker=1
+I, [2017-11-17T15:05:51.255586 #16426]  INFO -- : master complete
+I, [2017-11-17T15:05:58.996192 #16587]  INFO -- : Refreshing Gem list
+I, [2017-11-17T15:06:00.803840 #16587]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T15:06:00.804012 #16587]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T15:06:00.804161 #16587]  INFO -- : worker=0 spawning...
+I, [2017-11-17T15:06:00.806086 #16587]  INFO -- : worker=1 spawning...
+I, [2017-11-17T15:06:00.806859 #16590]  INFO -- : worker=0 spawned pid=16590
+I, [2017-11-17T15:06:00.807173 #16590]  INFO -- : worker=0 ready
+I, [2017-11-17T15:06:00.808196 #16587]  INFO -- : master process ready
+I, [2017-11-17T15:06:00.814974 #16593]  INFO -- : worker=1 spawned pid=16593
+I, [2017-11-17T15:06:00.815087 #16593]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T15:06:36.219347 #16587]  INFO -- : reaped #<Process::Status: pid 16590 exit 0> worker=0
+I, [2017-11-17T15:06:36.219456 #16587]  INFO -- : reaped #<Process::Status: pid 16593 exit 0> worker=1
+I, [2017-11-17T15:06:36.219516 #16587]  INFO -- : master complete
+I, [2017-11-17T15:06:44.815915 #16745]  INFO -- : Refreshing Gem list
+I, [2017-11-17T15:06:46.555832 #16745]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T15:06:46.556002 #16745]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T15:06:46.556094 #16745]  INFO -- : worker=0 spawning...
+I, [2017-11-17T15:06:46.558063 #16745]  INFO -- : worker=1 spawning...
+I, [2017-11-17T15:06:46.558787 #16748]  INFO -- : worker=0 spawned pid=16748
+I, [2017-11-17T15:06:46.558899 #16748]  INFO -- : worker=0 ready
+I, [2017-11-17T15:06:46.559850 #16745]  INFO -- : master process ready
+I, [2017-11-17T15:06:46.566957 #16751]  INFO -- : worker=1 spawned pid=16751
+I, [2017-11-17T15:06:46.567069 #16751]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T15:08:10.556158 #16745]  INFO -- : reaped #<Process::Status: pid 16748 exit 0> worker=0
+I, [2017-11-17T15:08:10.656585 #16745]  INFO -- : reaped #<Process::Status: pid 16751 exit 0> worker=1
+I, [2017-11-17T15:08:10.656731 #16745]  INFO -- : master complete
+I, [2017-11-17T15:08:18.999958 #16906]  INFO -- : Refreshing Gem list
+I, [2017-11-17T15:08:20.782905 #16906]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T15:08:20.783059 #16906]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T15:08:20.783168 #16906]  INFO -- : worker=0 spawning...
+I, [2017-11-17T15:08:20.785231 #16906]  INFO -- : worker=1 spawning...
+I, [2017-11-17T15:08:20.785965 #16909]  INFO -- : worker=0 spawned pid=16909
+I, [2017-11-17T15:08:20.786086 #16909]  INFO -- : worker=0 ready
+I, [2017-11-17T15:08:20.787118 #16906]  INFO -- : master process ready
+I, [2017-11-17T15:08:20.794831 #16912]  INFO -- : worker=1 spawned pid=16912
+I, [2017-11-17T15:08:20.794957 #16912]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-17T15:10:06.371743 #16906]  INFO -- : reaped #<Process::Status: pid 16909 exit 0> worker=0
+I, [2017-11-17T15:10:06.472239 #16906]  INFO -- : reaped #<Process::Status: pid 16912 exit 0> worker=1
+I, [2017-11-17T15:10:06.472378 #16906]  INFO -- : master complete
+I, [2017-11-17T15:10:22.899966 #17068]  INFO -- : Refreshing Gem list
+I, [2017-11-17T15:10:24.719374 #17068]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-17T15:10:24.719575 #17068]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-17T15:10:24.719670 #17068]  INFO -- : worker=0 spawning...
+I, [2017-11-17T15:10:24.721574 #17068]  INFO -- : worker=1 spawning...
+I, [2017-11-17T15:10:24.722392 #17071]  INFO -- : worker=0 spawned pid=17071
+I, [2017-11-17T15:10:24.722533 #17071]  INFO -- : worker=0 ready
+I, [2017-11-17T15:10:24.723527 #17068]  INFO -- : master process ready
+I, [2017-11-17T15:10:24.731177 #17074]  INFO -- : worker=1 spawned pid=17074
+I, [2017-11-17T15:10:24.731330 #17074]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-25T14:46:24.793543 #17068]  INFO -- : reaped #<Process::Status: pid 17071 exit 0> worker=0
+I, [2017-11-25T14:46:24.795295 #17068]  INFO -- : reaped #<Process::Status: pid 17074 exit 0> worker=1
+I, [2017-11-25T14:46:24.795377 #17068]  INFO -- : master complete
+I, [2017-11-25T14:47:41.555615 #28037]  INFO -- : Refreshing Gem list
+I, [2017-11-25T14:47:43.307471 #28037]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-25T14:47:43.308156 #28037]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-25T14:47:43.308257 #28037]  INFO -- : worker=0 spawning...
+I, [2017-11-25T14:47:43.310213 #28037]  INFO -- : worker=1 spawning...
+I, [2017-11-25T14:47:43.310972 #28040]  INFO -- : worker=0 spawned pid=28040
+I, [2017-11-25T14:47:43.311095 #28040]  INFO -- : worker=0 ready
+I, [2017-11-25T14:47:43.312239 #28037]  INFO -- : master process ready
+I, [2017-11-25T14:47:43.318946 #28043]  INFO -- : worker=1 spawned pid=28043
+I, [2017-11-25T14:47:43.319199 #28043]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-11-25T15:13:38.842222 #28037]  INFO -- : reaped #<Process::Status: pid 28040 exit 0> worker=0
+I, [2017-11-25T15:13:38.842356 #28037]  INFO -- : reaped #<Process::Status: pid 28043 exit 0> worker=1
+I, [2017-11-25T15:13:38.842434 #28037]  INFO -- : master complete
+I, [2017-11-25T15:13:57.823939 #28494]  INFO -- : Refreshing Gem list
+I, [2017-11-25T15:13:59.594885 #28494]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-11-25T15:13:59.595045 #28494]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-11-25T15:13:59.595150 #28494]  INFO -- : worker=0 spawning...
+I, [2017-11-25T15:13:59.597271 #28494]  INFO -- : worker=1 spawning...
+I, [2017-11-25T15:13:59.597995 #28497]  INFO -- : worker=0 spawned pid=28497
+I, [2017-11-25T15:13:59.598152 #28497]  INFO -- : worker=0 ready
+I, [2017-11-25T15:13:59.599159 #28494]  INFO -- : master process ready
+I, [2017-11-25T15:13:59.606843 #28500]  INFO -- : worker=1 spawned pid=28500
+I, [2017-11-25T15:13:59.606959 #28500]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:22:31.349541 #28494]  INFO -- : reaped #<Process::Status: pid 28497 exit 0> worker=0
+I, [2017-12-02T12:22:31.349684 #28494]  INFO -- : reaped #<Process::Status: pid 28500 exit 0> worker=1
+I, [2017-12-02T12:22:31.349749 #28494]  INFO -- : master complete
+I, [2017-12-02T12:22:52.331917 #13511]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:22:54.177350 #13511]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:22:54.177540 #13511]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:22:54.177636 #13511]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:22:54.179712 #13511]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:22:54.180419 #13514]  INFO -- : worker=0 spawned pid=13514
+I, [2017-12-02T12:22:54.180557 #13514]  INFO -- : worker=0 ready
+I, [2017-12-02T12:22:54.181531 #13511]  INFO -- : master process ready
+I, [2017-12-02T12:22:54.186916 #13517]  INFO -- : worker=1 spawned pid=13517
+I, [2017-12-02T12:22:54.187031 #13517]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:24:56.136844 #13511]  INFO -- : reaped #<Process::Status: pid 13514 exit 0> worker=0
+I, [2017-12-02T12:24:56.136993 #13511]  INFO -- : reaped #<Process::Status: pid 13517 exit 0> worker=1
+I, [2017-12-02T12:24:56.137106 #13511]  INFO -- : master complete
+I, [2017-12-02T12:25:05.159898 #13689]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:25:06.909041 #13689]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:25:06.909228 #13689]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:25:06.909325 #13689]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:25:06.911363 #13689]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:25:06.912316 #13689]  INFO -- : master process ready
+I, [2017-12-02T12:25:06.919198 #13692]  INFO -- : worker=0 spawned pid=13692
+I, [2017-12-02T12:25:06.920799 #13692]  INFO -- : worker=0 ready
+I, [2017-12-02T12:25:06.919991 #13694]  INFO -- : worker=1 spawned pid=13694
+I, [2017-12-02T12:25:06.921078 #13694]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:47:05.871423 #13689]  INFO -- : reaped #<Process::Status: pid 13692 exit 0> worker=0
+I, [2017-12-02T12:47:05.871534 #13689]  INFO -- : reaped #<Process::Status: pid 13694 exit 0> worker=1
+I, [2017-12-02T12:47:05.871621 #13689]  INFO -- : master complete
+I, [2017-12-02T12:47:22.443980 #14262]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:47:24.238636 #14262]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:47:24.238799 #14262]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:47:24.238893 #14262]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:47:24.240857 #14262]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:47:24.241556 #14266]  INFO -- : worker=0 spawned pid=14266
+I, [2017-12-02T12:47:24.241676 #14266]  INFO -- : worker=0 ready
+I, [2017-12-02T12:47:24.242695 #14262]  INFO -- : master process ready
+I, [2017-12-02T12:47:24.246968 #14269]  INFO -- : worker=1 spawned pid=14269
+I, [2017-12-02T12:47:24.247095 #14269]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:49:23.921197 #14262]  INFO -- : reaped #<Process::Status: pid 14266 exit 0> worker=0
+I, [2017-12-02T12:49:23.921298 #14262]  INFO -- : reaped #<Process::Status: pid 14269 exit 0> worker=1
+I, [2017-12-02T12:49:23.921391 #14262]  INFO -- : master complete
+I, [2017-12-02T12:49:33.411997 #14425]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:49:35.265834 #14425]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:49:35.266018 #14425]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:49:35.266127 #14425]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:49:35.268125 #14425]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:49:35.268832 #14428]  INFO -- : worker=0 spawned pid=14428
+I, [2017-12-02T12:49:35.268971 #14428]  INFO -- : worker=0 ready
+I, [2017-12-02T12:49:35.269947 #14425]  INFO -- : master process ready
+I, [2017-12-02T12:49:35.275002 #14431]  INFO -- : worker=1 spawned pid=14431
+I, [2017-12-02T12:49:35.275142 #14431]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:50:26.127882 #14425]  INFO -- : reaped #<Process::Status: pid 14428 exit 0> worker=0
+I, [2017-12-02T12:50:26.127991 #14425]  INFO -- : reaped #<Process::Status: pid 14431 exit 0> worker=1
+I, [2017-12-02T12:50:26.128058 #14425]  INFO -- : master complete
+I, [2017-12-02T12:50:34.360121 #14582]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:50:36.192259 #14582]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:50:36.192437 #14582]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:50:36.192537 #14582]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:50:36.194573 #14582]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:50:36.195508 #14582]  INFO -- : master process ready
+I, [2017-12-02T12:50:36.203230 #14585]  INFO -- : worker=0 spawned pid=14585
+I, [2017-12-02T12:50:36.203414 #14585]  INFO -- : worker=0 ready
+I, [2017-12-02T12:50:36.204165 #14587]  INFO -- : worker=1 spawned pid=14587
+I, [2017-12-02T12:50:36.204307 #14587]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:54:16.754676 #14582]  INFO -- : reaped #<Process::Status: pid 14585 exit 0> worker=0
+I, [2017-12-02T12:54:16.754784 #14582]  INFO -- : reaped #<Process::Status: pid 14587 exit 0> worker=1
+I, [2017-12-02T12:54:16.754849 #14582]  INFO -- : master complete
+I, [2017-12-02T12:54:26.056027 #14748]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:54:27.836929 #14748]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:54:27.837088 #14748]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:54:27.837225 #14748]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:54:27.839272 #14748]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:54:27.840182 #14748]  INFO -- : master process ready
+I, [2017-12-02T12:54:27.847058 #14751]  INFO -- : worker=0 spawned pid=14751
+I, [2017-12-02T12:54:27.847210 #14751]  INFO -- : worker=0 ready
+I, [2017-12-02T12:54:27.847899 #14753]  INFO -- : worker=1 spawned pid=14753
+I, [2017-12-02T12:54:27.848032 #14753]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T12:54:55.915027 #14748]  INFO -- : reaped #<Process::Status: pid 14751 exit 0> worker=0
+I, [2017-12-02T12:54:55.916106 #14748]  INFO -- : reaped #<Process::Status: pid 14753 exit 0> worker=1
+I, [2017-12-02T12:54:55.916189 #14748]  INFO -- : master complete
+I, [2017-12-02T12:55:03.495822 #14903]  INFO -- : Refreshing Gem list
+I, [2017-12-02T12:55:05.269369 #14903]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T12:55:05.269562 #14903]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T12:55:05.269683 #14903]  INFO -- : worker=0 spawning...
+I, [2017-12-02T12:55:05.271713 #14903]  INFO -- : worker=1 spawning...
+I, [2017-12-02T12:55:05.272419 #14907]  INFO -- : worker=0 spawned pid=14907
+I, [2017-12-02T12:55:05.272538 #14907]  INFO -- : worker=0 ready
+I, [2017-12-02T12:55:05.273583 #14903]  INFO -- : master process ready
+I, [2017-12-02T12:55:05.278976 #14910]  INFO -- : worker=1 spawned pid=14910
+I, [2017-12-02T12:55:05.279096 #14910]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T13:04:32.530706 #14903]  INFO -- : reaped #<Process::Status: pid 14907 exit 0> worker=0
+I, [2017-12-02T13:04:32.631225 #14903]  INFO -- : reaped #<Process::Status: pid 14910 exit 0> worker=1
+I, [2017-12-02T13:04:32.631400 #14903]  INFO -- : master complete
+I, [2017-12-02T13:05:02.112020 #15495]  INFO -- : Refreshing Gem list
+I, [2017-12-02T13:05:03.942606 #15495]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T13:05:03.942810 #15495]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T13:05:03.942909 #15495]  INFO -- : worker=0 spawning...
+I, [2017-12-02T13:05:03.944922 #15495]  INFO -- : worker=1 spawning...
+I, [2017-12-02T13:05:03.945703 #15498]  INFO -- : worker=0 spawned pid=15498
+I, [2017-12-02T13:05:03.945827 #15498]  INFO -- : worker=0 ready
+I, [2017-12-02T13:05:03.947101 #15495]  INFO -- : master process ready
+I, [2017-12-02T13:05:03.955083 #15501]  INFO -- : worker=1 spawned pid=15501
+I, [2017-12-02T13:05:03.955262 #15501]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T13:17:01.489384 #15495]  INFO -- : reaped #<Process::Status: pid 15498 exit 0> worker=0
+I, [2017-12-02T13:17:01.489536 #15495]  INFO -- : reaped #<Process::Status: pid 15501 exit 0> worker=1
+I, [2017-12-02T13:17:01.489613 #15495]  INFO -- : master complete
+I, [2017-12-02T13:17:21.845886 #15909]  INFO -- : Refreshing Gem list
+I, [2017-12-02T13:17:23.611898 #15909]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T13:17:23.612083 #15909]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T13:17:23.612182 #15909]  INFO -- : worker=0 spawning...
+I, [2017-12-02T13:17:23.614617 #15909]  INFO -- : worker=1 spawning...
+I, [2017-12-02T13:17:23.616873 #15912]  INFO -- : worker=0 spawned pid=15912
+I, [2017-12-02T13:17:23.616984 #15912]  INFO -- : worker=0 ready
+I, [2017-12-02T13:17:23.619653 #15909]  INFO -- : master process ready
+I, [2017-12-02T13:17:23.628219 #15915]  INFO -- : worker=1 spawned pid=15915
+I, [2017-12-02T13:17:23.628359 #15915]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T13:18:21.068529 #15909]  INFO -- : reaped #<Process::Status: pid 15912 exit 0> worker=0
+I, [2017-12-02T13:18:21.068752 #15909]  INFO -- : reaped #<Process::Status: pid 15915 exit 0> worker=1
+I, [2017-12-02T13:18:21.068811 #15909]  INFO -- : master complete
+I, [2017-12-02T13:18:32.876015 #16069]  INFO -- : Refreshing Gem list
+I, [2017-12-02T13:18:34.654043 #16069]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T13:18:34.654214 #16069]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T13:18:34.654356 #16069]  INFO -- : worker=0 spawning...
+I, [2017-12-02T13:18:34.656378 #16069]  INFO -- : worker=1 spawning...
+I, [2017-12-02T13:18:34.657105 #16072]  INFO -- : worker=0 spawned pid=16072
+I, [2017-12-02T13:18:34.657261 #16072]  INFO -- : worker=0 ready
+I, [2017-12-02T13:18:34.658240 #16069]  INFO -- : master process ready
+I, [2017-12-02T13:18:34.663031 #16075]  INFO -- : worker=1 spawned pid=16075
+I, [2017-12-02T13:18:34.663316 #16075]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T13:22:12.397231 #16069]  INFO -- : reaped #<Process::Status: pid 16072 exit 0> worker=0
+I, [2017-12-02T13:22:12.397332 #16069]  INFO -- : reaped #<Process::Status: pid 16075 exit 0> worker=1
+I, [2017-12-02T13:22:12.397412 #16069]  INFO -- : master complete
+I, [2017-12-02T13:22:33.627977 #16239]  INFO -- : Refreshing Gem list
+I, [2017-12-02T13:22:35.398604 #16239]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T13:22:35.398773 #16239]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T13:22:35.398868 #16239]  INFO -- : worker=0 spawning...
+I, [2017-12-02T13:22:35.400911 #16239]  INFO -- : worker=1 spawning...
+I, [2017-12-02T13:22:35.401757 #16242]  INFO -- : worker=0 spawned pid=16242
+I, [2017-12-02T13:22:35.401877 #16242]  INFO -- : worker=0 ready
+I, [2017-12-02T13:22:35.402901 #16239]  INFO -- : master process ready
+I, [2017-12-02T13:22:35.407012 #16245]  INFO -- : worker=1 spawned pid=16245
+I, [2017-12-02T13:22:35.407144 #16245]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T13:28:32.472216 #16239]  INFO -- : reaped #<Process::Status: pid 16242 exit 0> worker=0
+I, [2017-12-02T13:28:32.472335 #16239]  INFO -- : reaped #<Process::Status: pid 16245 exit 0> worker=1
+I, [2017-12-02T13:28:32.472437 #16239]  INFO -- : master complete
+I, [2017-12-02T13:28:59.827968 #16619]  INFO -- : Refreshing Gem list
+I, [2017-12-02T13:29:01.597432 #16619]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T13:29:01.597586 #16619]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T13:29:01.597678 #16619]  INFO -- : worker=0 spawning...
+I, [2017-12-02T13:29:01.599723 #16619]  INFO -- : worker=1 spawning...
+I, [2017-12-02T13:29:01.600443 #16622]  INFO -- : worker=0 spawned pid=16622
+I, [2017-12-02T13:29:01.600561 #16622]  INFO -- : worker=0 ready
+I, [2017-12-02T13:29:01.601535 #16619]  INFO -- : master process ready
+I, [2017-12-02T13:29:01.606977 #16625]  INFO -- : worker=1 spawned pid=16625
+I, [2017-12-02T13:29:01.607104 #16625]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T14:24:47.046617 #16619]  INFO -- : reaped #<Process::Status: pid 16622 exit 0> worker=0
+I, [2017-12-02T14:24:47.046731 #16619]  INFO -- : reaped #<Process::Status: pid 16625 exit 0> worker=1
+I, [2017-12-02T14:24:47.046792 #16619]  INFO -- : master complete
+I, [2017-12-02T14:25:05.884065 #17290]  INFO -- : Refreshing Gem list
+I, [2017-12-02T14:25:07.688594 #17290]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T14:25:07.688775 #17290]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T14:25:07.688882 #17290]  INFO -- : worker=0 spawning...
+I, [2017-12-02T14:25:07.690936 #17290]  INFO -- : worker=1 spawning...
+I, [2017-12-02T14:25:07.691945 #17290]  INFO -- : master process ready
+I, [2017-12-02T14:25:07.699158 #17294]  INFO -- : worker=0 spawned pid=17294
+I, [2017-12-02T14:25:07.699285 #17294]  INFO -- : worker=0 ready
+I, [2017-12-02T14:25:07.700025 #17296]  INFO -- : worker=1 spawned pid=17296
+I, [2017-12-02T14:25:07.700144 #17296]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T14:29:41.320626 #17290]  INFO -- : reaped #<Process::Status: pid 17294 exit 0> worker=0
+I, [2017-12-02T14:29:41.320772 #17290]  INFO -- : reaped #<Process::Status: pid 17296 exit 0> worker=1
+I, [2017-12-02T14:29:41.320875 #17290]  INFO -- : master complete
+I, [2017-12-02T14:30:34.440283 #17512]  INFO -- : Refreshing Gem list
+I, [2017-12-02T14:30:36.264303 #17512]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T14:30:36.264489 #17512]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T14:30:36.264592 #17512]  INFO -- : worker=0 spawning...
+I, [2017-12-02T14:30:36.266644 #17512]  INFO -- : worker=1 spawning...
+I, [2017-12-02T14:30:36.267941 #17512]  INFO -- : master process ready
+I, [2017-12-02T14:30:36.275311 #17517]  INFO -- : worker=0 spawned pid=17517
+I, [2017-12-02T14:30:36.275498 #17517]  INFO -- : worker=0 ready
+I, [2017-12-02T14:30:36.276273 #17519]  INFO -- : worker=1 spawned pid=17519
+I, [2017-12-02T14:30:36.276406 #17519]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T14:32:05.576843 #17512]  INFO -- : reaped #<Process::Status: pid 17517 exit 0> worker=0
+I, [2017-12-02T14:32:05.576950 #17512]  INFO -- : reaped #<Process::Status: pid 17519 exit 0> worker=1
+I, [2017-12-02T14:32:05.577016 #17512]  INFO -- : master complete
+I, [2017-12-02T14:32:59.355997 #17699]  INFO -- : Refreshing Gem list
+I, [2017-12-02T14:33:01.130346 #17699]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T14:33:01.130521 #17699]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T14:33:01.130654 #17699]  INFO -- : worker=0 spawning...
+I, [2017-12-02T14:33:01.132617 #17699]  INFO -- : worker=1 spawning...
+I, [2017-12-02T14:33:01.133320 #17702]  INFO -- : worker=0 spawned pid=17702
+I, [2017-12-02T14:33:01.133447 #17702]  INFO -- : worker=0 ready
+I, [2017-12-02T14:33:01.134461 #17699]  INFO -- : master process ready
+I, [2017-12-02T14:33:01.139046 #17705]  INFO -- : worker=1 spawned pid=17705
+I, [2017-12-02T14:33:01.139175 #17705]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T15:41:15.275140 #17699]  INFO -- : reaped #<Process::Status: pid 17702 exit 0> worker=0
+I, [2017-12-02T15:41:15.275249 #17699]  INFO -- : reaped #<Process::Status: pid 17705 exit 0> worker=1
+I, [2017-12-02T15:41:15.275322 #17699]  INFO -- : master complete
+I, [2017-12-02T15:41:39.831877 #18556]  INFO -- : Refreshing Gem list
+I, [2017-12-02T15:41:41.574863 #18556]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T15:41:41.575034 #18556]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T15:41:41.575131 #18556]  INFO -- : worker=0 spawning...
+I, [2017-12-02T15:41:41.577103 #18556]  INFO -- : worker=1 spawning...
+I, [2017-12-02T15:41:41.577827 #18559]  INFO -- : worker=0 spawned pid=18559
+I, [2017-12-02T15:41:41.577977 #18559]  INFO -- : worker=0 ready
+I, [2017-12-02T15:41:41.578984 #18556]  INFO -- : master process ready
+I, [2017-12-02T15:41:41.582992 #18562]  INFO -- : worker=1 spawned pid=18562
+I, [2017-12-02T15:41:41.583115 #18562]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T15:43:25.197672 #18556]  INFO -- : reaped #<Process::Status: pid 18559 exit 0> worker=0
+I, [2017-12-02T15:43:25.197772 #18556]  INFO -- : reaped #<Process::Status: pid 18562 exit 0> worker=1
+I, [2017-12-02T15:43:25.197888 #18556]  INFO -- : master complete
+I, [2017-12-02T15:43:39.239932 #18720]  INFO -- : Refreshing Gem list
+I, [2017-12-02T15:43:41.000174 #18720]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T15:43:41.000341 #18720]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T15:43:41.000453 #18720]  INFO -- : worker=0 spawning...
+I, [2017-12-02T15:43:41.002457 #18720]  INFO -- : worker=1 spawning...
+I, [2017-12-02T15:43:41.003173 #18723]  INFO -- : worker=0 spawned pid=18723
+I, [2017-12-02T15:43:41.003300 #18723]  INFO -- : worker=0 ready
+I, [2017-12-02T15:43:41.004289 #18720]  INFO -- : master process ready
+I, [2017-12-02T15:43:41.011000 #18726]  INFO -- : worker=1 spawned pid=18726
+I, [2017-12-02T15:43:41.011130 #18726]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T15:44:35.559829 #18720]  INFO -- : reaped #<Process::Status: pid 18723 exit 0> worker=0
+I, [2017-12-02T15:44:35.559942 #18720]  INFO -- : reaped #<Process::Status: pid 18726 exit 0> worker=1
+I, [2017-12-02T15:44:35.560011 #18720]  INFO -- : master complete
+I, [2017-12-02T15:44:43.053787 #18888]  INFO -- : Refreshing Gem list
+I, [2017-12-02T15:44:44.780775 #18888]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T15:44:44.780928 #18888]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T15:44:44.781018 #18888]  INFO -- : worker=0 spawning...
+I, [2017-12-02T15:44:44.783515 #18888]  INFO -- : worker=1 spawning...
+I, [2017-12-02T15:44:44.785846 #18891]  INFO -- : worker=0 spawned pid=18891
+I, [2017-12-02T15:44:44.785971 #18891]  INFO -- : worker=0 ready
+I, [2017-12-02T15:44:44.788665 #18888]  INFO -- : master process ready
+I, [2017-12-02T15:44:44.796073 #18894]  INFO -- : worker=1 spawned pid=18894
+I, [2017-12-02T15:44:44.796223 #18894]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T15:45:24.438650 #18888]  INFO -- : reaped #<Process::Status: pid 18891 exit 0> worker=0
+I, [2017-12-02T15:45:24.438744 #18888]  INFO -- : reaped #<Process::Status: pid 18894 exit 0> worker=1
+I, [2017-12-02T15:45:24.438860 #18888]  INFO -- : master complete
+I, [2017-12-02T15:45:33.496421 #19047]  INFO -- : Refreshing Gem list
+I, [2017-12-02T15:45:35.249639 #19047]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T15:45:35.249801 #19047]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T15:45:35.249895 #19047]  INFO -- : worker=0 spawning...
+I, [2017-12-02T15:45:35.252327 #19047]  INFO -- : worker=1 spawning...
+I, [2017-12-02T15:45:35.253517 #19050]  INFO -- : worker=0 spawned pid=19050
+I, [2017-12-02T15:45:35.253641 #19050]  INFO -- : worker=0 ready
+I, [2017-12-02T15:45:35.256086 #19047]  INFO -- : master process ready
+I, [2017-12-02T15:45:35.263196 #19053]  INFO -- : worker=1 spawned pid=19053
+I, [2017-12-02T15:45:35.263335 #19053]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T15:56:28.984266 #19047]  INFO -- : reaped #<Process::Status: pid 19050 exit 0> worker=0
+I, [2017-12-02T15:56:28.984402 #19047]  INFO -- : reaped #<Process::Status: pid 19053 exit 0> worker=1
+I, [2017-12-02T15:56:28.984475 #19047]  INFO -- : master complete
+I, [2017-12-02T15:56:49.307919 #19460]  INFO -- : Refreshing Gem list
+I, [2017-12-02T15:56:51.092374 #19460]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T15:56:51.092563 #19460]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T15:56:51.092659 #19460]  INFO -- : worker=0 spawning...
+I, [2017-12-02T15:56:51.094758 #19460]  INFO -- : worker=1 spawning...
+I, [2017-12-02T15:56:51.095682 #19460]  INFO -- : master process ready
+I, [2017-12-02T15:56:51.103185 #19463]  INFO -- : worker=0 spawned pid=19463
+I, [2017-12-02T15:56:51.103338 #19463]  INFO -- : worker=0 ready
+I, [2017-12-02T15:56:51.104098 #19465]  INFO -- : worker=1 spawned pid=19465
+I, [2017-12-02T15:56:51.104261 #19465]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T16:00:50.289598 #19460]  INFO -- : reaped #<Process::Status: pid 19463 exit 0> worker=0
+I, [2017-12-02T16:00:50.390122 #19460]  INFO -- : reaped #<Process::Status: pid 19465 exit 0> worker=1
+I, [2017-12-02T16:00:50.390272 #19460]  INFO -- : master complete
+I, [2017-12-02T16:01:17.447960 #19631]  INFO -- : Refreshing Gem list
+I, [2017-12-02T16:01:19.200192 #19631]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T16:01:19.200355 #19631]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T16:01:19.200464 #19631]  INFO -- : worker=0 spawning...
+I, [2017-12-02T16:01:19.202468 #19631]  INFO -- : worker=1 spawning...
+I, [2017-12-02T16:01:19.203142 #19634]  INFO -- : worker=0 spawned pid=19634
+I, [2017-12-02T16:01:19.203438 #19634]  INFO -- : worker=0 ready
+I, [2017-12-02T16:01:19.204426 #19631]  INFO -- : master process ready
+I, [2017-12-02T16:01:19.211030 #19637]  INFO -- : worker=1 spawned pid=19637
+I, [2017-12-02T16:01:19.211151 #19637]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T16:07:24.715415 #19631]  INFO -- : reaped #<Process::Status: pid 19634 exit 0> worker=0
+I, [2017-12-02T16:07:24.715518 #19631]  INFO -- : reaped #<Process::Status: pid 19637 exit 0> worker=1
+I, [2017-12-02T16:07:24.715583 #19631]  INFO -- : master complete
+I, [2017-12-02T16:07:47.488060 #20014]  INFO -- : Refreshing Gem list
+I, [2017-12-02T16:07:49.333390 #20014]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T16:07:49.333600 #20014]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T16:07:49.333706 #20014]  INFO -- : worker=0 spawning...
+I, [2017-12-02T16:07:49.335840 #20014]  INFO -- : worker=1 spawning...
+I, [2017-12-02T16:07:49.336616 #20018]  INFO -- : worker=0 spawned pid=20018
+I, [2017-12-02T16:07:49.336756 #20018]  INFO -- : worker=0 ready
+I, [2017-12-02T16:07:49.337763 #20014]  INFO -- : master process ready
+I, [2017-12-02T16:07:49.343008 #20021]  INFO -- : worker=1 spawned pid=20021
+I, [2017-12-02T16:07:49.343144 #20021]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T16:09:39.038383 #20014]  INFO -- : reaped #<Process::Status: pid 20018 exit 0> worker=0
+I, [2017-12-02T16:09:39.038514 #20014]  INFO -- : reaped #<Process::Status: pid 20021 exit 0> worker=1
+I, [2017-12-02T16:09:39.038591 #20014]  INFO -- : master complete
+I, [2017-12-02T16:09:54.299792 #20177]  INFO -- : Refreshing Gem list
+I, [2017-12-02T16:09:56.079338 #20177]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T16:09:56.079552 #20177]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T16:09:56.079654 #20177]  INFO -- : worker=0 spawning...
+I, [2017-12-02T16:09:56.081691 #20177]  INFO -- : worker=1 spawning...
+I, [2017-12-02T16:09:56.082500 #20180]  INFO -- : worker=0 spawned pid=20180
+I, [2017-12-02T16:09:56.082922 #20180]  INFO -- : worker=0 ready
+I, [2017-12-02T16:09:56.083891 #20177]  INFO -- : master process ready
+I, [2017-12-02T16:09:56.091057 #20183]  INFO -- : worker=1 spawned pid=20183
+I, [2017-12-02T16:09:56.091190 #20183]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T16:43:20.919489 #20177]  INFO -- : reaped #<Process::Status: pid 20180 exit 0> worker=0
+I, [2017-12-02T16:43:20.919611 #20177]  INFO -- : reaped #<Process::Status: pid 20183 exit 0> worker=1
+I, [2017-12-02T16:43:20.919693 #20177]  INFO -- : master complete
+I, [2017-12-02T16:45:12.763888 #20723]  INFO -- : Refreshing Gem list
+I, [2017-12-02T16:45:14.513622 #20723]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T16:45:14.513790 #20723]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T16:45:14.513887 #20723]  INFO -- : worker=0 spawning...
+I, [2017-12-02T16:45:14.515917 #20723]  INFO -- : worker=1 spawning...
+I, [2017-12-02T16:45:14.516667 #20726]  INFO -- : worker=0 spawned pid=20726
+I, [2017-12-02T16:45:14.516789 #20726]  INFO -- : worker=0 ready
+I, [2017-12-02T16:45:14.517776 #20723]  INFO -- : master process ready
+I, [2017-12-02T16:45:14.522989 #20729]  INFO -- : worker=1 spawned pid=20729
+I, [2017-12-02T16:45:14.523124 #20729]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T16:45:23.417586 #20723]  INFO -- : reaped #<Process::Status: pid 20726 exit 0> worker=0
+I, [2017-12-02T16:45:23.417688 #20723]  INFO -- : reaped #<Process::Status: pid 20729 exit 0> worker=1
+I, [2017-12-02T16:45:23.417762 #20723]  INFO -- : master complete
+I, [2017-12-02T16:45:31.795916 #20878]  INFO -- : Refreshing Gem list
+I, [2017-12-02T16:45:33.572118 #20878]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T16:45:33.572292 #20878]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T16:45:33.572386 #20878]  INFO -- : worker=0 spawning...
+I, [2017-12-02T16:45:33.574428 #20878]  INFO -- : worker=1 spawning...
+I, [2017-12-02T16:45:33.575119 #20881]  INFO -- : worker=0 spawned pid=20881
+I, [2017-12-02T16:45:33.575516 #20881]  INFO -- : worker=0 ready
+I, [2017-12-02T16:45:33.576444 #20878]  INFO -- : master process ready
+I, [2017-12-02T16:45:33.583303 #20884]  INFO -- : worker=1 spawned pid=20884
+I, [2017-12-02T16:45:33.583449 #20884]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:07:35.688004 #20878]  INFO -- : reaped #<Process::Status: pid 20881 exit 0> worker=0
+I, [2017-12-02T17:07:35.688112 #20878]  INFO -- : reaped #<Process::Status: pid 20884 exit 0> worker=1
+I, [2017-12-02T17:07:35.688214 #20878]  INFO -- : master complete
+I, [2017-12-02T17:08:29.024345 #21423]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:08:30.814374 #21423]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:08:30.814550 #21423]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:08:30.814675 #21423]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:08:30.816687 #21423]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:08:30.817376 #21427]  INFO -- : worker=0 spawned pid=21427
+I, [2017-12-02T17:08:30.817509 #21427]  INFO -- : worker=0 ready
+I, [2017-12-02T17:08:30.818543 #21423]  INFO -- : master process ready
+I, [2017-12-02T17:08:30.822910 #21430]  INFO -- : worker=1 spawned pid=21430
+I, [2017-12-02T17:08:30.823018 #21430]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:10:06.269944 #21423]  INFO -- : reaped #<Process::Status: pid 21427 exit 0> worker=0
+I, [2017-12-02T17:10:06.270052 #21423]  INFO -- : reaped #<Process::Status: pid 21430 exit 0> worker=1
+I, [2017-12-02T17:10:06.270129 #21423]  INFO -- : master complete
+I, [2017-12-02T17:10:15.424107 #21591]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:10:17.260236 #21591]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:10:17.260432 #21591]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:10:17.260534 #21591]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:10:17.262661 #21591]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:10:17.263612 #21591]  INFO -- : master process ready
+I, [2017-12-02T17:10:17.271146 #21594]  INFO -- : worker=0 spawned pid=21594
+I, [2017-12-02T17:10:17.271284 #21594]  INFO -- : worker=0 ready
+I, [2017-12-02T17:10:17.271977 #21596]  INFO -- : worker=1 spawned pid=21596
+I, [2017-12-02T17:10:17.272083 #21596]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:18:47.313304 #21591]  INFO -- : reaped #<Process::Status: pid 21594 exit 0> worker=0
+I, [2017-12-02T17:18:47.413767 #21591]  INFO -- : reaped #<Process::Status: pid 21596 exit 0> worker=1
+I, [2017-12-02T17:18:47.413942 #21591]  INFO -- : master complete
+I, [2017-12-02T17:19:15.111960 #21984]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:19:16.892175 #21984]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:19:16.892348 #21984]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:19:16.892470 #21984]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:19:16.894545 #21984]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:19:16.895507 #21984]  INFO -- : master process ready
+I, [2017-12-02T17:19:16.903125 #21987]  INFO -- : worker=0 spawned pid=21987
+I, [2017-12-02T17:19:16.903256 #21987]  INFO -- : worker=0 ready
+I, [2017-12-02T17:19:16.903984 #21989]  INFO -- : worker=1 spawned pid=21989
+I, [2017-12-02T17:19:16.904226 #21989]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:21:18.625530 #21984]  INFO -- : reaped #<Process::Status: pid 21987 exit 0> worker=0
+I, [2017-12-02T17:21:18.625636 #21984]  INFO -- : reaped #<Process::Status: pid 21989 exit 0> worker=1
+I, [2017-12-02T17:21:18.625701 #21984]  INFO -- : master complete
+I, [2017-12-02T17:21:26.707994 #22144]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:21:28.481658 #22144]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:21:28.481822 #22144]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:21:28.481945 #22144]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:21:28.483939 #22144]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:21:28.484639 #22147]  INFO -- : worker=0 spawned pid=22147
+I, [2017-12-02T17:21:28.484765 #22147]  INFO -- : worker=0 ready
+I, [2017-12-02T17:21:28.485760 #22144]  INFO -- : master process ready
+I, [2017-12-02T17:21:28.490961 #22150]  INFO -- : worker=1 spawned pid=22150
+I, [2017-12-02T17:21:28.491085 #22150]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:23:31.233992 #22144]  INFO -- : reaped #<Process::Status: pid 22147 exit 0> worker=0
+I, [2017-12-02T17:23:31.235219 #22144]  INFO -- : reaped #<Process::Status: pid 22150 exit 0> worker=1
+I, [2017-12-02T17:23:31.235297 #22144]  INFO -- : master complete
+I, [2017-12-02T17:23:39.219989 #22305]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:23:41.033560 #22305]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:23:41.033733 #22305]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:23:41.033833 #22305]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:23:41.035903 #22305]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:23:41.036647 #22308]  INFO -- : worker=0 spawned pid=22308
+I, [2017-12-02T17:23:41.036780 #22308]  INFO -- : worker=0 ready
+I, [2017-12-02T17:23:41.037777 #22305]  INFO -- : master process ready
+I, [2017-12-02T17:23:41.043015 #22311]  INFO -- : worker=1 spawned pid=22311
+I, [2017-12-02T17:23:41.043156 #22311]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:25:51.824542 #22305]  INFO -- : reaped #<Process::Status: pid 22308 exit 0> worker=0
+I, [2017-12-02T17:25:51.925033 #22305]  INFO -- : reaped #<Process::Status: pid 22311 exit 0> worker=1
+I, [2017-12-02T17:25:51.925166 #22305]  INFO -- : master complete
+I, [2017-12-02T17:26:07.143870 #22466]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:26:08.922991 #22466]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:26:08.923162 #22466]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:26:08.923279 #22466]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:26:08.925262 #22466]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:26:08.925960 #22469]  INFO -- : worker=0 spawned pid=22469
+I, [2017-12-02T17:26:08.926085 #22469]  INFO -- : worker=0 ready
+I, [2017-12-02T17:26:08.927155 #22466]  INFO -- : master process ready
+I, [2017-12-02T17:26:08.934942 #22472]  INFO -- : worker=1 spawned pid=22472
+I, [2017-12-02T17:26:08.935085 #22472]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:31:23.635878 #22466]  INFO -- : reaped #<Process::Status: pid 22469 exit 0> worker=0
+I, [2017-12-02T17:31:23.635990 #22466]  INFO -- : reaped #<Process::Status: pid 22472 exit 0> worker=1
+I, [2017-12-02T17:31:23.636065 #22466]  INFO -- : master complete
+I, [2017-12-02T17:31:32.131996 #22652]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:31:33.893900 #22652]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:31:33.894075 #22652]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:31:33.894208 #22652]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:31:33.896181 #22652]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:31:33.896922 #22655]  INFO -- : worker=0 spawned pid=22655
+I, [2017-12-02T17:31:33.897059 #22655]  INFO -- : worker=0 ready
+I, [2017-12-02T17:31:33.898021 #22652]  INFO -- : master process ready
+I, [2017-12-02T17:31:33.902996 #22658]  INFO -- : worker=1 spawned pid=22658
+I, [2017-12-02T17:31:33.903122 #22658]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:44:44.150525 #22652]  INFO -- : reaped #<Process::Status: pid 22655 exit 0> worker=0
+I, [2017-12-02T17:44:44.150643 #22652]  INFO -- : reaped #<Process::Status: pid 22658 exit 0> worker=1
+I, [2017-12-02T17:44:44.150708 #22652]  INFO -- : master complete
+I, [2017-12-02T17:45:03.063966 #23076]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:45:04.857219 #23076]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:45:04.857395 #23076]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:45:04.857538 #23076]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:45:04.859620 #23076]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:45:04.860332 #23079]  INFO -- : worker=0 spawned pid=23079
+I, [2017-12-02T17:45:04.860467 #23079]  INFO -- : worker=0 ready
+I, [2017-12-02T17:45:04.861454 #23076]  INFO -- : master process ready
+I, [2017-12-02T17:45:04.867024 #23082]  INFO -- : worker=1 spawned pid=23082
+I, [2017-12-02T17:45:04.867180 #23082]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:56:19.243546 #23076]  INFO -- : reaped #<Process::Status: pid 23079 exit 0> worker=0
+I, [2017-12-02T17:56:19.243652 #23076]  INFO -- : reaped #<Process::Status: pid 23082 exit 0> worker=1
+I, [2017-12-02T17:56:19.243726 #23076]  INFO -- : master complete
+I, [2017-12-02T17:56:39.671982 #23487]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:56:41.445569 #23487]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:56:41.445724 #23487]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:56:41.445826 #23487]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:56:41.447892 #23487]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:56:41.448596 #23490]  INFO -- : worker=0 spawned pid=23490
+I, [2017-12-02T17:56:41.448751 #23490]  INFO -- : worker=0 ready
+I, [2017-12-02T17:56:41.449725 #23487]  INFO -- : master process ready
+I, [2017-12-02T17:56:41.454974 #23493]  INFO -- : worker=1 spawned pid=23493
+I, [2017-12-02T17:56:41.455102 #23493]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T17:58:26.098479 #23487]  INFO -- : reaped #<Process::Status: pid 23490 exit 0> worker=0
+I, [2017-12-02T17:58:26.098592 #23487]  INFO -- : reaped #<Process::Status: pid 23493 exit 0> worker=1
+I, [2017-12-02T17:58:26.098658 #23487]  INFO -- : master complete
+I, [2017-12-02T17:59:30.791999 #23659]  INFO -- : Refreshing Gem list
+I, [2017-12-02T17:59:32.606998 #23659]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T17:59:32.607166 #23659]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T17:59:32.607267 #23659]  INFO -- : worker=0 spawning...
+I, [2017-12-02T17:59:32.609299 #23659]  INFO -- : worker=1 spawning...
+I, [2017-12-02T17:59:32.610037 #23662]  INFO -- : worker=0 spawned pid=23662
+I, [2017-12-02T17:59:32.610161 #23662]  INFO -- : worker=0 ready
+I, [2017-12-02T17:59:32.611131 #23659]  INFO -- : master process ready
+I, [2017-12-02T17:59:32.618909 #23665]  INFO -- : worker=1 spawned pid=23665
+I, [2017-12-02T17:59:32.619042 #23665]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:02:14.316395 #23659]  INFO -- : reaped #<Process::Status: pid 23662 exit 0> worker=0
+I, [2017-12-02T18:02:14.416853 #23659]  INFO -- : reaped #<Process::Status: pid 23665 exit 0> worker=1
+I, [2017-12-02T18:02:14.416997 #23659]  INFO -- : master complete
+I, [2017-12-02T18:02:22.691980 #23821]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:02:24.498443 #23821]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:02:24.498611 #23821]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:02:24.498721 #23821]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:02:24.500683 #23821]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:02:24.501612 #23824]  INFO -- : worker=0 spawned pid=23824
+I, [2017-12-02T18:02:24.501734 #23824]  INFO -- : worker=0 ready
+I, [2017-12-02T18:02:24.502764 #23821]  INFO -- : master process ready
+I, [2017-12-02T18:02:24.507009 #23827]  INFO -- : worker=1 spawned pid=23827
+I, [2017-12-02T18:02:24.507144 #23827]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:03:08.646221 #23821]  INFO -- : reaped #<Process::Status: pid 23824 exit 0> worker=0
+I, [2017-12-02T18:03:08.646450 #23821]  INFO -- : reaped #<Process::Status: pid 23827 exit 0> worker=1
+I, [2017-12-02T18:03:08.646519 #23821]  INFO -- : master complete
+I, [2017-12-02T18:03:15.331920 #23982]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:03:17.086240 #23982]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:03:17.086445 #23982]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:03:17.086544 #23982]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:03:17.088483 #23982]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:03:17.089206 #23985]  INFO -- : worker=0 spawned pid=23985
+I, [2017-12-02T18:03:17.089342 #23985]  INFO -- : worker=0 ready
+I, [2017-12-02T18:03:17.090444 #23982]  INFO -- : master process ready
+I, [2017-12-02T18:03:17.094996 #23988]  INFO -- : worker=1 spawned pid=23988
+I, [2017-12-02T18:03:17.095243 #23988]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:08:29.333618 #23982]  INFO -- : reaped #<Process::Status: pid 23985 exit 0> worker=0
+I, [2017-12-02T18:08:29.333731 #23982]  INFO -- : reaped #<Process::Status: pid 23988 exit 0> worker=1
+I, [2017-12-02T18:08:29.333819 #23982]  INFO -- : master complete
+I, [2017-12-02T18:09:33.288069 #24160]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:09:35.128045 #24160]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:09:35.128223 #24160]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:09:35.128331 #24160]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:09:35.130365 #24160]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:09:35.131215 #24163]  INFO -- : worker=0 spawned pid=24163
+I, [2017-12-02T18:09:35.131345 #24163]  INFO -- : worker=0 ready
+I, [2017-12-02T18:09:35.132352 #24160]  INFO -- : master process ready
+I, [2017-12-02T18:09:35.139051 #24166]  INFO -- : worker=1 spawned pid=24166
+I, [2017-12-02T18:09:35.139198 #24166]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:11:30.696496 #24160]  INFO -- : reaped #<Process::Status: pid 24163 exit 0> worker=0
+I, [2017-12-02T18:11:30.796953 #24160]  INFO -- : reaped #<Process::Status: pid 24166 exit 0> worker=1
+I, [2017-12-02T18:11:30.797087 #24160]  INFO -- : master complete
+I, [2017-12-02T18:11:55.743891 #24325]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:11:57.513751 #24325]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:11:57.513928 #24325]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:11:57.514026 #24325]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:11:57.516080 #24325]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:11:57.516818 #24328]  INFO -- : worker=0 spawned pid=24328
+I, [2017-12-02T18:11:57.517028 #24328]  INFO -- : worker=0 ready
+I, [2017-12-02T18:11:57.518030 #24325]  INFO -- : master process ready
+I, [2017-12-02T18:11:57.523092 #24331]  INFO -- : worker=1 spawned pid=24331
+I, [2017-12-02T18:11:57.523227 #24331]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:15:41.426844 #24325]  INFO -- : reaped #<Process::Status: pid 24328 exit 0> worker=0
+I, [2017-12-02T18:15:41.426955 #24325]  INFO -- : reaped #<Process::Status: pid 24331 exit 0> worker=1
+I, [2017-12-02T18:15:41.427023 #24325]  INFO -- : master complete
+I, [2017-12-02T18:17:52.468014 #24596]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:17:54.263533 #24596]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:17:54.263700 #24596]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:17:54.263809 #24596]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:17:54.265786 #24596]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:17:54.266576 #24599]  INFO -- : worker=0 spawned pid=24599
+I, [2017-12-02T18:17:54.266712 #24599]  INFO -- : worker=0 ready
+I, [2017-12-02T18:17:54.267726 #24596]  INFO -- : master process ready
+I, [2017-12-02T18:17:54.275027 #24602]  INFO -- : worker=1 spawned pid=24602
+I, [2017-12-02T18:17:54.275168 #24602]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:20:42.743689 #24596]  INFO -- : reaped #<Process::Status: pid 24599 exit 0> worker=0
+I, [2017-12-02T18:20:42.743825 #24596]  INFO -- : reaped #<Process::Status: pid 24602 exit 0> worker=1
+I, [2017-12-02T18:20:42.743903 #24596]  INFO -- : master complete
+I, [2017-12-02T18:26:30.111940 #24910]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:26:31.879346 #24910]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:26:31.879527 #24910]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:26:31.879647 #24910]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:26:31.881538 #24910]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:26:31.882253 #24914]  INFO -- : worker=0 spawned pid=24914
+I, [2017-12-02T18:26:31.882448 #24914]  INFO -- : worker=0 ready
+I, [2017-12-02T18:26:31.883430 #24910]  INFO -- : master process ready
+I, [2017-12-02T18:26:31.891028 #24917]  INFO -- : worker=1 spawned pid=24917
+I, [2017-12-02T18:26:31.891158 #24917]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:37:46.906268 #24910]  INFO -- : reaped #<Process::Status: pid 24914 exit 0> worker=0
+I, [2017-12-02T18:37:47.006788 #24910]  INFO -- : reaped #<Process::Status: pid 24917 exit 0> worker=1
+I, [2017-12-02T18:37:47.006936 #24910]  INFO -- : master complete
+I, [2017-12-02T18:38:08.684068 #25312]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:38:10.462712 #25312]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:38:10.462903 #25312]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:38:10.463015 #25312]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:38:10.465171 #25312]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:38:10.465910 #25315]  INFO -- : worker=0 spawned pid=25315
+I, [2017-12-02T18:38:10.466227 #25315]  INFO -- : worker=0 ready
+I, [2017-12-02T18:38:10.467189 #25312]  INFO -- : master process ready
+I, [2017-12-02T18:38:10.475201 #25318]  INFO -- : worker=1 spawned pid=25318
+I, [2017-12-02T18:38:10.475343 #25318]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:40:14.609338 #25312]  INFO -- : reaped #<Process::Status: pid 25315 exit 0> worker=0
+I, [2017-12-02T18:40:14.609442 #25312]  INFO -- : reaped #<Process::Status: pid 25318 exit 0> worker=1
+I, [2017-12-02T18:40:14.609510 #25312]  INFO -- : master complete
+I, [2017-12-02T18:41:06.171919 #25479]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:41:07.938782 #25479]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:41:07.938943 #25479]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:41:07.939045 #25479]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:41:07.941015 #25479]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:41:07.941749 #25482]  INFO -- : worker=0 spawned pid=25482
+I, [2017-12-02T18:41:07.941940 #25482]  INFO -- : worker=0 ready
+I, [2017-12-02T18:41:07.942973 #25479]  INFO -- : master process ready
+I, [2017-12-02T18:41:07.947018 #25485]  INFO -- : worker=1 spawned pid=25485
+I, [2017-12-02T18:41:07.947152 #25485]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T18:44:21.025688 #25479]  INFO -- : reaped #<Process::Status: pid 25482 exit 0> worker=0
+I, [2017-12-02T18:44:21.025809 #25479]  INFO -- : reaped #<Process::Status: pid 25485 exit 0> worker=1
+I, [2017-12-02T18:44:21.025874 #25479]  INFO -- : master complete
+I, [2017-12-02T18:45:11.535954 #25655]  INFO -- : Refreshing Gem list
+I, [2017-12-02T18:45:13.270074 #25655]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T18:45:13.270249 #25655]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T18:45:13.270392 #25655]  INFO -- : worker=0 spawning...
+I, [2017-12-02T18:45:13.272389 #25655]  INFO -- : worker=1 spawning...
+I, [2017-12-02T18:45:13.273119 #25658]  INFO -- : worker=0 spawned pid=25658
+I, [2017-12-02T18:45:13.273409 #25658]  INFO -- : worker=0 ready
+I, [2017-12-02T18:45:13.274421 #25655]  INFO -- : master process ready
+I, [2017-12-02T18:45:13.279057 #25661]  INFO -- : worker=1 spawned pid=25661
+I, [2017-12-02T18:45:13.279318 #25661]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:06:21.745884 #25655]  INFO -- : reaped #<Process::Status: pid 25658 exit 0> worker=0
+I, [2017-12-02T19:06:21.746006 #25655]  INFO -- : reaped #<Process::Status: pid 25661 exit 0> worker=1
+I, [2017-12-02T19:06:21.746073 #25655]  INFO -- : master complete
+I, [2017-12-02T19:06:48.956021 #26130]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:06:50.770771 #26130]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:06:50.770953 #26130]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:06:50.771076 #26130]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:06:50.773145 #26130]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:06:50.773889 #26133]  INFO -- : worker=0 spawned pid=26133
+I, [2017-12-02T19:06:50.774032 #26133]  INFO -- : worker=0 ready
+I, [2017-12-02T19:06:50.775151 #26130]  INFO -- : master process ready
+I, [2017-12-02T19:06:50.783095 #26136]  INFO -- : worker=1 spawned pid=26136
+I, [2017-12-02T19:06:50.783421 #26136]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:08:37.346732 #26130]  INFO -- : reaped #<Process::Status: pid 26133 exit 0> worker=0
+I, [2017-12-02T19:08:37.346834 #26130]  INFO -- : reaped #<Process::Status: pid 26136 exit 0> worker=1
+I, [2017-12-02T19:08:37.346902 #26130]  INFO -- : master complete
+I, [2017-12-02T19:21:38.575974 #26557]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:21:40.398518 #26557]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:21:40.398699 #26557]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:21:40.398827 #26557]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:21:40.400844 #26557]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:21:40.401738 #26560]  INFO -- : worker=0 spawned pid=26560
+I, [2017-12-02T19:21:40.401889 #26560]  INFO -- : worker=0 ready
+I, [2017-12-02T19:21:40.403025 #26557]  INFO -- : master process ready
+I, [2017-12-02T19:21:40.407019 #26563]  INFO -- : worker=1 spawned pid=26563
+I, [2017-12-02T19:21:40.407162 #26563]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:29:27.878066 #26557]  INFO -- : reaped #<Process::Status: pid 26560 exit 0> worker=0
+I, [2017-12-02T19:29:27.878189 #26557]  INFO -- : reaped #<Process::Status: pid 26563 exit 0> worker=1
+I, [2017-12-02T19:29:27.878254 #26557]  INFO -- : master complete
+I, [2017-12-02T19:29:49.448068 #26942]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:29:51.212404 #26942]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:29:51.212567 #26942]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:29:51.212682 #26942]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:29:51.214739 #26942]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:29:51.215703 #26942]  INFO -- : master process ready
+I, [2017-12-02T19:29:51.223135 #26945]  INFO -- : worker=0 spawned pid=26945
+I, [2017-12-02T19:29:51.223270 #26945]  INFO -- : worker=0 ready
+I, [2017-12-02T19:29:51.224026 #26947]  INFO -- : worker=1 spawned pid=26947
+I, [2017-12-02T19:29:51.224155 #26947]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:49:13.095712 #26942]  INFO -- : reaped #<Process::Status: pid 26945 exit 0> worker=0
+I, [2017-12-02T19:49:13.095816 #26942]  INFO -- : reaped #<Process::Status: pid 26947 exit 0> worker=1
+I, [2017-12-02T19:49:13.095877 #26942]  INFO -- : master complete
+I, [2017-12-02T19:49:34.960097 #27380]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:49:36.758542 #27380]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:49:36.758719 #27380]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:49:36.758818 #27380]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:49:36.760772 #27380]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:49:36.761496 #27383]  INFO -- : worker=0 spawned pid=27383
+I, [2017-12-02T19:49:36.761644 #27383]  INFO -- : worker=0 ready
+I, [2017-12-02T19:49:36.762682 #27380]  INFO -- : master process ready
+I, [2017-12-02T19:49:36.766994 #27386]  INFO -- : worker=1 spawned pid=27386
+I, [2017-12-02T19:49:36.767131 #27386]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:50:17.188210 #27380]  INFO -- : reaped #<Process::Status: pid 27383 exit 0> worker=0
+I, [2017-12-02T19:50:17.289719 #27380]  INFO -- : reaped #<Process::Status: pid 27386 exit 0> worker=1
+I, [2017-12-02T19:50:17.289918 #27380]  INFO -- : master complete
+I, [2017-12-02T19:52:22.675926 #27542]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:52:24.460498 #27542]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:52:24.460665 #27542]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:52:24.460791 #27542]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:52:24.462835 #27542]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:52:24.463807 #27542]  INFO -- : master process ready
+I, [2017-12-02T19:52:24.471093 #27545]  INFO -- : worker=0 spawned pid=27545
+I, [2017-12-02T19:52:24.471246 #27545]  INFO -- : worker=0 ready
+I, [2017-12-02T19:52:24.472120 #27547]  INFO -- : worker=1 spawned pid=27547
+I, [2017-12-02T19:52:24.472365 #27547]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:53:42.312201 #27542]  INFO -- : reaped #<Process::Status: pid 27545 exit 0> worker=0
+I, [2017-12-02T19:53:42.312307 #27542]  INFO -- : reaped #<Process::Status: pid 27547 exit 0> worker=1
+I, [2017-12-02T19:53:42.312373 #27542]  INFO -- : master complete
+I, [2017-12-02T19:56:05.859857 #27715]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:56:07.610964 #27715]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:56:07.611167 #27715]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:56:07.611270 #27715]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:56:07.613171 #27715]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:56:07.613899 #27718]  INFO -- : worker=0 spawned pid=27718
+I, [2017-12-02T19:56:07.614032 #27718]  INFO -- : worker=0 ready
+I, [2017-12-02T19:56:07.615094 #27715]  INFO -- : master process ready
+I, [2017-12-02T19:56:07.622940 #27721]  INFO -- : worker=1 spawned pid=27721
+I, [2017-12-02T19:56:07.623083 #27721]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T19:57:50.076653 #27715]  INFO -- : reaped #<Process::Status: pid 27718 exit 0> worker=0
+I, [2017-12-02T19:57:50.076749 #27715]  INFO -- : reaped #<Process::Status: pid 27721 exit 0> worker=1
+I, [2017-12-02T19:57:50.076812 #27715]  INFO -- : master complete
+I, [2017-12-02T19:58:31.839933 #27882]  INFO -- : Refreshing Gem list
+I, [2017-12-02T19:58:33.599068 #27882]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T19:58:33.599233 #27882]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T19:58:33.599331 #27882]  INFO -- : worker=0 spawning...
+I, [2017-12-02T19:58:33.601261 #27882]  INFO -- : worker=1 spawning...
+I, [2017-12-02T19:58:33.601988 #27886]  INFO -- : worker=0 spawned pid=27886
+I, [2017-12-02T19:58:33.602118 #27886]  INFO -- : worker=0 ready
+I, [2017-12-02T19:58:33.603150 #27882]  INFO -- : master process ready
+I, [2017-12-02T19:58:33.610881 #27889]  INFO -- : worker=1 spawned pid=27889
+I, [2017-12-02T19:58:33.610995 #27889]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T20:02:32.132791 #27882]  INFO -- : reaped #<Process::Status: pid 27886 exit 0> worker=0
+I, [2017-12-02T20:02:32.133019 #27882]  INFO -- : reaped #<Process::Status: pid 27889 exit 0> worker=1
+I, [2017-12-02T20:02:32.133094 #27882]  INFO -- : master complete
+I, [2017-12-02T20:02:52.323947 #28073]  INFO -- : Refreshing Gem list
+I, [2017-12-02T20:02:54.129068 #28073]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T20:02:54.129265 #28073]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T20:02:54.129361 #28073]  INFO -- : worker=0 spawning...
+I, [2017-12-02T20:02:54.131346 #28073]  INFO -- : worker=1 spawning...
+I, [2017-12-02T20:02:54.132378 #28073]  INFO -- : master process ready
+I, [2017-12-02T20:02:54.139116 #28077]  INFO -- : worker=0 spawned pid=28077
+I, [2017-12-02T20:02:54.139250 #28077]  INFO -- : worker=0 ready
+I, [2017-12-02T20:02:54.139961 #28079]  INFO -- : worker=1 spawned pid=28079
+I, [2017-12-02T20:02:54.140100 #28079]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T20:09:37.249802 #28073]  INFO -- : reaped #<Process::Status: pid 28077 exit 0> worker=0
+I, [2017-12-02T20:09:37.249907 #28073]  INFO -- : reaped #<Process::Status: pid 28079 exit 0> worker=1
+I, [2017-12-02T20:09:37.249984 #28073]  INFO -- : master complete
+I, [2017-12-02T20:10:05.524024 #28569]  INFO -- : Refreshing Gem list
+I, [2017-12-02T20:10:07.288582 #28569]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T20:10:07.288770 #28569]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T20:10:07.288870 #28569]  INFO -- : worker=0 spawning...
+I, [2017-12-02T20:10:07.290846 #28569]  INFO -- : worker=1 spawning...
+I, [2017-12-02T20:10:07.291795 #28569]  INFO -- : master process ready
+I, [2017-12-02T20:10:07.299148 #28572]  INFO -- : worker=0 spawned pid=28572
+I, [2017-12-02T20:10:07.299314 #28572]  INFO -- : worker=0 ready
+I, [2017-12-02T20:10:07.300071 #28574]  INFO -- : worker=1 spawned pid=28574
+I, [2017-12-02T20:10:07.300388 #28574]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+I, [2017-12-02T20:12:58.544204 #28569]  INFO -- : reaped #<Process::Status: pid 28572 exit 0> worker=0
+I, [2017-12-02T20:12:58.544306 #28569]  INFO -- : reaped #<Process::Status: pid 28574 exit 0> worker=1
+I, [2017-12-02T20:12:58.544369 #28569]  INFO -- : master complete
+I, [2017-12-02T20:13:13.603854 #28756]  INFO -- : Refreshing Gem list
+I, [2017-12-02T20:13:15.358772 #28756]  INFO -- : unlinking existing socket=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock
+I, [2017-12-02T20:13:15.358937 #28756]  INFO -- : listening on addr=/home/ubuntu/prelaunchr1/shared/sockets/unicorn.sock fd=7
+I, [2017-12-02T20:13:15.359070 #28756]  INFO -- : worker=0 spawning...
+I, [2017-12-02T20:13:15.361142 #28756]  INFO -- : worker=1 spawning...
+I, [2017-12-02T20:13:15.361860 #28759]  INFO -- : worker=0 spawned pid=28759
+I, [2017-12-02T20:13:15.361974 #28759]  INFO -- : worker=0 ready
+I, [2017-12-02T20:13:15.363003 #28756]  INFO -- : master process ready
+I, [2017-12-02T20:13:15.367039 #28762]  INFO -- : worker=1 spawned pid=28762
+I, [2017-12-02T20:13:15.367168 #28762]  INFO -- : worker=1 ready
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+The PGconn, PGresult, and PGError constants are deprecated, and will be
+removed as of version 1.0.
+
+You should use PG::Connection, PG::Result, and PG::Error instead, respectively.
+
+Called from /home/ubuntu/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/activerecord-4.2.1/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
